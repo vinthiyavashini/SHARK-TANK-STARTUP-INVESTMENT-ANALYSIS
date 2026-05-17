@@ -1,0 +1,607 @@
+Startup Name,Industry,Founder(s),City,Year,Asked Amount (INR),Equity Offered (%),Deal Status,Investor(s),Invested Amount (INR),Equity Taken (%),Valuation (INR)
+Startup 1,Education,"Tanya Verma, Ravi Patel, Ravi Chopra",Hyderabad,2023,61300000,7.68,Yes, Namita Thapar,40694846,7.44,798177083
+Startup 2,Entertainment,Sneha Verma,Hyderabad,2024,9100000,21.53,Yes,"Peyush Bansal, Namita Thapar",6052060,20.28,42266604
+Startup 3,Fashion,"Sneha Singh, Rahul Nair, Pooja Mehta",Kolkata,2022,28600000,24.75,Yes,,26802225,27.48,115555555
+Startup 4,Education,"Meera Chopra, Meera Mehta, Arjun Mehta",Hyderabad,2024,77400000,15.03,No,,0,0,514970059
+Startup 5,Travel,Arjun Chopra,Delhi,2023,1300000,23.89,No,,0,0,5441607
+Startup 6,E-commerce,Ravi Sharma,Chennai,2025,16600000,9.97,Yes,Anupam Mittal,15130079,10.09,166499498
+Startup 7,Food & Beverage,Meera Nair,Delhi,2024,55000000,21.94,No,,0,0,250683682
+Startup 8,Health,"Ravi Patel, Tanya Patel, Amit Sharma",Mumbai,2025,7900000,22.73,No,,0,0,34755829
+Startup 9,Tech,"Pooja Kapoor, Meera Patel, Ravi Mehta",Kolkata,2025,81300000,12.35,No,,0,0,658299595
+Startup 10,Education,Sneha Chopra,Pune,2022,43000000,12.21,Yes,,42727641,10.25,352170352
+Startup 11,Fashion,"Arjun Chopra, Ravi Gupta",Delhi,2025,31300000,6.22,Yes,Vineeta Singh,25568283,6.84,503215434
+Startup 12,Fashion,Nidhi Patel,Chennai,2022,14400000,17.12,No,,0,0,84112149
+Startup 13,Food & Beverage,"Sneha Patel, Nidhi Kapoor",Delhi,2023,86300000,14.04,No,,0,0,614672364
+Startup 14,Entertainment,"Rahul Chopra, Rahul Verma, Arjun Reddy",Mumbai,2021,22500000,17.37,Yes,"Ghazal Alagh, Anupam Mittal, Vineeta Singh",20245298,20.33,129533678
+Startup 15,Education,"Rahul Sharma, Karan Verma",Kolkata,2025,21400000,20.6,No,,0,0,103883495
+Startup 16,Travel,"Pooja Patel, Amit Patel",Ahmedabad,2021,29500000,21.74,No,,0,0,135694572
+Startup 17,Health,Tanya Chopra,Pune,2021,45600000,15.55,Yes,"Ashneer Grover, Namita Thapar, Aman Gupta",40288243,12.45,293247588
+Startup 18,Finance,"Karan Kapoor, Ravi Mehta",Hyderabad,2022,69000000,23.57,Yes,,49706216,24.02,292745014
+Startup 19,Health,"Arjun Patel, Karan Singh",Pune,2023,46200000,11.61,Yes,Namita Thapar,42388230,13.75,397932816
+Startup 20,Food & Beverage,"Sneha Kapoor, Ravi Singh, Nidhi Sharma",Hyderabad,2024,24000000,20.36,Yes,Anupam Mittal,20268230,22.55,117878192
+Startup 21,Agriculture,"Tanya Patel, Karan Gupta",Ahmedabad,2025,16100000,16.75,Yes,,15201237,19.33,96119402
+Startup 22,Agriculture,"Ravi Chopra, Ravi Gupta, Rahul Gupta",Kolkata,2024,77900000,6.93,No,,0,0,1124098124
+Startup 23,E-commerce,"Pooja Kapoor, Meera Sharma",Chennai,2025,28800000,9.06,Yes,Anupam Mittal,25274301,9.81,317880794
+Startup 24,Entertainment,"Amit Singh, Karan Gupta, Amit Reddy",Chennai,2022,88300000,22.4,No,,0,0,394196428
+Startup 25,E-commerce,"Ravi Singh, Pooja Gupta, Pooja Kapoor",Ahmedabad,2023,3900000,10.33,No,,0,0,37754114
+Startup 26,Travel,Meera Reddy,Pune,2022,29400000,19.05,No,,0,0,154330708
+Startup 27,Fashion,Meera Verma,Mumbai,2021,23900000,16.6,Yes,Ashneer Grover,23418288,14.6,143975903
+Startup 28,Health,"Rahul Patel, Rahul Gupta, Sneha Singh",Hyderabad,2023,72600000,7.15,No,,0,0,1015384615
+Startup 29,Food & Beverage,"Tanya Sharma, Rahul Kapoor, Sneha Singh",Mumbai,2024,59900000,17.26,No,,0,0,347045191
+Startup 30,Tech,"Nidhi Verma, Karan Gupta, Sneha Chopra",Pune,2023,73400000,4.67,Yes,,72386308,4.24,1571734475
+Startup 31,E-commerce,"Meera Chopra, Tanya Kapoor",Pune,2025,86000000,23.43,No,,0,0,367050789
+Startup 32,Agriculture,Meera Singh,Ahmedabad,2021,3900000,12.86,No,,0,0,30326594
+Startup 33,Food & Beverage,"Pooja Reddy, Arjun Reddy",Chennai,2024,57900000,1.24,Yes,"Anupam Mittal, Ghazal Alagh, Vineeta Singh",52299093,1.33,4669354838
+Startup 34,Agriculture,"Amit Sharma, Arjun Patel",Ahmedabad,2025,32300000,16.94,No,,0,0,190672963
+Startup 35,Agriculture,"Ravi Reddy, Karan Nair, Nidhi Reddy",Kolkata,2024,32300000,7.03,Yes,,23456879,7.71,459459459
+Startup 36,Food & Beverage,Pooja Gupta,Chennai,2024,11200000,20.98,No,,0,0,53384175
+Startup 37,Education,"Rahul Kapoor, Amit Nair",Delhi,2024,5600000,24.38,No,,0,0,22969647
+Startup 38,Food & Beverage,"Meera Sharma, Amit Singh, Arjun Gupta",Kolkata,2023,35800000,5.42,Yes,"Aman Gupta, Ghazal Alagh",27218130,4.5,660516605
+Startup 39,Entertainment,"Tanya Patel, Ravi Chopra, Meera Gupta",Chennai,2022,32200000,14.65,Yes,,28852350,17.27,219795221
+Startup 40,Fashion,Pooja Kapoor,Chennai,2023,8200000,17.5,No,,0,0,46857142
+Startup 41,Entertainment,"Tanya Kapoor, Meera Sharma, Meera Kapoor",Ahmedabad,2024,52200000,13.96,No,,0,0,373925501
+Startup 42,Tech,"Amit Chopra, Nidhi Singh, Arjun Verma",Bangalore,2025,99400000,17.18,Yes,,86369915,15.6,578579743
+Startup 43,Health,Meera Nair,Kolkata,2024,19500000,24.93,No,,0,0,78219013
+Startup 44,Agriculture,Meera Reddy,Ahmedabad,2021,33800000,17.08,Yes,"Anupam Mittal, Namita Thapar, Ghazal Alagh",31279412,17.42,197892271
+Startup 45,Tech,Tanya Patel,Delhi,2024,57400000,1.33,No,,0,0,4315789473
+Startup 46,E-commerce,"Arjun Chopra, Meera Gupta, Pooja Gupta",Delhi,2022,20500000,23.12,Yes,Ghazal Alagh,14565228,25.8,88667820
+Startup 47,Finance,"Ravi Kapoor, Amit Kapoor",Chennai,2023,89600000,4.57,No,,0,0,1960612691
+Startup 48,Travel,"Ravi Nair, Karan Gupta",Pune,2025,72400000,6.73,No,,0,0,1075780089
+Startup 49,Travel,"Ravi Chopra, Nidhi Gupta, Ravi Verma",Bangalore,2025,65600000,17.43,No,,0,0,376362593
+Startup 50,Food & Beverage,Rahul Sharma,Ahmedabad,2025,51900000,22.91,Yes,"Namita Thapar, Anupam Mittal, Ghazal Alagh",44983613,26.57,226538629
+Startup 51,Agriculture,"Ravi Mehta, Sneha Gupta",Pune,2024,66400000,24.09,No,,0,0,275633042
+Startup 52,Agriculture,"Pooja Chopra, Meera Sharma",Hyderabad,2022,59500000,9.62,No,,0,0,618503118
+Startup 53,Fashion,Tanya Reddy,Hyderabad,2025,64500000,7.02,Yes,,62007815,7.43,918803418
+Startup 54,Fashion,"Amit Singh, Nidhi Mehta",Bangalore,2024,34400000,18.94,Yes,"Namita Thapar, Vineeta Singh, Peyush Bansal",33209580,21.44,181626187
+Startup 55,E-commerce,"Sneha Chopra, Amit Kapoor",Bangalore,2023,38700000,17.15,No,,0,0,225655976
+Startup 56,Entertainment,"Nidhi Sharma, Pooja Gupta",Mumbai,2021,94700000,15.64,Yes,,74406454,16.9,605498721
+Startup 57,Finance,Rahul Verma,Mumbai,2024,51400000,3.79,Yes,"Ghazal Alagh,",33629252,3.72,1356200527
+Startup 58,E-commerce,"Tanya Mehta, Karan Sharma",Kolkata,2022,97100000,23.84,Yes,Peyush Bansal,66698754,23.31,407298657
+Startup 59,Education,"Sneha Reddy, Ravi Reddy",Mumbai,2022,29200000,5.56,Yes,,27146551,4.65,525179856
+Startup 60,E-commerce,"Sneha Gupta, Ravi Patel, Tanya Verma",Chennai,2023,66800000,24.14,Yes,,62719817,23.43,276719138
+Startup 61,Finance,"Sneha Reddy, Karan Reddy, Arjun Reddy",Delhi,2023,7800000,3.19,Yes,Peyush Bansal,6985043,3.59,244514106
+Startup 62,E-commerce,"Tanya Nair, Amit Singh, Arjun Verma",Delhi,2024,72900000,19.3,No,,0,0,377720207
+Startup 63,Tech,"Amit Chopra, Amit Gupta",Bangalore,2021,59900000,11.3,No,,0,0,530088495
+Startup 64,Finance,"Sneha Chopra, Amit Reddy",Delhi,2023,86100000,17.55,No,,0,0,490598290
+Startup 65,Education,"Rahul Sharma, Ravi Sharma",Hyderabad,2021,36900000,18.46,Yes,Namita Thapar,25051731,19.22,199891657
+Startup 66,Tech,Meera Gupta,Kolkata,2021,89400000,24.3,No,,0,0,367901234
+Startup 67,Tech,"Rahul Verma, Pooja Gupta, Meera Nair",Delhi,2021,39100000,23.03,No,,0,0,169778549
+Startup 68,Fashion,"Tanya Mehta, Nidhi Sharma, Tanya Mehta",Pune,2024,100000000,16.75,No,,0,0,597014925
+Startup 69,Food & Beverage,"Sneha Kapoor, Ravi Chopra, Nidhi Mehta",Bangalore,2022,53000000,9.68,No,,0,0,547520661
+Startup 70,Fashion,Pooja Reddy,Kolkata,2025,24100000,25,Yes,Vineeta Singh,21891232,28.35,96400000
+Startup 71,E-commerce,Nidhi Singh,Delhi,2022,16700000,4.89,Yes,,10311865,4.62,341513292
+Startup 72,Education,"Tanya Kapoor, Meera Patel",Hyderabad,2024,99800000,20.41,No,,0,0,488975992
+Startup 73,Education,"Tanya Gupta, Meera Kapoor",Ahmedabad,2022,99900000,4.89,Yes,,65470405,4.4,2042944785
+Startup 74,E-commerce,Karan Sharma,Hyderabad,2023,91500000,9.39,Yes,"Vineeta Singh, Namita Thapar",63529477,11.25,974440894
+Startup 75,Travel,Amit Reddy,Bangalore,2021,82000000,4.51,Yes,"Peyush Bansal, Ashneer Grover",74089989,4.45,1818181818
+Startup 76,Entertainment,Sneha Verma,Chennai,2025,86500000,4.59,No,,0,0,1884531590
+Startup 77,Tech,"Pooja Kapoor, Sneha Verma",Hyderabad,2022,66400000,20.05,No,,0,0,331172069
+Startup 78,Tech,Meera Singh,Mumbai,2025,74500000,4.45,No,,0,0,1674157303
+Startup 79,Food & Beverage,"Meera Gupta, Rahul Mehta, Sneha Gupta",Mumbai,2024,21600000,2.05,Yes,,15686747,1.89,1053658536
+Startup 80,Finance,"Meera Kapoor, Amit Patel, Arjun Reddy",Mumbai,2021,28900000,3.99,No,,0,0,724310776
+Startup 81,Finance,"Meera Chopra, Nidhi Mehta",Kolkata,2023,38600000,23.18,No,,0,0,166522864
+Startup 82,Tech,"Karan Sharma, Karan Singh, Rahul Nair",Chennai,2021,11500000,2.92,No,,0,0,393835616
+Startup 83,Fashion,"Tanya Chopra, Rahul Gupta",Pune,2023,5300000,18.44,No,,0,0,28741865
+Startup 84,Health,Sneha Patel,Pune,2021,40200000,23.79,Yes,"Peyush Bansal, Ashneer Grover",35039317,28.06,168978562
+Startup 85,Travel,"Sneha Singh, Rahul Nair",Pune,2022,33100000,16.59,Yes,"Anupam Mittal, Ghazal Alagh",20203092,14.51,199517781
+Startup 86,E-commerce,"Ravi Sharma, Arjun Kapoor",Kolkata,2025,63600000,7.85,No,,0,0,810191082
+Startup 87,Travel,"Sneha Nair, Ravi Kapoor, Arjun Mehta",Delhi,2021,53000000,6.38,Yes,,36818807,6.36,830721003
+Startup 88,Education,"Ravi Kapoor, Sneha Kapoor",Hyderabad,2024,13800000,16,Yes,,9210870,18.83,86250000
+Startup 89,Finance,"Amit Gupta, Ravi Kapoor, Arjun Gupta",Hyderabad,2022,31400000,11.89,Yes,"Anupam Mittal, Ghazal Alagh",21402529,12.4,264087468
+Startup 90,Travel,"Nidhi Reddy, Karan Mehta, Nidhi Nair",Bangalore,2021,25700000,12.2,No,,0,0,210655737
+Startup 91,Agriculture,Rahul Sharma,Mumbai,2024,97800000,10.22,No,,0,0,956947162
+Startup 92,Education,Nidhi Singh,Pune,2025,79100000,4.82,No,,0,0,1641078838
+Startup 93,Agriculture,"Meera Verma, Sneha Chopra",Kolkata,2025,23000000,15,Yes,"Vineeta Singh, Peyush Bansal",19987189,13.71,153333333
+Startup 94,Health,Karan Mehta,Chennai,2021,79200000,10.68,Yes,"Vineeta Singh, Ashneer Grover, Namita Thapar",65046102,8.86,741573033
+Startup 95,Entertainment,"Ravi Nair, Ravi Gupta",Chennai,2023,84500000,1.4,No,,0,0,6035714285
+Startup 96,Tech,"Tanya Kapoor, Amit Singh",Kolkata,2024,100000000,16.73,Yes,,83340931,14.53,597728631
+Startup 97,Entertainment,"Rahul Patel, Amit Singh",Bangalore,2025,2900000,11.58,No,,0,0,25043177
+Startup 98,Finance,"Rahul Gupta, Ravi Reddy",Pune,2024,63400000,12.62,Yes,"Ashneer Grover, Namita Thapar",57596979,13.65,502377179
+Startup 99,Finance,"Rahul Kapoor, Amit Kapoor",Bangalore,2021,95600000,11.62,No,,0,0,822719449
+Startup 100,Agriculture,Pooja Nair,Chennai,2024,15000000,3.62,Yes,"Vineeta Singh, Ashneer Grover, Peyush Bansal",9314946,3.49,414364640
+Startup 101,Agriculture,Rahul Verma,Delhi,2022,67800000,23.44,No,,0,0,289249146
+Startup 102,Food & Beverage,Karan Gupta,Delhi,2024,90700000,1.9,No,,0,0,4773684210
+Startup 103,Education,Nidhi Mehta,Kolkata,2024,74500000,5.47,No,,0,0,1361974405
+Startup 104,Health,"Karan Patel, Meera Kapoor",Pune,2024,60600000,18.35,Yes,"Peyush Bansal, Ashneer Grover",37865893,15.55,330245231
+Startup 105,Travel,"Pooja Patel, Rahul Gupta, Rahul Gupta",Pune,2022,72800000,14.18,No,,0,0,513399153
+Startup 106,Travel,"Meera Chopra, Karan Sharma",Delhi,2021,13100000,5.28,No,,0,0,248106060
+Startup 107,E-commerce,Pooja Verma,Mumbai,2024,48400000,17.16,No,,0,0,282051282
+Startup 108,E-commerce,"Pooja Patel, Meera Reddy",Delhi,2024,20300000,23.5,Yes,"Anupam Mittal, Vineeta Singh, Aman Gupta",14134210,19.43,86382978
+Startup 109,Entertainment,Meera Singh,Mumbai,2025,76800000,2.06,No,,0,0,3728155339
+Startup 110,Education,"Pooja Verma, Rahul Nair, Arjun Patel",Pune,2021,25200000,8.24,Yes,,20374210,7.96,305825242
+Startup 111,Fashion,Ravi Singh,Delhi,2022,57900000,12.89,No,,0,0,449185415
+Startup 112,Finance,"Nidhi Chopra, Karan Mehta, Arjun Chopra",Delhi,2023,25600000,21.38,No,,0,0,119738072
+Startup 113,Food & Beverage,"Amit Nair, Karan Chopra",Delhi,2022,25800000,7.12,No,,0,0,362359550
+Startup 114,Tech,"Nidhi Sharma, Ravi Patel",Mumbai,2024,39600000,17.17,Yes,"Vineeta Singh, Ashneer Grover, Namita Thapar",26740506,18.97,230634828
+Startup 115,E-commerce,Meera Patel,Pune,2024,98900000,22.82,Yes,Aman Gupta,97399788,19.33,433391761
+Startup 116,Agriculture,Tanya Patel,Ahmedabad,2025,57500000,8.72,No,,0,0,659403669
+Startup 117,Finance,"Ravi Reddy, Arjun Kapoor",Pune,2023,48700000,3.37,No,,0,0,1445103857
+Startup 118,Education,"Tanya Patel, Meera Nair",Pune,2024,79100000,20.72,No,,0,0,381756756
+Startup 119,Agriculture,Nidhi Mehta,Delhi,2023,19800000,23.01,Yes,"Anupam Mittal, Vineeta Singh, Aman Gupta",18525422,19.09,86049543
+Startup 120,Finance,Nidhi Chopra,Kolkata,2025,72300000,6.42,Yes,,68199698,7.09,1126168224
+Startup 121,Finance,"Nidhi Singh, Sneha Nair, Amit Patel",Hyderabad,2023,28700000,2.12,Yes,Vineeta Singh,20438682,2.16,1353773584
+Startup 122,Tech,"Rahul Singh, Pooja Singh",Ahmedabad,2021,40300000,19.13,Yes,,35291685,15.9,210663878
+Startup 123,Travel,Arjun Gupta,Kolkata,2025,37400000,14.27,No,,0,0,262088297
+Startup 124,Finance,Tanya Chopra,Bangalore,2024,82700000,6.91,Yes,Anupam Mittal,73162280,7.28,1196816208
+Startup 125,Finance,"Nidhi Sharma, Sneha Verma",Chennai,2023,37800000,19.27,Yes,Anupam Mittal,29466516,19.69,196159833
+Startup 126,Agriculture,Nidhi Kapoor,Hyderabad,2023,61800000,15.8,No,,0,0,391139240
+Startup 127,Tech,Arjun Verma,Ahmedabad,2021,87100000,15.88,No,,0,0,548488664
+Startup 128,Agriculture,"Karan Singh, Rahul Kapoor",Pune,2025,50000000,8.54,No,,0,0,585480093
+Startup 129,Travel,"Meera Singh, Pooja Reddy",Ahmedabad,2024,84600000,19.86,No,,0,0,425981873
+Startup 130,Tech,"Pooja Singh, Ravi Mehta, Ravi Verma",Kolkata,2025,45800000,20.14,Yes,Vineeta Singh,42056433,19.41,227408142
+Startup 131,Entertainment,Tanya Chopra,Pune,2022,11800000,1.25,No,,0,0,944000000
+Startup 132,Education,"Ravi Nair, Tanya Singh, Pooja Gupta",Pune,2022,48400000,19.54,Yes,Anupam Mittal,31064075,18.88,247697031
+Startup 133,Tech,Rahul Reddy,Chennai,2021,47600000,19.82,No,,0,0,240161453
+Startup 134,Travel,"Sneha Gupta, Meera Reddy",Bangalore,2024,5500000,20.44,Yes,"Peyush Bansal, Aman Gupta",4789706,17.7,26908023
+Startup 135,Education,"Rahul Nair, Rahul Reddy, Ravi Chopra",Kolkata,2025,82600000,10.72,Yes,"Anupam Mittal, Ghazal Alagh, Aman Gupta",73923311,12.36,770522388
+Startup 136,Agriculture,"Nidhi Singh, Karan Singh, Karan Singh",Bangalore,2021,37000000,21.29,Yes,,32648627,19.57,173790511
+Startup 137,Agriculture,Pooja Chopra,Kolkata,2022,71100000,12.8,No,,0,0,555468750
+Startup 138,Agriculture,Sneha Singh,Mumbai,2025,30900000,1.78,Yes,,20619062,1.75,1735955056
+Startup 139,Education,"Amit Gupta, Arjun Reddy",Bangalore,2023,89600000,24.85,Yes,"Vineeta Singh, Peyush Bansal, Namita Thapar",84619985,25.95,360563380
+Startup 140,Finance,Tanya Mehta,Hyderabad,2025,83400000,2.42,No,,0,0,3446280991
+Startup 141,E-commerce,"Tanya Nair, Rahul Reddy",Chennai,2024,59600000,7.42,Yes,"Aman Gupta, Namita Thapar",56430414,6.31,803234501
+Startup 142,Food & Beverage,Rahul Reddy,Hyderabad,2022,51100000,4.41,No,,0,0,1158730158
+Startup 143,Finance,"Meera Sharma, Sneha Chopra",Chennai,2021,47500000,23.81,No,,0,0,199496010
+Startup 144,Travel,"Nidhi Nair, Tanya Mehta",Kolkata,2021,92500000,17.38,Yes,"Ghazal Alagh, Anupam Mittal, Aman Gupta",60096775,19.87,532220943
+Startup 145,Tech,"Nidhi Kapoor, Sneha Reddy, Rahul Verma",Ahmedabad,2024,75300000,17.79,Yes,Peyush Bansal,48046932,15.75,423271500
+Startup 146,Finance,"Rahul Patel, Arjun Sharma",Hyderabad,2024,80700000,23.59,Yes,,69673325,21.72,342094107
+Startup 147,E-commerce,"Ravi Patel, Karan Kapoor, Amit Patel",Kolkata,2022,12500000,6.79,Yes,Vineeta Singh,12388484,8.11,184094256
+Startup 148,Travel,Karan Singh,Ahmedabad,2021,56900000,17.39,No,,0,0,327199539
+Startup 149,Tech,Tanya Sharma,Mumbai,2024,23000000,1.96,Yes,Ghazal Alagh,17461370,1.79,1173469387
+Startup 150,E-commerce,"Karan Chopra, Sneha Nair",Delhi,2024,9500000,8.44,Yes,,6290433,7.86,112559241
+Startup 151,Entertainment,"Sneha Kapoor, Karan Patel, Amit Patel",Bangalore,2022,12800000,11.88,Yes,"Peyush Bansal, Ghazal Alagh, Ashneer Grover",8291548,12.87,107744107
+Startup 152,Fashion,"Sneha Nair, Meera Verma",Pune,2025,30800000,14.53,No,,0,0,211975223
+Startup 153,Entertainment,Meera Reddy,Kolkata,2025,76000000,22.61,Yes,"Aman Gupta, Ashneer Grover",62062974,23.84,336134453
+Startup 154,Health,"Amit Chopra, Arjun Sharma",Hyderabad,2025,43900000,12.81,Yes,,28840078,11.68,342701014
+Startup 155,Health,Ravi Chopra,Pune,2023,77500000,3.04,Yes,,66253686,2.91,2549342105
+Startup 156,Entertainment,"Amit Chopra, Rahul Patel, Arjun Kapoor",Pune,2022,72700000,20.97,No,,0,0,346685741
+Startup 157,Agriculture,"Karan Sharma, Ravi Reddy",Hyderabad,2023,32500000,12.12,Yes,"Namita Thapar, Peyush Bansal, Vineeta Singh",20024287,13.75,268151815
+Startup 158,Travel,Sneha Patel,Pune,2022,53500000,2.17,No,,0,0,2465437788
+Startup 159,Fashion,Amit Chopra,Kolkata,2025,10600000,12.09,Yes,Ghazal Alagh,9671270,10.75,87675765
+Startup 160,Agriculture,Karan Chopra,Delhi,2021,22900000,22.8,No,,0,0,100438596
+Startup 161,Fashion,"Rahul Verma, Tanya Singh",Hyderabad,2024,52000000,10.89,No,,0,0,477502295
+Startup 162,Health,Arjun Chopra,Delhi,2022,21400000,16.42,Yes,"Anupam Mittal, Peyush Bansal, Aman Gupta",19706558,18.36,130328867
+Startup 163,Finance,"Nidhi Gupta, Ravi Gupta, Nidhi Singh",Pune,2022,28600000,5.32,No,,0,0,537593984
+Startup 164,Entertainment,Amit Kapoor,Mumbai,2023,55200000,9.58,Yes,,35330966,10.18,576200417
+Startup 165,Fashion,"Amit Patel, Tanya Chopra, Nidhi Mehta",Delhi,2025,61600000,8.63,No,,0,0,713789107
+Startup 166,Entertainment,Nidhi Singh,Delhi,2025,86600000,24.71,No,,0,0,350465398
+Startup 167,E-commerce,"Rahul Gupta, Amit Sharma",Mumbai,2025,62600000,6.25,No,,0,0,1001600000
+Startup 168,Health,"Tanya Patel, Rahul Reddy",Delhi,2021,7000000,1.53,Yes,Ghazal Alagh,6570146,1.75,457516339
+Startup 169,Tech,"Karan Singh, Sneha Reddy",Chennai,2021,14900000,24.42,No,,0,0,61015561
+Startup 170,Agriculture,"Nidhi Mehta, Ravi Singh, Nidhi Patel",Delhi,2022,32400000,18.62,No,,0,0,174006444
+Startup 171,Travel,"Sneha Patel, Nidhi Reddy, Rahul Sharma",Pune,2023,2100000,7.37,Yes,,1554404,8.22,28493894
+Startup 172,Health,"Arjun Sharma, Sneha Reddy",Delhi,2022,17400000,18.57,Yes,"Anupam Mittal, Peyush Bansal, Aman Gupta",13442010,19.71,93699515
+Startup 173,Entertainment,"Rahul Verma, Sneha Reddy",Hyderabad,2025,42900000,17.73,No,,0,0,241962774
+Startup 174,Tech,"Tanya Gupta, Pooja Sharma",Mumbai,2025,18400000,16.32,Yes,Namita Thapar,16816691,16.13,112745098
+Startup 175,Fashion,Ravi Chopra,Delhi,2021,91600000,10.15,Yes,"Anupam Mittal, Ghazal Alagh",64611005,11.52,902463054
+Startup 176,Entertainment,Rahul Sharma,Bangalore,2021,83700000,13.99,Yes,,78369889,15.77,598284488
+Startup 177,Food & Beverage,Karan Sharma,Ahmedabad,2025,85200000,16.05,No,,0,0,530841121
+Startup 178,Travel,"Sneha Sharma, Karan Nair, Karan Nair",Pune,2024,54200000,12,Yes,Namita Thapar,46027895,12.11,451666666
+Startup 179,Fashion,"Meera Sharma, Pooja Mehta",Chennai,2023,80200000,20.82,No,,0,0,385206532
+Startup 180,Education,Amit Patel,Mumbai,2023,6100000,23.03,Yes,"Vineeta Singh, Anupam Mittal",5210399,19.57,26487190
+Startup 181,Fashion,"Karan Reddy, Meera Kapoor",Hyderabad,2023,31900000,17.25,No,,0,0,184927536
+Startup 182,Entertainment,Amit Nair,Pune,2024,31500000,17.43,No,,0,0,180722891
+Startup 183,Tech,"Arjun Reddy, Arjun Kapoor",Chennai,2025,16300000,13.42,Yes,,15031402,15.04,121460506
+Startup 184,Entertainment,"Nidhi Mehta, Amit Gupta",Chennai,2024,93800000,11.05,No,,0,0,848868778
+Startup 185,Health,"Tanya Patel, Nidhi Patel, Ravi Gupta",Pune,2024,87500000,5.08,Yes,"Ashneer Grover, Peyush Bansal",61552814,5.71,1722440944
+Startup 186,Food & Beverage,"Nidhi Sharma, Pooja Reddy, Pooja Kapoor",Ahmedabad,2021,39000000,7.25,No,,0,0,537931034
+Startup 187,Agriculture,Meera Verma,Bangalore,2023,92000000,5.67,Yes,Namita Thapar,69245427,5.21,1622574955
+Startup 188,Health,Rahul Patel,Pune,2022,59300000,22.43,No,,0,0,264378065
+Startup 189,Food & Beverage,"Rahul Sharma, Meera Reddy",Delhi,2021,65900000,2.39,No,,0,0,2757322175
+Startup 190,Fashion,Rahul Singh,Delhi,2023,81400000,19.33,Yes,"Peyush Bansal, Anupam Mittal",61974491,22.93,421107087
+Startup 191,Finance,Amit Nair,Hyderabad,2021,98200000,1.34,No,,0,0,7328358208
+Startup 192,E-commerce,Amit Verma,Hyderabad,2025,72000000,22.05,No,,0,0,326530612
+Startup 193,Travel,Rahul Chopra,Mumbai,2025,23900000,18.45,Yes,Vineeta Singh,19164296,15.67,129539295
+Startup 194,E-commerce,"Meera Mehta, Pooja Verma",Chennai,2022,68700000,3.42,No,,0,0,2008771929
+Startup 195,Education,"Karan Kapoor, Rahul Verma",Kolkata,2025,71400000,23.39,No,,0,0,305258657
+Startup 196,Education,Amit Sharma,Bangalore,2023,16200000,23.79,Yes,,10376362,21.47,68095838
+Startup 197,Entertainment,"Sneha Reddy, Nidhi Mehta",Bangalore,2022,41900000,24.1,No,,0,0,173858921
+Startup 198,Travel,Ravi Singh,Hyderabad,2021,54100000,13.55,Yes,"Ashneer Grover, Anupam Mittal, Namita Thapar",46822698,14.32,399261992
+Startup 199,Education,"Arjun Verma, Ravi Patel",Ahmedabad,2022,84600000,6.64,No,,0,0,1274096385
+Startup 200,Travel,"Tanya Singh, Meera Reddy, Meera Sharma",Bangalore,2025,1200000,9.19,No,,0,0,13057671
+Startup 201,Travel,Karan Verma,Bangalore,2023,47800000,16.8,Yes,,28762935,18.39,284523809
+Startup 202,E-commerce,"Karan Singh, Pooja Kapoor",Ahmedabad,2021,31100000,11.87,Yes,"Peyush Bansal, Ghazal Alagh, Vineeta Singh",22378479,12.83,262005054
+Startup 203,Tech,"Ravi Gupta, Tanya Singh",Ahmedabad,2024,90800000,21.34,Yes,Vineeta Singh,55397884,18.31,425492033
+Startup 204,Health,Arjun Mehta,Chennai,2024,15900000,21.15,No,,0,0,75177304
+Startup 205,Education,"Amit Reddy, Meera Sharma, Tanya Nair",Hyderabad,2022,25300000,13.26,No,,0,0,190799396
+Startup 206,Education,"Nidhi Singh, Ravi Singh, Pooja Patel",Chennai,2023,19100000,24.6,Yes,Peyush Bansal,15385789,23.39,77642276
+Startup 207,Fashion,"Tanya Nair, Nidhi Sharma",Pune,2025,98900000,5.41,Yes,,65644696,5.5,1828096118
+Startup 208,Finance,Nidhi Patel,Hyderabad,2021,34900000,9.66,Yes,,29571197,9.56,361283643
+Startup 209,Tech,"Arjun Nair, Arjun Verma",Pune,2023,50800000,2.05,Yes,Aman Gupta,33881462,2.42,2478048780
+Startup 210,E-commerce,"Amit Sharma, Pooja Patel, Karan Sharma",Hyderabad,2022,67200000,20.6,Yes,,44452923,20.26,326213592
+Startup 211,Tech,"Ravi Sharma, Arjun Kapoor",Bangalore,2024,79300000,23.24,No,,0,0,341222030
+Startup 212,Finance,"Amit Gupta, Rahul Nair, Pooja Mehta",Ahmedabad,2024,99300000,16.22,No,,0,0,612207151
+Startup 213,Education,Rahul Singh,Mumbai,2023,67000000,14.19,No,,0,0,472163495
+Startup 214,Tech,"Sneha Patel, Tanya Gupta",Pune,2021,14100000,17.11,Yes,"Aman Gupta, Ashneer Grover, Namita Thapar",11200257,15.94,82407948
+Startup 215,Travel,Nidhi Gupta,Kolkata,2023,37700000,19.59,No,,0,0,192445125
+Startup 216,E-commerce,Rahul Singh,Bangalore,2024,88900000,20.83,Yes,"Aman Gupta, Peyush Bansal, Ghazal Alagh",85063260,23.74,426788286
+Startup 217,Health,"Tanya Chopra, Tanya Patel, Amit Nair",Chennai,2023,67900000,19.6,No,,0,0,346428571
+Startup 218,Finance,Tanya Kapoor,Delhi,2023,52300000,13.25,No,,0,0,394716981
+Startup 219,Finance,"Meera Verma, Amit Reddy",Bangalore,2024,86400000,18.81,Yes,"Namita Thapar, Vineeta Singh",74419311,21.33,459330143
+Startup 220,E-commerce,"Karan Patel, Ravi Chopra",Pune,2021,50800000,20.02,Yes,,33303835,17.34,253746253
+Startup 221,Tech,"Arjun Patel, Rahul Mehta, Rahul Reddy",Bangalore,2025,43400000,20.47,Yes,"Anupam Mittal, Ashneer Grover",36296130,21.68,212017586
+Startup 222,Food & Beverage,"Karan Singh, Tanya Verma, Arjun Sharma",Hyderabad,2023,63100000,24.83,No,,0,0,254128070
+Startup 223,Food & Beverage,"Nidhi Gupta, Tanya Singh, Sneha Patel",Ahmedabad,2022,14500000,3.61,Yes,,13974167,3.88,401662049
+Startup 224,E-commerce,"Nidhi Verma, Ravi Chopra",Hyderabad,2023,81800000,19.45,No,,0,0,420565552
+Startup 225,Finance,"Sneha Mehta, Karan Singh",Chennai,2024,88500000,13.87,No,,0,0,638067772
+Startup 226,Fashion,"Tanya Reddy, Karan Mehta",Bangalore,2025,46700000,19.79,Yes,"Anupam Mittal, Namita Thapar, Vineeta Singh",39489993,21.25,235977766
+Startup 227,Entertainment,"Nidhi Kapoor, Pooja Singh",Hyderabad,2023,96200000,10.69,Yes,"Vineeta Singh, Aman Gupta",79216109,10.7,899906454
+Startup 228,Travel,Ravi Kapoor,Chennai,2023,99900000,10.05,No,,0,0,994029850
+Startup 229,Travel,"Ravi Verma, Arjun Patel, Arjun Sharma",Ahmedabad,2021,8700000,14.31,Yes,"Ashneer Grover, Vineeta Singh",6156383,16.87,60796645
+Startup 230,Education,"Pooja Patel, Pooja Kapoor",Hyderabad,2025,21700000,21.04,No,,0,0,103136882
+Startup 231,Entertainment,"Meera Mehta, Ravi Kapoor",Ahmedabad,2025,77800000,14.84,Yes,,59849232,17.45,524258760
+Startup 232,Health,"Nidhi Chopra, Rahul Gupta, Sneha Nair",Kolkata,2021,71500000,1.2,Yes,Namita Thapar,53241826,1.37,5958333333
+Startup 233,Travel,"Karan Kapoor, Meera Mehta",Delhi,2025,84300000,3.4,No,,0,0,2479411764
+Startup 234,Agriculture,"Nidhi Kapoor, Nidhi Reddy, Ravi Nair",Chennai,2021,3000000,10.88,No,,0,0,27573529
+Startup 235,Entertainment,Tanya Singh,Delhi,2024,37300000,8.8,No,,0,0,423863636
+Startup 236,Agriculture,Karan Singh,Chennai,2023,65600000,23.96,Yes,Aman Gupta,63725589,23.21,273789649
+Startup 237,Entertainment,"Karan Sharma, Sneha Mehta, Nidhi Patel",Pune,2021,67800000,7.99,No,,0,0,848560700
+Startup 238,Entertainment,"Karan Kapoor, Meera Reddy, Tanya Nair",Kolkata,2022,18100000,5.41,Yes,Peyush Bansal,12681924,5.94,334565619
+Startup 239,E-commerce,"Ravi Kapoor, Nidhi Gupta, Ravi Patel",Bangalore,2023,32500000,9.78,No,,0,0,332310838
+Startup 240,Food & Beverage,"Amit Verma, Ravi Mehta",Pune,2024,49000000,13.84,No,,0,0,354046242
+Startup 241,E-commerce,"Karan Patel, Rahul Chopra",Ahmedabad,2025,27900000,2.9,Yes,,25667543,3.03,962068965
+Startup 242,Health,Sneha Mehta,Mumbai,2023,23200000,9.21,No,,0,0,251900108
+Startup 243,Fashion,"Amit Sharma, Pooja Chopra",Kolkata,2025,76500000,24.87,Yes,Vineeta Singh,66279841,21.97,307599517
+Startup 244,Finance,"Arjun Reddy, Rahul Verma, Ravi Nair",Bangalore,2024,50200000,16.32,Yes,Ghazal Alagh,43507231,19.41,307598039
+Startup 245,Education,"Karan Reddy, Amit Mehta, Arjun Singh",Bangalore,2022,81800000,6.83,Yes,,71681386,7.34,1197657393
+Startup 246,Food & Beverage,"Sneha Patel, Rahul Gupta",Bangalore,2021,96300000,24.27,Yes,"Ashneer Grover, Peyush Bansal, Vineeta Singh",88267279,20.64,396786155
+Startup 247,Education,"Ravi Reddy, Meera Patel",Mumbai,2022,37600000,18.39,No,,0,0,204458945
+Startup 248,Health,"Meera Nair, Arjun Nair",Kolkata,2025,59000000,5.48,No,,0,0,1076642335
+Startup 249,Travel,"Meera Kapoor, Tanya Nair, Rahul Sharma",Delhi,2023,31200000,20.67,No,,0,0,150943396
+Startup 250,Education,"Meera Nair, Rahul Singh, Arjun Reddy",Ahmedabad,2021,12300000,3.31,Yes,Ashneer Grover,11677584,2.92,371601208
+Startup 251,Agriculture,Sneha Verma,Ahmedabad,2023,54800000,15.98,No,,0,0,342928660
+Startup 252,Health,"Pooja Singh, Sneha Verma",Hyderabad,2023,96000000,22.35,Yes,"Aman Gupta, Namita Thapar, Vineeta Singh",86149533,25.84,429530201
+Startup 253,Education,"Rahul Nair, Ravi Chopra, Sneha Singh",Pune,2023,72900000,16.97,Yes,Vineeta Singh,55449407,15.87,429581614
+Startup 254,Food & Beverage,"Tanya Gupta, Nidhi Reddy, Ravi Reddy",Pune,2022,79200000,16.2,No,,0,0,488888888
+Startup 255,Entertainment,Tanya Nair,Hyderabad,2022,79400000,14.21,No,,0,0,558761435
+Startup 256,Food & Beverage,Arjun Reddy,Hyderabad,2025,27200000,20.47,Yes,,22511426,18.16,132877381
+Startup 257,Tech,Nidhi Reddy,Ahmedabad,2022,96200000,21.83,Yes,,90407919,25.57,440677966
+Startup 258,Finance,Arjun Nair,Mumbai,2021,56200000,14.56,No,,0,0,385989010
+Startup 259,E-commerce,"Pooja Mehta, Amit Chopra, Meera Singh",Bangalore,2025,45200000,7.95,No,,0,0,568553459
+Startup 260,E-commerce,Meera Chopra,Hyderabad,2025,25800000,2.72,No,,0,0,948529411
+Startup 261,Travel,"Tanya Sharma, Sneha Chopra, Karan Reddy",Pune,2025,33800000,9.27,Yes,,22568331,8.71,364617044
+Startup 262,Fashion,Nidhi Sharma,Chennai,2023,49200000,1.55,Yes,"Aman Gupta, Namita Thapar, Vineeta Singh",33689706,1.58,3174193548
+Startup 263,Fashion,"Meera Singh, Rahul Verma, Karan Singh",Mumbai,2024,18400000,2.44,Yes,,15588220,2,754098360
+Startup 264,E-commerce,"Amit Verma, Pooja Nair, Arjun Reddy",Kolkata,2022,77200000,4.77,No,,0,0,1618448637
+Startup 265,Travel,"Arjun Patel, Ravi Kapoor",Mumbai,2024,90900000,10.29,Yes,Ashneer Grover,89049872,9.16,883381924
+Startup 266,Travel,"Rahul Sharma, Karan Nair",Hyderabad,2022,25600000,14.75,No,,0,0,173559322
+Startup 267,Education,Sneha Mehta,Kolkata,2023,71400000,8.8,No,,0,0,811363636
+Startup 268,Education,"Karan Verma, Tanya Chopra",Pune,2022,63600000,23.54,Yes,Namita Thapar,49648948,26.62,270178419
+Startup 269,Food & Beverage,"Arjun Singh, Amit Nair",Delhi,2023,85900000,16.51,Yes,,55428575,18.35,520290732
+Startup 270,E-commerce,Karan Chopra,Pune,2023,3500000,5.29,Yes,Namita Thapar,2226251,4.92,66162570
+Startup 271,Food & Beverage,Rahul Mehta,Mumbai,2022,32500000,8.43,No,,0,0,385527876
+Startup 272,E-commerce,Tanya Gupta,Hyderabad,2025,61200000,16.83,No,,0,0,363636363
+Startup 273,Finance,"Sneha Singh, Tanya Verma",Hyderabad,2024,64400000,16.09,Yes,Aman Gupta,55468412,13.11,400248601
+Startup 274,Health,"Tanya Singh, Arjun Reddy, Sneha Verma",Bangalore,2022,19200000,4.87,No,,0,0,394250513
+Startup 275,Travel,"Sneha Chopra, Ravi Sharma",Chennai,2023,14700000,3.93,No,,0,0,374045801
+Startup 276,Finance,"Nidhi Kapoor, Ravi Singh, Tanya Reddy",Delhi,2023,54200000,18.5,No,,0,0,292972972
+Startup 277,Agriculture,Tanya Patel,Chennai,2025,1100000,3.84,No,,0,0,28645833
+Startup 278,Tech,"Pooja Singh, Karan Chopra, Amit Reddy",Pune,2025,2100000,16.37,No,,0,0,12828344
+Startup 279,Finance,"Tanya Singh, Amit Mehta, Pooja Reddy",Pune,2023,94800000,12.39,Yes,Aman Gupta,75138310,13.02,765133171
+Startup 280,E-commerce,"Meera Chopra, Amit Nair",Chennai,2021,57800000,13.86,Yes,,42349350,16.17,417027417
+Startup 281,Travel,Rahul Kapoor,Mumbai,2021,39400000,16.04,Yes,Aman Gupta,29779564,16.65,245635910
+Startup 282,Fashion,"Nidhi Verma, Arjun Chopra, Sneha Gupta",Hyderabad,2021,47200000,20.91,No,,0,0,225729316
+Startup 283,Education,"Arjun Mehta, Sneha Reddy, Amit Patel",Bangalore,2023,52800000,1.6,No,,0,0,3300000000
+Startup 284,E-commerce,Pooja Reddy,Kolkata,2024,80400000,8.86,Yes,,78406846,9.49,907449209
+Startup 285,Finance,Tanya Singh,Kolkata,2021,32900000,8.98,Yes,,28568652,9.1,366369710
+Startup 286,Agriculture,"Rahul Sharma, Meera Sharma, Meera Kapoor",Kolkata,2023,24700000,23.74,Yes,,20915387,27.66,104043807
+Startup 287,Finance,Nidhi Reddy,Kolkata,2023,4000000,2.57,Yes,"Ghazal Alagh, Ashneer Grover",2851611,2.41,155642023
+Startup 288,Finance,Tanya Patel,Delhi,2023,40300000,2.59,Yes,,33706439,2.88,1555984555
+Startup 289,E-commerce,Meera Mehta,Chennai,2022,8100000,15.36,No,,0,0,52734375
+Startup 290,Finance,"Tanya Gupta, Pooja Patel, Nidhi Kapoor",Chennai,2022,74500000,24.58,No,,0,0,303091944
+Startup 291,Tech,"Amit Singh, Ravi Chopra, Rahul Kapoor",Mumbai,2021,93200000,14.17,Yes,"Ghazal Alagh, Namita Thapar, Aman Gupta",88027319,16.24,657727593
+Startup 292,Education,"Tanya Chopra, Nidhi Chopra",Ahmedabad,2022,45500000,14.08,Yes,Vineeta Singh,34299630,16.47,323153409
+Startup 293,Food & Beverage,Rahul Chopra,Kolkata,2022,64800000,5.32,No,,0,0,1218045112
+Startup 294,Entertainment,Pooja Gupta,Bangalore,2024,63700000,2.27,No,,0,0,2806167400
+Startup 295,E-commerce,Meera Gupta,Kolkata,2021,44100000,9.47,No,,0,0,465681098
+Startup 296,Fashion,Amit Singh,Chennai,2024,7200000,16.1,Yes,,6210201,14.76,44720496
+Startup 297,Fashion,Tanya Kapoor,Chennai,2024,2400000,18.79,Yes,,2149408,19.99,12772751
+Startup 298,Agriculture,"Karan Patel, Meera Mehta",Hyderabad,2021,6500000,16.41,Yes,"Anupam Mittal, Ghazal Alagh",4683554,18.03,39609993
+Startup 299,E-commerce,Karan Chopra,Kolkata,2024,15800000,13.73,No,,0,0,115076474
+Startup 300,Finance,"Arjun Reddy, Arjun Kapoor, Sneha Kapoor",Ahmedabad,2023,80100000,17.21,Yes,"Ghazal Alagh, Ashneer Grover",66922726,15.11,465427077
+Startup 301,Travel,"Rahul Reddy, Ravi Verma, Amit Sharma",Mumbai,2022,11000000,13.61,No,,0,0,80822924
+Startup 302,Tech,"Ravi Reddy, Nidhi Kapoor, Karan Verma",Bangalore,2021,55700000,21.48,No,,0,0,259310986
+Startup 303,Tech,"Arjun Patel, Rahul Nair",Mumbai,2022,68600000,5.58,No,,0,0,1229390681
+Startup 304,Tech,"Nidhi Gupta, Sneha Gupta, Pooja Mehta",Mumbai,2025,3500000,18.27,Yes,Ghazal Alagh,2856772,16.86,19157088
+Startup 305,Finance,"Sneha Singh, Ravi Mehta",Pune,2025,79200000,2.09,Yes,Namita Thapar,51994381,2.02,3789473684
+Startup 306,Travel,"Rahul Gupta, Pooja Singh, Amit Mehta",Bangalore,2022,80600000,4.79,No,,0,0,1682672233
+Startup 307,Tech,Amit Mehta,Bangalore,2024,43600000,17.64,No,,0,0,247165532
+Startup 308,Food & Beverage,Rahul Kapoor,Kolkata,2022,25400000,23.51,Yes,Namita Thapar,22526739,24.56,108039132
+Startup 309,Agriculture,Rahul Verma,Mumbai,2021,30100000,6.03,No,,0,0,499170812
+Startup 310,Travel,"Pooja Reddy, Pooja Sharma",Pune,2025,11000000,6.69,No,,0,0,164424514
+Startup 311,E-commerce,Karan Nair,Ahmedabad,2023,83900000,20.15,Yes,Aman Gupta,69082822,16.22,416377171
+Startup 312,Finance,Rahul Reddy,Chennai,2025,67300000,24.97,Yes,"Ashneer Grover, Peyush Bansal",52743893,25.67,269523428
+Startup 313,Entertainment,Meera Gupta,Delhi,2022,19900000,19.96,No,,0,0,99699398
+Startup 314,Agriculture,"Amit Sharma, Karan Reddy, Ravi Verma",Chennai,2022,78000000,7.47,Yes,,49325922,8.61,1044176706
+Startup 315,Health,"Nidhi Verma, Sneha Chopra, Nidhi Gupta",Mumbai,2021,38500000,5.21,Yes,,35013062,4.46,738963531
+Startup 316,Travel,Ravi Sharma,Kolkata,2025,78100000,18.88,Yes,"Vineeta Singh, Peyush Bansal",60072305,15.52,413665254
+Startup 317,Travel,"Meera Gupta, Ravi Nair",Bangalore,2023,73600000,13.77,No,,0,0,534495279
+Startup 318,Education,"Amit Kapoor, Karan Nair, Rahul Gupta",Pune,2022,46400000,18.71,Yes,Aman Gupta,44020491,16.71,247995724
+Startup 319,E-commerce,"Nidhi Chopra, Tanya Reddy, Nidhi Gupta",Kolkata,2023,32100000,14.61,No,,0,0,219712525
+Startup 320,Travel,"Rahul Reddy, Meera Nair",Delhi,2024,13400000,23.09,No,,0,0,58033780
+Startup 321,Fashion,"Arjun Singh, Rahul Singh",Kolkata,2021,71500000,3.7,No,,0,0,1932432432
+Startup 322,Travel,"Tanya Nair, Amit Reddy, Karan Mehta",Ahmedabad,2021,40500000,9.95,No,,0,0,407035175
+Startup 323,Travel,"Arjun Gupta, Ravi Sharma",Hyderabad,2023,76900000,24.82,No,,0,0,309830781
+Startup 324,E-commerce,"Sneha Singh, Karan Sharma",Mumbai,2022,66400000,22.95,No,,0,0,289324618
+Startup 325,Food & Beverage,"Meera Singh, Rahul Patel, Rahul Chopra",Chennai,2023,5300000,20.75,No,,0,0,25542168
+Startup 326,Tech,"Arjun Chopra, Rahul Gupta, Pooja Verma",Bangalore,2024,51400000,24.86,Yes,,38277775,24.67,206757843
+Startup 327,Finance,"Meera Sharma, Nidhi Nair",Mumbai,2024,17600000,14.96,Yes,"Ashneer Grover, Namita Thapar, Ghazal Alagh",10932333,14.13,117647058
+Startup 328,Travel,Arjun Kapoor,Bangalore,2025,79400000,16.07,Yes,,52948236,14.93,494088363
+Startup 329,Food & Beverage,"Amit Sharma, Pooja Nair, Meera Reddy",Delhi,2023,69900000,23.99,Yes,"Ghazal Alagh, Ashneer Grover",69377179,23.26,291371404
+Startup 330,Travel,"Sneha Chopra, Arjun Gupta",Chennai,2023,24100000,14.29,No,,0,0,168649405
+Startup 331,Tech,"Meera Nair, Sneha Sharma",Delhi,2022,42000000,17.68,Yes,,40192784,15.34,237556561
+Startup 332,Fashion,"Tanya Singh, Arjun Chopra, Nidhi Gupta",Ahmedabad,2023,53300000,7.69,No,,0,0,693107932
+Startup 333,Tech,Arjun Gupta,Kolkata,2025,65300000,23.62,Yes,Ghazal Alagh,40962132,25.3,276460626
+Startup 334,Agriculture,Arjun Gupta,Kolkata,2024,56500000,9.25,Yes,,34614126,8.99,610810810
+Startup 335,Agriculture,"Rahul Nair, Amit Chopra, Arjun Gupta",Ahmedabad,2021,79400000,24.47,No,,0,0,324478953
+Startup 336,Health,Tanya Verma,Delhi,2021,36700000,20.43,Yes,Aman Gupta,31197246,19.45,179637787
+Startup 337,Finance,"Nidhi Chopra, Nidhi Verma",Hyderabad,2025,25000000,16.55,Yes, Namita Thapar,15655002,15.26,151057401
+Startup 338,Entertainment,"Karan Kapoor, Amit Gupta, Tanya Verma",Pune,2022,59400000,10.37,Yes,"Ashneer Grover, Namita Thapar, Ghazal Alagh",38017346,11.1,572806171
+Startup 339,Travel,"Ravi Reddy, Rahul Singh",Chennai,2021,45600000,5.84,Yes,,37133612,5.34,780821917
+Startup 340,Travel,Arjun Nair,Chennai,2022,68900000,13.96,Yes,"Vineeta Singh, Ghazal Alagh",53830980,15.43,493553008
+Startup 341,Food & Beverage,Ravi Mehta,Kolkata,2025,68600000,24.09,No,,0,0,284765462
+Startup 342,Fashion,"Ravi Singh, Karan Singh, Amit Nair",Hyderabad,2021,48300000,4.55,Yes,,43770041,5.18,1061538461
+Startup 343,Fashion,"Meera Nair, Karan Chopra",Mumbai,2025,17300000,7.55,Yes,"Peyush Bansal, Vineeta Singh",11597817,8.61,229139072
+Startup 344,Agriculture,Amit Sharma,Pune,2024,89700000,2.53,No,,0,0,3545454545
+Startup 345,Travel,"Sneha Chopra, Rahul Patel, Sneha Singh",Bangalore,2024,51800000,22.23,Yes,"Peyush Bansal, Vineeta Singh",47100515,20.57,233018443
+Startup 346,Entertainment,"Karan Patel, Karan Patel, Rahul Sharma",Delhi,2025,29100000,11.55,No,,0,0,251948051
+Startup 347,Education,"Ravi Chopra, Arjun Reddy",Bangalore,2025,88800000,11.62,Yes,,67238492,13.84,764199655
+Startup 348,Fashion,"Sneha Patel, Arjun Patel",Delhi,2023,65600000,8.61,No,,0,0,761904761
+Startup 349,Health,"Sneha Gupta, Meera Chopra",Pune,2022,90700000,23.05,Yes,,79760933,23.11,393492407
+Startup 350,Food & Beverage,Karan Patel,Chennai,2021,59900000,2.97,Yes,"Ghazal Alagh, Peyush Bansal, Ashneer Grover",56233171,3.19,2016835016
+Startup 351,Travel,"Meera Mehta, Arjun Mehta",Pune,2024,21300000,3.03,No,,0,0,702970297
+Startup 352,Food & Beverage,"Karan Singh, Pooja Verma",Mumbai,2025,93800000,3.14,No,,0,0,2987261146
+Startup 353,Education,"Rahul Verma, Karan Singh",Ahmedabad,2024,16200000,3.14,No,,0,0,515923566
+Startup 354,Food & Beverage,"Sneha Verma, Ravi Chopra, Meera Gupta",Bangalore,2025,74000000,5.88,No,,0,0,1258503401
+Startup 355,Fashion,"Meera Chopra, Rahul Chopra, Pooja Singh",Hyderabad,2024,75400000,17.25,No,,0,0,437101449
+Startup 356,Food & Beverage,"Rahul Verma, Arjun Kapoor",Hyderabad,2023,93900000,6.96,No,,0,0,1349137931
+Startup 357,Tech,Meera Mehta,Pune,2022,71300000,6.09,No,,0,0,1170771756
+Startup 358,Finance,"Tanya Kapoor, Sneha Sharma, Ravi Verma",Mumbai,2021,96300000,6.64,No,,0,0,1450301204
+Startup 359,Entertainment,"Tanya Verma, Amit Kapoor, Ravi Singh",Ahmedabad,2024,41400000,17.11,Yes,"Peyush Bansal, Vineeta Singh",34106320,17.66,241963763
+Startup 360,Fashion,Ravi Gupta,Pune,2023,14500000,3.15,No,,0,0,460317460
+Startup 361,Food & Beverage,"Sneha Reddy, Amit Mehta",Kolkata,2024,77500000,9.65,No,,0,0,803108808
+Startup 362,Finance,Meera Verma,Kolkata,2021,73600000,14.46,No,,0,0,508990318
+Startup 363,Entertainment,"Tanya Patel, Tanya Verma, Ravi Singh",Delhi,2022,95200000,2.84,No,,0,0,3352112676
+Startup 364,Health,"Amit Singh, Meera Reddy",Delhi,2025,89300000,2.17,No,,0,0,4115207373
+Startup 365,Fashion,"Tanya Mehta, Nidhi Sharma, Nidhi Nair",Hyderabad,2023,46600000,22.25,No,,0,0,209438202
+Startup 366,Fashion,"Tanya Chopra, Sneha Chopra, Nidhi Singh",Delhi,2022,65500000,11.22,Yes,"Ashneer Grover, Namita Thapar, Ghazal Alagh",64799720,12.01,583778966
+Startup 367,Food & Beverage,"Ravi Nair, Sneha Kapoor",Kolkata,2022,9100000,22.77,No,,0,0,39964866
+Startup 368,Fashion,Rahul Kapoor,Hyderabad,2022,31200000,14.64,Yes,,25127413,14.7,213114754
+Startup 369,Finance,Meera Singh,Chennai,2021,27000000,15.05,Yes,"Anupam Mittal, Ashneer Grover, Peyush Bansal",25303426,12.31,179401993
+Startup 370,Finance,"Arjun Reddy, Tanya Gupta, Meera Singh",Chennai,2021,99900000,23.03,Yes,Peyush Bansal,99188160,20.81,433782023
+Startup 371,Finance,"Tanya Gupta, Arjun Singh, Tanya Reddy",Ahmedabad,2024,9900000,4,Yes,Peyush Bansal,9783260,4.57,247500000
+Startup 372,Agriculture,"Meera Verma, Meera Singh",Hyderabad,2025,31100000,14.67,No,,0,0,211997273
+Startup 373,Health,"Amit Sharma, Karan Chopra",Kolkata,2024,4700000,12.7,No,,0,0,37007874
+Startup 374,E-commerce,"Tanya Gupta, Pooja Verma, Ravi Verma",Ahmedabad,2021,57600000,2.52,No,,0,0,2285714285
+Startup 375,Agriculture,Meera Singh,Pune,2023,72400000,11.47,Yes,Anupam Mittal,53397820,10.24,631211857
+Startup 376,Education,"Nidhi Singh, Meera Mehta, Arjun Chopra",Ahmedabad,2021,82500000,12.34,Yes,,58821088,13.57,668557536
+Startup 377,Agriculture,Rahul Patel,Delhi,2023,11300000,20.04,No,,0,0,56387225
+Startup 378,Food & Beverage,Ravi Verma,Bangalore,2021,45000000,3.74,Yes,Anupam Mittal,31640798,3.5,1203208556
+Startup 379,Finance,Pooja Gupta,Pune,2024,52700000,5.11,No,,0,0,1031311154
+Startup 380,Entertainment,Ravi Kapoor,Ahmedabad,2022,91700000,17.34,No,,0,0,528835063
+Startup 381,Travel,"Amit Kapoor, Ravi Singh",Delhi,2022,46600000,16.45,No,,0,0,283282674
+Startup 382,Travel,"Karan Patel, Arjun Sharma, Amit Nair",Pune,2022,75200000,18.25,Yes,,61386969,16.16,412054794
+Startup 383,E-commerce,"Arjun Nair, Nidhi Mehta, Amit Verma",Chennai,2025,86200000,19.58,No,,0,0,440245148
+Startup 384,E-commerce,Amit Reddy,Chennai,2021,13600000,2.15,Yes,"Peyush Bansal, Aman Gupta, Anupam Mittal",10004052,1.92,632558139
+Startup 385,Entertainment,"Ravi Singh, Pooja Reddy, Arjun Kapoor",Delhi,2022,54200000,18.7,Yes,"Ashneer Grover, Namita Thapar, Anupam Mittal",34644376,20.28,289839572
+Startup 386,Travel,"Arjun Gupta, Amit Mehta",Delhi,2022,5900000,23.48,No,,0,0,25127768
+Startup 387,E-commerce,"Sneha Nair, Sneha Patel, Tanya Nair",Mumbai,2025,77800000,12.42,Yes,"Ashneer Grover, Aman Gupta, Namita Thapar",71163879,11.15,626409017
+Startup 388,Finance,"Sneha Sharma, Sneha Nair",Delhi,2024,15700000,5.38,Yes,"Peyush Bansal, Ashneer Grover",9789978,6.37,291821561
+Startup 389,Fashion,"Sneha Verma, Pooja Patel",Hyderabad,2023,53000000,19.06,No,,0,0,278069254
+Startup 390,Entertainment,"Sneha Patel, Ravi Mehta, Arjun Singh",Ahmedabad,2023,9500000,21.31,Yes,Namita Thapar,6240994,21.65,44580009
+Startup 391,Food & Beverage,Amit Gupta,Chennai,2024,86900000,17.32,No,,0,0,501732101
+Startup 392,Education,"Ravi Kapoor, Amit Mehta, Ravi Singh",Bangalore,2024,10100000,10.49,Yes,Aman Gupta,8989298,12.58,96282173
+Startup 393,Finance,Tanya Nair,Pune,2021,66000000,7.27,No,,0,0,907840440
+Startup 394,Fashion,Nidhi Reddy,Hyderabad,2023,99200000,15.39,Yes,,64826237,17.99,644574398
+Startup 395,Entertainment,"Amit Verma, Rahul Chopra",Kolkata,2022,56100000,2.95,Yes,,53689320,3.32,1901694915
+Startup 396,Travel,Sneha Singh,Chennai,2025,24900000,24.52,No,,0,0,101549755
+Startup 397,Health,"Meera Singh, Pooja Verma",Hyderabad,2022,12300000,21.88,No,,0,0,56215722
+Startup 398,Travel,Tanya Verma,Hyderabad,2022,99000000,2.79,Yes,"Namita Thapar, Aman Gupta",84189389,2.34,3548387096
+Startup 399,Tech,Amit Gupta,Mumbai,2024,63500000,16.03,Yes,Vineeta Singh,39425959,18.27,396132252
+Startup 400,Travel,"Tanya Nair, Rahul Mehta",Kolkata,2024,62700000,9.23,No,,0,0,679306608
+Startup 401,Health,"Tanya Mehta, Amit Patel, Ravi Nair",Mumbai,2022,36200000,5.69,Yes,,24634262,4.71,636203866
+Startup 402,Education,"Meera Gupta, Tanya Reddy, Tanya Singh",Pune,2024,43800000,8.89,Yes,Anupam Mittal,30123991,7.13,492688413
+Startup 403,Education,"Pooja Gupta, Tanya Patel, Pooja Gupta",Pune,2022,22000000,10.61,Yes,Namita Thapar,13464154,8.98,207351555
+Startup 404,Fashion,"Pooja Singh, Nidhi Verma",Mumbai,2025,21200000,7.82,Yes,,18815734,7.32,271099744
+Startup 405,Agriculture,Nidhi Reddy,Delhi,2022,90900000,18.06,Yes,Ghazal Alagh,61435351,18.3,503322259
+Startup 406,Travel,"Tanya Chopra, Pooja Verma",Hyderabad,2024,81800000,4.57,Yes,"Ghazal Alagh, Ashneer Grover",76941166,5.43,1789934354
+Startup 407,Agriculture,"Meera Mehta, Nidhi Reddy, Ravi Gupta",Kolkata,2023,28400000,14.95,Yes,Anupam Mittal,26845591,14.33,189966555
+Startup 408,Agriculture,"Nidhi Patel, Tanya Verma, Meera Nair",Pune,2022,47100000,12.22,No,,0,0,385433715
+Startup 409,Travel,"Nidhi Kapoor, Karan Verma",Delhi,2023,24900000,7.37,Yes,Namita Thapar,23332329,7.41,337856173
+Startup 410,Finance,"Tanya Verma, Meera Nair",Delhi,2022,24300000,6.45,Yes,"Vineeta Singh, Ghazal Alagh, Anupam Mittal",21602800,6.35,376744186
+Startup 411,Tech,"Pooja Chopra, Karan Patel",Kolkata,2023,88300000,14.4,No,,0,0,613194444
+Startup 412,Food & Beverage,"Rahul Kapoor, Amit Gupta, Nidhi Reddy",Hyderabad,2022,44500000,17.46,No,,0,0,254868270
+Startup 413,Education,Karan Kapoor,Hyderabad,2025,30800000,16.83,Yes,"Vineeta Singh, Aman Gupta",20596892,19.25,183006535
+Startup 414,Finance,"Rahul Sharma, Rahul Nair",Ahmedabad,2023,77000000,2.65,Yes,Namita Thapar,59511780,2.87,2905660377
+Startup 415,Agriculture,Tanya Singh,Chennai,2025,52400000,18.2,No,,0,0,287912087
+Startup 416,Agriculture,"Tanya Verma, Sneha Kapoor",Kolkata,2021,72700000,21.22,No,,0,0,342601319
+Startup 417,Finance,"Rahul Chopra, Pooja Mehta, Tanya Chopra",Kolkata,2022,94200000,16.82,Yes,Ashneer Grover,89887215,14.52,560047562
+Startup 418,E-commerce,"Sneha Patel, Meera Chopra",Bangalore,2021,8800000,19.13,No,,0,0,46001045
+Startup 419,Finance,"Rahul Kapoor, Pooja Nair",Mumbai,2023,3700000,2.76,No,,0,0,134057971
+Startup 420,Finance,"Karan Patel, Karan Verma",Mumbai,2024,12700000,18.02,Yes,"Anupam Mittal, Ghazal Alagh, Peyush Bansal",7966644,18.37,70477247
+Startup 421,Food & Beverage,Amit Kapoor,Delhi,2023,37600000,5.27,Yes,,30565774,5.15,713472485
+Startup 422,Tech,Karan Verma,Mumbai,2021,85000000,5.61,Yes,Ghazal Alagh,79403092,5.98,1515151515
+Startup 423,Food & Beverage,Karan Nair,Bangalore,2021,34000000,14.49,Yes,"Anupam Mittal, Ghazal Alagh, Peyush Bansal",33106852,13.88,234644582
+Startup 424,Finance,Pooja Patel,Bangalore,2021,34100000,5.17,No,,0,0,659574468
+Startup 425,Travel,Karan Patel,Kolkata,2025,7700000,16.79,No,,0,0,45860631
+Startup 426,Entertainment,"Amit Sharma, Pooja Chopra",Chennai,2023,11400000,18.1,Yes,Vineeta Singh,8319055,19.05,62983425
+Startup 427,Finance,"Pooja Nair, Tanya Verma, Pooja Verma",Bangalore,2024,25200000,18.71,Yes,,15724024,17.77,134687332
+Startup 428,Travel,Arjun Reddy,Mumbai,2022,67300000,20.51,Yes,"Namita Thapar, Ghazal Alagh, Ashneer Grover",45920605,16.85,328132618
+Startup 429,Education,Sneha Mehta,Hyderabad,2025,52900000,2.88,No,,0,0,1836805555
+Startup 430,Entertainment,"Pooja Kapoor, Meera Sharma",Pune,2022,39600000,5.03,No,,0,0,787276341
+Startup 431,Entertainment,"Rahul Nair, Rahul Kapoor, Karan Gupta",Chennai,2023,30000000,10,No,,0,0,300000000
+Startup 432,Agriculture,"Karan Chopra, Nidhi Chopra",Kolkata,2024,66600000,24.7,Yes,Aman Gupta,50211764,25.35,269635627
+Startup 433,Food & Beverage,Sneha Sharma,Ahmedabad,2022,73300000,15.07,Yes,,49516297,14.61,486396814
+Startup 434,Finance,"Arjun Nair, Ravi Chopra",Chennai,2022,78000000,22.03,Yes,"Ghazal Alagh, Namita Thapar, Ashneer Grover",55193465,19.47,354062641
+Startup 435,Finance,"Arjun Verma, Rahul Gupta, Amit Sharma",Bangalore,2022,54700000,11,No,,0,0,497272727
+Startup 436,Finance,"Nidhi Reddy, Nidhi Patel",Pune,2022,39700000,15.66,No,,0,0,253512132
+Startup 437,Education,"Meera Singh, Meera Nair",Ahmedabad,2025,1300000,24.67,No,,0,0,5269558
+Startup 438,Health,"Nidhi Verma, Nidhi Gupta, Pooja Singh",Kolkata,2022,76600000,15.7,Yes,"Peyush Bansal, Ghazal Alagh",73695412,17.17,487898089
+Startup 439,Fashion,"Pooja Mehta, Ravi Singh, Ravi Verma",Delhi,2023,82500000,3.09,No,,0,0,2669902912
+Startup 440,Food & Beverage,"Sneha Gupta, Ravi Patel",Hyderabad,2025,18400000,19.08,Yes,"Aman Gupta, Ashneer Grover, Namita Thapar",17683493,21.11,96436058
+Startup 441,Education,"Arjun Gupta, Sneha Mehta, Ravi Gupta",Bangalore,2021,90200000,6.37,Yes,"Peyush Bansal, Anupam Mittal, Namita Thapar",67722532,6.92,1416012558
+Startup 442,Travel,"Tanya Verma, Arjun Verma",Hyderabad,2022,44300000,8.67,No,,0,0,510957324
+Startup 443,Food & Beverage,"Tanya Singh, Pooja Sharma, Karan Verma",Kolkata,2021,15800000,20.59,No,,0,0,76736279
+Startup 444,Finance,Nidhi Mehta,Hyderabad,2025,72700000,18.66,Yes,,64772660,17.16,389603429
+Startup 445,Food & Beverage,Ravi Chopra,Pune,2022,70400000,12.36,No,,0,0,569579288
+Startup 446,Finance,"Sneha Nair, Arjun Kapoor",Hyderabad,2022,10900000,4.14,Yes,,9633801,4.07,263285024
+Startup 447,Food & Beverage,"Rahul Gupta, Meera Kapoor, Rahul Patel",Hyderabad,2025,76200000,16.63,No,,0,0,458208057
+Startup 448,Agriculture,Amit Sharma,Pune,2022,16200000,16.05,No,,0,0,100934579
+Startup 449,Education,Sneha Patel,Ahmedabad,2023,31900000,17.51,Yes,,23929742,18.85,182181610
+Startup 450,E-commerce,Amit Singh,Kolkata,2024,72000000,18.89,Yes,"Peyush Bansal, Anupam Mittal, Namita Thapar",59656985,15.86,381154049
+Startup 451,Tech,Tanya Mehta,Mumbai,2023,82900000,8.54,Yes,Peyush Bansal,55085732,8.75,970725995
+Startup 452,Health,Sneha Nair,Chennai,2021,99900000,14.07,No,,0,0,710021321
+Startup 453,Health,Arjun Verma,Chennai,2023,15300000,14.85,No,,0,0,103030303
+Startup 454,Travel,"Rahul Singh, Karan Sharma",Chennai,2024,40000000,16.59,Yes,Namita Thapar,34824410,19.51,241109101
+Startup 455,Food & Beverage,"Pooja Sharma, Arjun Patel, Nidhi Singh",Delhi,2022,85100000,4.68,No,,0,0,1818376068
+Startup 456,Finance,Tanya Patel,Bangalore,2024,13700000,13.76,No,,0,0,99563953
+Startup 457,Tech,"Sneha Reddy, Nidhi Kapoor",Delhi,2025,29000000,1.24,No,,0,0,2338709677
+Startup 458,Education,"Sneha Sharma, Rahul Nair",Chennai,2023,10700000,13.7,No,,0,0,78102189
+Startup 459,E-commerce,"Tanya Sharma, Amit Mehta",Pune,2022,19500000,9.28,No,,0,0,210129310
+Startup 460,Agriculture,"Rahul Kapoor, Amit Nair, Rahul Mehta",Delhi,2022,59100000,18.65,Yes,,50570534,17.68,316890080
+Startup 461,Education,"Tanya Chopra, Meera Mehta, Meera Reddy",Kolkata,2024,29200000,23.86,Yes,Namita Thapar,22268092,22.07,122380553
+Startup 462,Health,"Ravi Mehta, Meera Gupta",Bangalore,2022,2400000,15.79,Yes,Anupam Mittal,2114488,17.37,15199493
+Startup 463,Finance,Nidhi Sharma,Pune,2025,86100000,13.94,Yes,"Namita Thapar, Ghazal Alagh",58997991,15.27,617647058
+Startup 464,Entertainment,"Pooja Kapoor, Ravi Verma",Kolkata,2023,6800000,9.54,No,,0,0,71278825
+Startup 465,Travel,"Nidhi Sharma, Amit Reddy",Delhi,2022,37300000,1.21,No,,0,0,3082644628
+Startup 466,Agriculture,Sneha Nair,Delhi,2022,13600000,22.91,Yes,"Namita Thapar, Ashneer Grover, Anupam Mittal",10310752,21.07,59362723
+Startup 467,Finance,Ravi Kapoor,Bangalore,2023,68200000,21.14,Yes,"Anupam Mittal, Aman Gupta, Namita Thapar",65023960,22.91,322611163
+Startup 468,Tech,Arjun Verma,Delhi,2022,44100000,18.85,Yes,Anupam Mittal,43389087,22.49,233952254
+Startup 469,Tech,"Meera Nair, Meera Mehta",Pune,2022,52300000,18.42,No,,0,0,283930510
+Startup 470,Finance,Meera Sharma,Delhi,2025,88500000,15.19,Yes,Anupam Mittal,54458171,18.17,582620144
+Startup 471,Food & Beverage,"Amit Singh, Pooja Sharma",Mumbai,2022,42700000,13.6,Yes,"Anupam Mittal, Aman Gupta",34328471,14.38,313970588
+Startup 472,Fashion,Arjun Reddy,Chennai,2021,73800000,11.03,No,,0,0,669084315
+Startup 473,Health,Amit Verma,Mumbai,2021,22700000,7.85,No,,0,0,289171974
+Startup 474,Entertainment,Karan Mehta,Chennai,2023,38200000,9.02,Yes,Peyush Bansal,31351018,10.33,423503325
+Startup 475,Travel,"Nidhi Singh, Ravi Singh",Pune,2025,67500000,7.62,No,,0,0,885826771
+Startup 476,Fashion,"Meera Patel, Ravi Mehta, Amit Mehta",Hyderabad,2022,57300000,18.08,No,,0,0,316924778
+Startup 477,E-commerce,"Sneha Mehta, Meera Nair, Karan Nair",Ahmedabad,2022,63100000,7.52,Yes,"Ashneer Grover, Vineeta Singh, Aman Gupta",60049872,8.39,839095744
+Startup 478,Education,Ravi Sharma,Mumbai,2021,65700000,15.52,No,,0,0,423324742
+Startup 479,Travel,Ravi Kapoor,Delhi,2022,92900000,15.68,No,,0,0,592474489
+Startup 480,Fashion,"Tanya Nair, Pooja Gupta, Pooja Reddy",Chennai,2025,60500000,16.12,No,,0,0,375310173
+Startup 481,Food & Beverage,"Tanya Verma, Amit Sharma, Ravi Reddy",Bangalore,2025,15200000,12.53,No,,0,0,121308858
+Startup 482,Food & Beverage,"Nidhi Gupta, Rahul Patel",Mumbai,2024,65200000,14.05,Yes,Aman Gupta,41801423,12.91,464056939
+Startup 483,E-commerce,"Rahul Verma, Pooja Verma",Hyderabad,2022,40400000,4.54,No,,0,0,889867841
+Startup 484,Education,"Karan Sharma, Meera Mehta, Sneha Patel",Bangalore,2024,37500000,2.83,No,,0,0,1325088339
+Startup 485,Tech,"Sneha Verma, Tanya Mehta",Delhi,2022,55300000,9.04,Yes,,36502867,9.64,611725663
+Startup 486,Agriculture,"Karan Singh, Nidhi Mehta, Pooja Chopra",Ahmedabad,2023,56100000,13.81,Yes,"Peyush Bansal, Anupam Mittal, Vineeta Singh",46627547,14.88,406227371
+Startup 487,Education,"Sneha Patel, Nidhi Verma, Pooja Verma",Pune,2023,99000000,4.21,Yes,"Namita Thapar, Ashneer Grover",71070012,3.61,2351543942
+Startup 488,Tech,"Tanya Sharma, Meera Singh, Rahul Verma",Delhi,2021,15400000,2.9,Yes,"Ashneer Grover, Ghazal Alagh",12133750,2.48,531034482
+Startup 489,Finance,"Meera Nair, Arjun Singh",Chennai,2025,44300000,23.35,No,,0,0,189721627
+Startup 490,Tech,"Karan Mehta, Pooja Chopra, Tanya Verma",Hyderabad,2022,19800000,20.74,Yes,Anupam Mittal,15590013,19.19,95467695
+Startup 491,Finance,"Rahul Verma, Nidhi Chopra",Hyderabad,2024,12100000,3.51,No,,0,0,344729344
+Startup 492,Education,"Pooja Verma, Pooja Kapoor, Sneha Singh",Mumbai,2023,5600000,2.15,Yes,,3378992,2.03,260465116
+Startup 493,Finance,"Ravi Sharma, Ravi Mehta, Amit Singh",Ahmedabad,2023,61000000,21.85,Yes,Peyush Bansal,47899791,25.22,279176201
+Startup 494,Tech,"Pooja Patel, Rahul Mehta, Ravi Nair",Pune,2023,81400000,4.15,No,,0,0,1961445783
+Startup 495,Tech,Rahul Kapoor,Bangalore,2023,10600000,11.92,Yes,Aman Gupta,7044643,10.87,88926174
+Startup 496,Travel,"Sneha Sharma, Rahul Gupta",Chennai,2023,27200000,19.32,No,,0,0,140786749
+Startup 497,Food & Beverage,Tanya Gupta,Mumbai,2021,88900000,7.88,No,,0,0,1128172588
+Startup 498,Tech,Karan Gupta,Bangalore,2021,48700000,12.24,No,,0,0,397875816
+Startup 499,Tech,Rahul Sharma,Ahmedabad,2022,21400000,10.64,Yes,"Anupam Mittal, Ashneer Grover, Ghazal Alagh",13818634,10.45,201127819
+Startup 500,E-commerce,Meera Mehta,Hyderabad,2021,59100000,1.75,No,,0,0,3377142857
+Startup 501,Fashion,"Rahul Sharma, Rahul Sharma",Chennai,2022,9300000,8.16,No,,0,0,113970588
+Startup 502,Finance,"Pooja Kapoor, Rahul Verma, Sneha Chopra",Pune,2024,17800000,5.77,No,,0,0,308492201
+Startup 503,Travel,Rahul Gupta,Delhi,2023,89500000,8.59,No,,0,0,1041909196
+Startup 504,Fashion,"Amit Gupta, Rahul Gupta, Tanya Sharma",Mumbai,2025,77300000,24.5,No,,0,0,315510204
+Startup 505,E-commerce,Tanya Chopra,Hyderabad,2021,22400000,23.86,Yes,"Aman Gupta, Namita Thapar",21474028,23.88,93880972
+Startup 506,Tech,"Meera Gupta, Karan Chopra, Nidhi Reddy",Ahmedabad,2021,12600000,23.23,No,,0,0,54240206
+Startup 507,Finance,"Rahul Nair, Tanya Mehta",Ahmedabad,2022,30100000,21.28,No,,0,0,141447368
+Startup 508,Health,"Pooja Nair, Arjun Kapoor",Chennai,2024,86800000,22.66,No,,0,0,383053839
+Startup 509,Travel,Tanya Chopra,Hyderabad,2022,20700000,15.79,No,,0,0,131095630
+Startup 510,Health,"Karan Mehta, Karan Mehta, Karan Reddy",Delhi,2022,24600000,3.39,Yes,"Anupam Mittal, Ashneer Grover, Ghazal Alagh",20973380,3.78,725663716
+Startup 511,Food & Beverage,"Nidhi Mehta, Pooja Patel",Chennai,2025,55800000,21.17,No,,0,0,263580538
+Startup 512,Agriculture,"Tanya Nair, Amit Mehta, Ravi Kapoor",Bangalore,2025,63000000,1.71,Yes,"Aman Gupta, Namita Thapar",56976216,1.52,3684210526
+Startup 513,Fashion,"Meera Chopra, Ravi Chopra",Hyderabad,2024,18700000,5.75,No,,0,0,325217391
+Startup 514,Finance,"Karan Singh, Arjun Reddy",Bangalore,2022,44900000,5.79,No,,0,0,775474956
+Startup 515,Travel,"Sneha Gupta, Rahul Verma, Ravi Kapoor",Ahmedabad,2024,62800000,20.84,No,,0,0,301343570
+Startup 516,Finance,Sneha Mehta,Pune,2022,81900000,5.46,Yes,"Namita Thapar, Ghazal Alagh, Ashneer Grover",74676896,4.64,1500000000
+Startup 517,Entertainment,"Sneha Singh, Karan Chopra, Nidhi Reddy",Hyderabad,2025,6000000,20.27,No,,0,0,29600394
+Startup 518,Health,"Karan Sharma, Sneha Gupta",Delhi,2021,61500000,10.19,Yes,"Ghazal Alagh, Vineeta Singh, Aman Gupta",59326421,9.31,603532875
+Startup 519,Finance,Ravi Nair,Mumbai,2021,67000000,1.39,No,,0,0,4820143884
+Startup 520,Entertainment,Karan Kapoor,Kolkata,2023,87900000,16.39,Yes,,85709664,13.79,536302623
+Startup 521,Education,Amit Mehta,Bangalore,2021,89200000,17.5,No,,0,0,509714285
+Startup 522,Fashion,"Tanya Chopra, Arjun Mehta",Delhi,2023,13200000,4.03,Yes,"Peyush Bansal, Vineeta Singh, Anupam Mittal",12607575,4.78,327543424
+Startup 523,Finance,"Meera Sharma, Ravi Nair, Pooja Singh",Kolkata,2023,29700000,8.73,No,,0,0,340206185
+Startup 524,Education,Arjun Kapoor,Bangalore,2021,58100000,21.05,Yes,,51947634,18.57,276009501
+Startup 525,Education,"Sneha Reddy, Pooja Singh",Pune,2024,73500000,11.9,Yes,,47206417,10.14,617647058
+Startup 526,Travel,"Meera Singh, Ravi Patel",Ahmedabad,2025,8000000,7.67,Yes,,7844782,7.91,104302477
+Startup 527,Tech,Meera Sharma,Bangalore,2025,2600000,22.46,Yes,"Peyush Bansal, Vineeta Singh",2030746,20.35,11576135
+Startup 528,Health,"Arjun Reddy, Sneha Verma",Ahmedabad,2022,20800000,8.06,No,,0,0,258064516
+Startup 529,E-commerce,Arjun Patel,Ahmedabad,2022,41200000,3.43,No,,0,0,1201166180
+Startup 530,Agriculture,Rahul Patel,Pune,2024,73200000,15.31,Yes,"Peyush Bansal, Vineeta Singh, Anupam Mittal",65560577,17.47,478118876
+Startup 531,Education,"Ravi Mehta, Rahul Sharma, Sneha Kapoor",Pune,2023,51200000,18.64,No,,0,0,274678111
+Startup 532,Agriculture,"Nidhi Gupta, Amit Reddy",Chennai,2021,92200000,13.43,No,,0,0,686522710
+Startup 533,Entertainment,Karan Gupta,Pune,2024,12200000,24.27,No,,0,0,50267820
+Startup 534,Food & Beverage,"Rahul Nair, Arjun Singh",Delhi,2024,50800000,7.92,No,,0,0,641414141
+Startup 535,Entertainment,"Rahul Singh, Karan Reddy",Delhi,2025,26600000,4.26,Yes,Namita Thapar,21989316,4.48,624413145
+Startup 536,E-commerce,"Nidhi Gupta, Nidhi Chopra, Meera Chopra",Ahmedabad,2023,3800000,22.9,Yes,,2919796,25.24,16593886
+Startup 537,Entertainment,"Pooja Singh, Ravi Reddy",Delhi,2024,6400000,19.13,No,,0,0,33455305
+Startup 538,Travel,Sneha Singh,Mumbai,2025,53800000,4.46,No,,0,0,1206278026
+Startup 539,Tech,"Meera Reddy, Arjun Chopra, Karan Sharma",Kolkata,2022,84300000,11.2,Yes,Vineeta Singh,63711559,11.56,752678571
+Startup 540,Health,"Tanya Gupta, Amit Reddy, Rahul Gupta",Kolkata,2024,1900000,24.56,No,,0,0,7736156
+Startup 541,Agriculture,"Rahul Kapoor, Arjun Chopra, Sneha Gupta",Ahmedabad,2023,63000000,16.82,No,,0,0,374554102
+Startup 542,Food & Beverage,"Sneha Gupta, Karan Mehta",Hyderabad,2025,26800000,12.79,No,,0,0,209538702
+Startup 543,E-commerce,Nidhi Mehta,Kolkata,2025,86200000,5.98,No,,0,0,1441471571
+Startup 544,E-commerce,"Nidhi Singh, Ravi Mehta",Bangalore,2023,44700000,16.01,Yes,Namita Thapar,29094199,16.12,279200499
+Startup 545,Tech,Meera Patel,Mumbai,2021,3300000,6.38,No,,0,0,51724137
+Startup 546,Fashion,"Nidhi Sharma, Rahul Kapoor",Bangalore,2025,88300000,13.43,No,,0,0,657483246
+Startup 547,Travel,"Amit Patel, Meera Sharma, Tanya Singh",Mumbai,2021,8200000,23.8,Yes,,6490370,20.27,34453781
+Startup 548,Health,Amit Gupta,Hyderabad,2021,45100000,12.46,Yes,Aman Gupta,41015982,14.01,361958266
+Startup 549,Fashion,Pooja Mehta,Hyderabad,2024,76900000,14.27,Yes,Aman Gupta,76220502,15.4,538892782
+Startup 550,Agriculture,Amit Gupta,Mumbai,2024,29400000,15.12,No,,0,0,194444444
+Startup 551,Tech,Arjun Singh,Ahmedabad,2023,2900000,21.71,No,,0,0,13357899
+Startup 552,Health,"Nidhi Kapoor, Tanya Patel, Amit Reddy",Ahmedabad,2022,81100000,18.5,Yes,,66608862,21.85,438378378
+Startup 553,Fashion,"Meera Chopra, Tanya Singh, Ravi Kapoor",Delhi,2022,48800000,18.9,Yes,Namita Thapar,44887975,22.31,258201058
+Startup 554,Tech,Ravi Kapoor,Pune,2022,4900000,15.77,No,,0,0,31071655
+Startup 555,Fashion,"Arjun Singh, Amit Sharma, Arjun Singh",Pune,2024,87700000,5.29,No,,0,0,1657844990
+Startup 556,Health,"Amit Gupta, Amit Reddy",Kolkata,2025,42800000,2.41,Yes,"Vineeta Singh, Namita Thapar, Aman Gupta",33220324,2.18,1775933609
+Startup 557,Education,Arjun Kapoor,Mumbai,2021,56300000,18.24,Yes,Vineeta Singh,43774661,18.32,308662280
+Startup 558,Education,Nidhi Singh,Pune,2022,8300000,16.41,No,,0,0,50578915
+Startup 559,Food & Beverage,Nidhi Singh,Pune,2021,42700000,22.54,No,,0,0,189440993
+Startup 560,Agriculture,"Tanya Verma, Rahul Reddy",Mumbai,2024,96200000,4.6,Yes,Ghazal Alagh,69768309,5,2091304347
+Startup 561,Finance,"Sneha Nair, Amit Singh, Meera Nair",Kolkata,2021,28500000,5.68,No,,0,0,501760563
+Startup 562,Travel,Nidhi Nair,Bangalore,2021,67900000,12.62,Yes,"Ashneer Grover, Vineeta Singh",63223621,15.08,538034865
+Startup 563,E-commerce,Karan Singh,Delhi,2024,82400000,7.89,No,,0,0,1044359949
+Startup 564,Tech,Karan Chopra,Delhi,2023,65700000,22.15,Yes,,62451941,17.86,296613995
+Startup 565,Finance,"Nidhi Mehta, Karan Nair",Hyderabad,2024,13100000,9.08,No,,0,0,144273127
+Startup 566,Entertainment,"Tanya Sharma, Amit Sharma, Nidhi Gupta",Ahmedabad,2023,76800000,21.04,No,,0,0,365019011
+Startup 567,Agriculture,"Rahul Mehta, Tanya Nair, Sneha Mehta",Mumbai,2021,70000000,16.59,No,,0,0,421940928
+Startup 568,Travel,"Rahul Nair, Tanya Kapoor",Bangalore,2025,31400000,12.84,Yes,Namita Thapar,30110108,13.25,244548286
+Startup 569,Food & Beverage,Arjun Kapoor,Kolkata,2023,23900000,22.25,No,,0,0,107415730
+Startup 570,Fashion,"Sneha Reddy, Sneha Patel, Sneha Reddy",Delhi,2021,29200000,11.88,Yes,,21196979,13.9,245791245
+Startup 571,Entertainment,"Tanya Patel, Nidhi Gupta",Delhi,2024,87000000,6.57,No,,0,0,1324200913
+Startup 572,Agriculture,"Karan Singh, Nidhi Nair",Kolkata,2024,10800000,6.25,No,,0,0,172800000
+Startup 573,Finance,"Nidhi Patel, Karan Sharma",Delhi,2023,98900000,8.65,Yes,"Peyush Bansal, Ashneer Grover",89946851,8.59,1143352601
+Startup 574,Agriculture,"Karan Patel, Amit Kapoor, Arjun Nair",Hyderabad,2022,7200000,14.49,No,,0,0,49689440
+Startup 575,Education,Amit Verma,Bangalore,2022,82000000,12.64,Yes,Ashneer Grover,69915020,13.59,648734177
+Startup 576,Education,"Arjun Reddy, Karan Nair, Amit Kapoor",Chennai,2023,21700000,3.39,No,,0,0,640117994
+Startup 577,Finance,"Karan Sharma, Pooja Chopra",Chennai,2023,30100000,22.78,Yes,"Peyush Bansal, Anupam Mittal",29515546,25.17,132133450
+Startup 578,Tech,"Pooja Singh, Amit Chopra",Hyderabad,2023,38800000,12.44,Yes,,28439398,13.98,311897106
+Startup 579,Tech,Ravi Mehta,Hyderabad,2023,61700000,7,Yes,"Vineeta Singh, Peyush Bansal",57742562,7.73,881428571
+Startup 580,Health,"Pooja Nair, Meera Nair",Kolkata,2021,99200000,16.65,No,,0,0,595795795
+Startup 581,Agriculture,"Meera Nair, Ravi Sharma, Sneha Chopra",Bangalore,2022,14000000,19.17,Yes,,9080275,16.85,73030777
+Startup 582,Tech,Karan Gupta,Delhi,2023,15300000,18.98,No,,0,0,80611169
+Startup 583,Finance,Arjun Sharma,Ahmedabad,2024,74700000,23.13,No,,0,0,322957198
+Startup 584,E-commerce,"Tanya Reddy, Tanya Mehta",Delhi,2024,54500000,17.44,No,,0,0,312500000
+Startup 585,E-commerce,"Arjun Gupta, Meera Patel, Nidhi Mehta",Delhi,2023,2000000,8.62,Yes,Aman Gupta,1449472,7.54,23201856
+Startup 586,Finance,"Tanya Singh, Tanya Kapoor",Kolkata,2025,18200000,1.06,Yes,,11584942,1.19,1716981132
+Startup 587,Food & Beverage,Rahul Gupta,Mumbai,2021,8900000,22.5,Yes,"Anupam Mittal, Peyush Bansal",7019213,20.72,39555555
+Startup 588,Tech,Ravi Chopra,Ahmedabad,2022,73300000,12.39,No,,0,0,591606133
+Startup 589,E-commerce,"Ravi Sharma, Tanya Patel",Delhi,2024,73800000,4.43,No,,0,0,1665914221
+Startup 590,E-commerce,"Meera Kapoor, Sneha Nair",Ahmedabad,2021,19200000,1.61,No,,0,0,1192546583
+Startup 591,Agriculture,"Nidhi Chopra, Pooja Singh, Ravi Patel",Ahmedabad,2021,19300000,23.4,Yes,"Vineeta Singh, Ashneer Grover",11623344,21.63,82478632
+Startup 592,Entertainment,"Meera Gupta, Rahul Gupta, Ravi Sharma",Mumbai,2021,3900000,15.71,Yes,Aman Gupta,2615975,17.92,24824952
+Startup 593,Fashion,"Pooja Nair, Karan Mehta, Amit Kapoor",Chennai,2021,13000000,9.19,Yes,Aman Gupta,10207627,7.78,141458106
+Startup 594,Fashion,"Pooja Mehta, Arjun Verma, Karan Kapoor",Delhi,2024,15300000,14.56,No,,0,0,105082417
+Startup 595,Education,Arjun Patel,Delhi,2024,27500000,17.74,No,,0,0,155016910
+Startup 596,Food & Beverage,"Tanya Patel, Karan Reddy, Arjun Patel",Pune,2024,10200000,13.32,Yes,"Namita Thapar, Aman Gupta",9881431,13.41,76576576
+Startup 597,Food & Beverage,"Rahul Gupta, Tanya Reddy",Pune,2022,68400000,15.12,Yes,Peyush Bansal,50859070,17.55,452380952
+Startup 598,Food & Beverage,"Meera Reddy, Nidhi Sharma",Delhi,2021,32300000,4.91,Yes,,25051992,5.14,657841140
+Startup 599,Entertainment,"Karan Chopra, Meera Patel, Arjun Reddy",Pune,2023,70400000,10.63,Yes,,66948505,11.75,662276575
+Startup 600,E-commerce,Karan Chopra,Chennai,2022,61700000,1.69,Yes,,58901170,2,3650887573
+Startup 601,E-commerce,Tanya Mehta,Delhi,2021,81700000,24.04,Yes,Ghazal Alagh,60330628,23.04,339850249
+Startup 602,Agriculture,Rahul Patel,Delhi,2024,32400000,2.93,Yes,,25097673,3.19,1105802047
+Startup 603,Food & Beverage,"Ravi Reddy, Amit Gupta, Rahul Reddy",Bangalore,2023,57300000,17.48,Yes,,49700572,19.8,327803203
+Startup 604,Finance,"Karan Nair, Sneha Reddy, Meera Singh",Mumbai,2025,91600000,15.6,Yes,"Vineeta Singh, Aman Gupta",77331157,17.17,587179487
+Startup 605,Tech,"Pooja Mehta, Meera Patel, Amit Patel",Chennai,2022,10500000,9.15,Yes,"Namita Thapar, Anupam Mittal",9136146,9.08,114754098
+Startup 606,Fashion,"Rahul Mehta, Karan Nair",Bangalore,2023,83500000,2.98,Yes,,63609416,3.35,2802013422

@@ -1,0 +1,607 @@
+Startup Name,Industry,Founder(s),City,Year,Asked Amount (INR),Equity Offered (%),Deal Status,Investor(s),Invested Amount (INR),Equity Taken (%),Valuation (INR),Num_Founders,Funding Gap,Funding % Fulfilled,Equity Category,Deal_Success
+Startup 1,Education,"Tanya Verma, Ravi Patel, Ravi Chopra",Hyderabad,2023,61300000,7.68,Yes, Namita Thapar,40694846.0,7.44,798177083.0,3,20605154,0.6638637194127243,Low,1
+Startup 2,Entertainment,Sneha Verma,Hyderabad,2024,9100000,21.53,Yes,"Peyush Bansal, Namita Thapar",6052060.0,20.28,42266604.0,1,3047940,0.6650615384615385,Medium,1
+Startup 3,Fashion,"Sneha Singh, Rahul Nair, Pooja Mehta",Kolkata,2022,28600000,24.75,Yes,Unknown,26802225.0,27.48,115555555.0,3,1797775,0.9371407342657343,Medium,1
+Startup 4,Education,"Meera Chopra, Meera Mehta, Arjun Mehta",Hyderabad,2024,77400000,15.03,No,No Deal,0.0,0.0,514970059.0,3,77400000,0.0,Medium,0
+Startup 5,Travel,Arjun Chopra,Delhi,2023,1300000,23.89,No,No Deal,0.0,0.0,5441607.0,1,1300000,0.0,Medium,0
+Startup 6,E-Commerce,Ravi Sharma,Chennai,2025,16600000,9.97,Yes,Anupam Mittal,15130079.0,10.09,166499498.0,1,1469921,0.9114505421686747,Low,1
+Startup 7,Food & Beverage,Meera Nair,Delhi,2024,55000000,21.94,No,No Deal,0.0,0.0,250683682.0,1,55000000,0.0,Medium,0
+Startup 8,Health,"Ravi Patel, Tanya Patel, Amit Sharma",Mumbai,2025,7900000,22.73,No,No Deal,0.0,0.0,34755829.0,3,7900000,0.0,Medium,0
+Startup 9,Tech,"Pooja Kapoor, Meera Patel, Ravi Mehta",Kolkata,2025,81300000,12.35,No,No Deal,0.0,0.0,658299595.0,3,81300000,0.0,Medium,0
+Startup 10,Education,Sneha Chopra,Pune,2022,43000000,12.21,Yes,Unknown,42727641.0,10.25,352170352.0,1,272359,0.9936660697674419,Medium,1
+Startup 11,Fashion,"Arjun Chopra, Ravi Gupta",Delhi,2025,31300000,6.22,Yes,Vineeta Singh,25568283.0,6.84,503215434.0,2,5731717,0.8168780511182109,Low,1
+Startup 12,Fashion,Nidhi Patel,Chennai,2022,14400000,17.12,No,No Deal,0.0,0.0,84112149.0,1,14400000,0.0,Medium,0
+Startup 13,Food & Beverage,"Sneha Patel, Nidhi Kapoor",Delhi,2023,86300000,14.04,No,No Deal,0.0,0.0,614672364.0,2,86300000,0.0,Medium,0
+Startup 14,Entertainment,"Rahul Chopra, Rahul Verma, Arjun Reddy",Mumbai,2021,22500000,17.37,Yes,"Ghazal Alagh, Anupam Mittal, Vineeta Singh",20245298.0,20.33,129533678.0,3,2254702,0.8997910222222222,Medium,1
+Startup 15,Education,"Rahul Sharma, Karan Verma",Kolkata,2025,21400000,20.6,No,No Deal,0.0,0.0,103883495.0,2,21400000,0.0,Medium,0
+Startup 16,Travel,"Pooja Patel, Amit Patel",Ahmedabad,2021,29500000,21.74,No,No Deal,0.0,0.0,135694572.0,2,29500000,0.0,Medium,0
+Startup 17,Health,Tanya Chopra,Pune,2021,45600000,15.55,Yes,"Ashneer Grover, Namita Thapar, Aman Gupta",40288243.0,12.45,293247588.0,1,5311757,0.883514100877193,Medium,1
+Startup 18,Finance,"Karan Kapoor, Ravi Mehta",Hyderabad,2022,69000000,23.57,Yes,Unknown,49706216.0,24.02,292745014.0,2,19293784,0.7203799420289855,Medium,1
+Startup 19,Health,"Arjun Patel, Karan Singh",Pune,2023,46200000,11.61,Yes,Namita Thapar,42388230.0,13.75,397932816.0,2,3811770,0.9174941558441558,Medium,1
+Startup 20,Food & Beverage,"Sneha Kapoor, Ravi Singh, Nidhi Sharma",Hyderabad,2024,24000000,20.36,Yes,Anupam Mittal,20268230.0,22.55,117878192.0,3,3731770,0.8445095833333334,Medium,1
+Startup 21,Agriculture,"Tanya Patel, Karan Gupta",Ahmedabad,2025,16100000,16.75,Yes,Unknown,15201237.0,19.33,96119402.0,2,898763,0.9441762111801242,Medium,1
+Startup 22,Agriculture,"Ravi Chopra, Ravi Gupta, Rahul Gupta",Kolkata,2024,77900000,6.93,No,No Deal,0.0,0.0,1124098124.0,3,77900000,0.0,Low,0
+Startup 23,E-Commerce,"Pooja Kapoor, Meera Sharma",Chennai,2025,28800000,9.06,Yes,Anupam Mittal,25274301.0,9.81,317880794.0,2,3525699,0.8775798958333333,Low,1
+Startup 24,Entertainment,"Amit Singh, Karan Gupta, Amit Reddy",Chennai,2022,88300000,22.4,No,No Deal,0.0,0.0,394196428.0,3,88300000,0.0,Medium,0
+Startup 25,E-Commerce,"Ravi Singh, Pooja Gupta, Pooja Kapoor",Ahmedabad,2023,3900000,10.33,No,No Deal,0.0,0.0,37754114.0,3,3900000,0.0,Medium,0
+Startup 26,Travel,Meera Reddy,Pune,2022,29400000,19.05,No,No Deal,0.0,0.0,154330708.0,1,29400000,0.0,Medium,0
+Startup 27,Fashion,Meera Verma,Mumbai,2021,23900000,16.6,Yes,Ashneer Grover,23418288.0,14.6,143975903.0,1,481712,0.9798446861924687,Medium,1
+Startup 28,Health,"Rahul Patel, Rahul Gupta, Sneha Singh",Hyderabad,2023,72600000,7.15,No,No Deal,0.0,0.0,1015384615.0,3,72600000,0.0,Low,0
+Startup 29,Food & Beverage,"Tanya Sharma, Rahul Kapoor, Sneha Singh",Mumbai,2024,59900000,17.26,No,No Deal,0.0,0.0,347045191.0,3,59900000,0.0,Medium,0
+Startup 30,Tech,"Nidhi Verma, Karan Gupta, Sneha Chopra",Pune,2023,73400000,4.67,Yes,Unknown,72386308.0,4.24,1361762269.375,3,1013692,0.9861894822888283,Low,1
+Startup 31,E-Commerce,"Meera Chopra, Tanya Kapoor",Pune,2025,86000000,23.43,No,No Deal,0.0,0.0,367050789.0,2,86000000,0.0,Medium,0
+Startup 32,Agriculture,Meera Singh,Ahmedabad,2021,3900000,12.86,No,No Deal,0.0,0.0,30326594.0,1,3900000,0.0,Medium,0
+Startup 33,Food & Beverage,"Pooja Reddy, Arjun Reddy",Chennai,2024,57900000,1.24,Yes,"Anupam Mittal, Ghazal Alagh, Vineeta Singh",52299093.0,1.33,1361762269.375,2,5600907,0.9032658549222798,Low,1
+Startup 34,Agriculture,"Amit Sharma, Arjun Patel",Ahmedabad,2025,32300000,16.94,No,No Deal,0.0,0.0,190672963.0,2,32300000,0.0,Medium,0
+Startup 35,Agriculture,"Ravi Reddy, Karan Nair, Nidhi Reddy",Kolkata,2024,32300000,7.03,Yes,Unknown,23456879.0,7.71,459459459.0,3,8843121,0.7262191640866873,Low,1
+Startup 36,Food & Beverage,Pooja Gupta,Chennai,2024,11200000,20.98,No,No Deal,0.0,0.0,53384175.0,1,11200000,0.0,Medium,0
+Startup 37,Education,"Rahul Kapoor, Amit Nair",Delhi,2024,5600000,24.38,No,No Deal,0.0,0.0,22969647.0,2,5600000,0.0,Medium,0
+Startup 38,Food & Beverage,"Meera Sharma, Amit Singh, Arjun Gupta",Kolkata,2023,35800000,5.42,Yes,"Aman Gupta, Ghazal Alagh",27218130.0,4.5,660516605.0,3,8581870,0.7602829608938547,Low,1
+Startup 39,Entertainment,"Tanya Patel, Ravi Chopra, Meera Gupta",Chennai,2022,32200000,14.65,Yes,Unknown,28852350.0,17.27,219795221.0,3,3347650,0.8960357142857143,Medium,1
+Startup 40,Fashion,Pooja Kapoor,Chennai,2023,8200000,17.5,No,No Deal,0.0,0.0,46857142.0,1,8200000,0.0,Medium,0
+Startup 41,Entertainment,"Tanya Kapoor, Meera Sharma, Meera Kapoor",Ahmedabad,2024,52200000,13.96,No,No Deal,0.0,0.0,373925501.0,3,52200000,0.0,Medium,0
+Startup 42,Tech,"Amit Chopra, Nidhi Singh, Arjun Verma",Bangalore,2025,99400000,17.18,Yes,Unknown,86369915.0,15.6,578579743.0,3,13030085,0.8689126257545272,Medium,1
+Startup 43,Health,Meera Nair,Kolkata,2024,19500000,24.93,No,No Deal,0.0,0.0,78219013.0,1,19500000,0.0,Medium,0
+Startup 44,Agriculture,Meera Reddy,Ahmedabad,2021,33800000,17.08,Yes,"Anupam Mittal, Namita Thapar, Ghazal Alagh",31279412.0,17.42,197892271.0,1,2520588,0.9254263905325444,Medium,1
+Startup 45,Tech,Tanya Patel,Delhi,2024,57400000,1.33,No,No Deal,0.0,0.0,1361762269.375,1,57400000,0.0,Low,0
+Startup 46,E-Commerce,"Arjun Chopra, Meera Gupta, Pooja Gupta",Delhi,2022,20500000,23.12,Yes,Ghazal Alagh,14565228.0,25.8,88667820.0,3,5934772,0.7104989268292683,Medium,1
+Startup 47,Finance,"Ravi Kapoor, Amit Kapoor",Chennai,2023,89600000,4.57,No,No Deal,0.0,0.0,1361762269.375,2,89600000,0.0,Low,0
+Startup 48,Travel,"Ravi Nair, Karan Gupta",Pune,2025,72400000,6.73,No,No Deal,0.0,0.0,1075780089.0,2,72400000,0.0,Low,0
+Startup 49,Travel,"Ravi Chopra, Nidhi Gupta, Ravi Verma",Bangalore,2025,65600000,17.43,No,No Deal,0.0,0.0,376362593.0,3,65600000,0.0,Medium,0
+Startup 50,Food & Beverage,Rahul Sharma,Ahmedabad,2025,51900000,22.91,Yes,"Namita Thapar, Anupam Mittal, Ghazal Alagh",44983613.0,26.57,226538629.0,1,6916387,0.866736281310212,Medium,1
+Startup 51,Agriculture,"Ravi Mehta, Sneha Gupta",Pune,2024,66400000,24.09,No,No Deal,0.0,0.0,275633042.0,2,66400000,0.0,Medium,0
+Startup 52,Agriculture,"Pooja Chopra, Meera Sharma",Hyderabad,2022,59500000,9.62,No,No Deal,0.0,0.0,618503118.0,2,59500000,0.0,Low,0
+Startup 53,Fashion,Tanya Reddy,Hyderabad,2025,64500000,7.02,Yes,Unknown,62007815.0,7.43,918803418.0,1,2492185,0.961361472868217,Low,1
+Startup 54,Fashion,"Amit Singh, Nidhi Mehta",Bangalore,2024,34400000,18.94,Yes,"Namita Thapar, Vineeta Singh, Peyush Bansal",33209580.0,21.44,181626187.0,2,1190420,0.9653947674418605,Medium,1
+Startup 55,E-Commerce,"Sneha Chopra, Amit Kapoor",Bangalore,2023,38700000,17.15,No,No Deal,0.0,0.0,225655976.0,2,38700000,0.0,Medium,0
+Startup 56,Entertainment,"Nidhi Sharma, Pooja Gupta",Mumbai,2021,94700000,15.64,Yes,Unknown,74406454.0,16.9,605498721.0,2,20293546,0.7857070116156283,Medium,1
+Startup 57,Finance,Rahul Verma,Mumbai,2024,51400000,3.79,Yes,"Ghazal Alagh,",33629252.0,3.72,1356200527.0,1,17770748,0.6542656031128404,Low,1
+Startup 58,E-Commerce,"Tanya Mehta, Karan Sharma",Kolkata,2022,97100000,23.84,Yes,Peyush Bansal,66698754.0,23.31,407298657.0,2,30401246,0.686907868177137,Medium,1
+Startup 59,Education,"Sneha Reddy, Ravi Reddy",Mumbai,2022,29200000,5.56,Yes,Unknown,27146551.0,4.65,525179856.0,2,2053449,0.9296764041095891,Low,1
+Startup 60,E-Commerce,"Sneha Gupta, Ravi Patel, Tanya Verma",Chennai,2023,66800000,24.14,Yes,Unknown,62719817.0,23.43,276719138.0,3,4080183,0.9389194161676647,Medium,1
+Startup 61,Finance,"Sneha Reddy, Karan Reddy, Arjun Reddy",Delhi,2023,7800000,3.19,Yes,Peyush Bansal,6985043.0,3.59,244514106.0,3,814957,0.8955183333333333,Low,1
+Startup 62,E-Commerce,"Tanya Nair, Amit Singh, Arjun Verma",Delhi,2024,72900000,19.3,No,No Deal,0.0,0.0,377720207.0,3,72900000,0.0,Medium,0
+Startup 63,Tech,"Amit Chopra, Amit Gupta",Bangalore,2021,59900000,11.3,No,No Deal,0.0,0.0,530088495.0,2,59900000,0.0,Medium,0
+Startup 64,Finance,"Sneha Chopra, Amit Reddy",Delhi,2023,86100000,17.55,No,No Deal,0.0,0.0,490598290.0,2,86100000,0.0,Medium,0
+Startup 65,Education,"Rahul Sharma, Ravi Sharma",Hyderabad,2021,36900000,18.46,Yes,Namita Thapar,25051731.0,19.22,199891657.0,2,11848269,0.6789086991869918,Medium,1
+Startup 66,Tech,Meera Gupta,Kolkata,2021,89400000,24.3,No,No Deal,0.0,0.0,367901234.0,1,89400000,0.0,Medium,0
+Startup 67,Tech,"Rahul Verma, Pooja Gupta, Meera Nair",Delhi,2021,39100000,23.03,No,No Deal,0.0,0.0,169778549.0,3,39100000,0.0,Medium,0
+Startup 68,Fashion,"Tanya Mehta, Nidhi Sharma, Tanya Mehta",Pune,2024,100000000,16.75,No,No Deal,0.0,0.0,597014925.0,3,100000000,0.0,Medium,0
+Startup 69,Food & Beverage,"Sneha Kapoor, Ravi Chopra, Nidhi Mehta",Bangalore,2022,53000000,9.68,No,No Deal,0.0,0.0,547520661.0,3,53000000,0.0,Low,0
+Startup 70,Fashion,Pooja Reddy,Kolkata,2025,24100000,25.0,Yes,Vineeta Singh,21891232.0,28.35,96400000.0,1,2208768,0.9083498755186722,Medium,1
+Startup 71,E-Commerce,Nidhi Singh,Delhi,2022,16700000,4.89,Yes,Unknown,10311865.0,4.62,341513292.0,1,6388135,0.6174769461077845,Low,1
+Startup 72,Education,"Tanya Kapoor, Meera Patel",Hyderabad,2024,99800000,20.41,No,No Deal,0.0,0.0,488975992.0,2,99800000,0.0,Medium,0
+Startup 73,Education,"Tanya Gupta, Meera Kapoor",Ahmedabad,2022,99900000,4.89,Yes,Unknown,65470405.0,4.4,1361762269.375,2,34429595,0.6553594094094094,Low,1
+Startup 74,E-Commerce,Karan Sharma,Hyderabad,2023,91500000,9.39,Yes,"Vineeta Singh, Namita Thapar",63529477.0,11.25,974440894.0,1,27970523,0.6943112240437158,Low,1
+Startup 75,Travel,Amit Reddy,Bangalore,2021,82000000,4.51,Yes,"Peyush Bansal, Ashneer Grover",74089989.0,4.45,1361762269.375,1,7910011,0.9035364512195122,Low,1
+Startup 76,Entertainment,Sneha Verma,Chennai,2025,86500000,4.59,No,No Deal,0.0,0.0,1361762269.375,1,86500000,0.0,Low,0
+Startup 77,Tech,"Pooja Kapoor, Sneha Verma",Hyderabad,2022,66400000,20.05,No,No Deal,0.0,0.0,331172069.0,2,66400000,0.0,Medium,0
+Startup 78,Tech,Meera Singh,Mumbai,2025,74500000,4.45,No,No Deal,0.0,0.0,1361762269.375,1,74500000,0.0,Low,0
+Startup 79,Food & Beverage,"Meera Gupta, Rahul Mehta, Sneha Gupta",Mumbai,2024,21600000,2.05,Yes,Unknown,15686747.0,1.89,1053658536.0,3,5913253,0.7262382870370371,Low,1
+Startup 80,Finance,"Meera Kapoor, Amit Patel, Arjun Reddy",Mumbai,2021,28900000,3.99,No,No Deal,0.0,0.0,724310776.0,3,28900000,0.0,Low,0
+Startup 81,Finance,"Meera Chopra, Nidhi Mehta",Kolkata,2023,38600000,23.18,No,No Deal,0.0,0.0,166522864.0,2,38600000,0.0,Medium,0
+Startup 82,Tech,"Karan Sharma, Karan Singh, Rahul Nair",Chennai,2021,11500000,2.92,No,No Deal,0.0,0.0,393835616.0,3,11500000,0.0,Low,0
+Startup 83,Fashion,"Tanya Chopra, Rahul Gupta",Pune,2023,5300000,18.44,No,No Deal,0.0,0.0,28741865.0,2,5300000,0.0,Medium,0
+Startup 84,Health,Sneha Patel,Pune,2021,40200000,23.79,Yes,"Peyush Bansal, Ashneer Grover",35039317.0,28.06,168978562.0,1,5160683,0.8716248009950249,Medium,1
+Startup 85,Travel,"Sneha Singh, Rahul Nair",Pune,2022,33100000,16.59,Yes,"Anupam Mittal, Ghazal Alagh",20203092.0,14.51,199517781.0,2,12896908,0.6103653172205438,Medium,1
+Startup 86,E-Commerce,"Ravi Sharma, Arjun Kapoor",Kolkata,2025,63600000,7.85,No,No Deal,0.0,0.0,810191082.0,2,63600000,0.0,Low,0
+Startup 87,Travel,"Sneha Nair, Ravi Kapoor, Arjun Mehta",Delhi,2021,53000000,6.38,Yes,Unknown,36818807.0,6.36,830721003.0,3,16181193,0.6946944716981132,Low,1
+Startup 88,Education,"Ravi Kapoor, Sneha Kapoor",Hyderabad,2024,13800000,16.0,Yes,Unknown,9210870.0,18.83,86250000.0,2,4589130,0.6674543478260869,Medium,1
+Startup 89,Finance,"Amit Gupta, Ravi Kapoor, Arjun Gupta",Hyderabad,2022,31400000,11.89,Yes,"Anupam Mittal, Ghazal Alagh",21402529.0,12.4,264087468.0,3,9997471,0.681609203821656,Medium,1
+Startup 90,Travel,"Nidhi Reddy, Karan Mehta, Nidhi Nair",Bangalore,2021,25700000,12.2,No,No Deal,0.0,0.0,210655737.0,3,25700000,0.0,Medium,0
+Startup 91,Agriculture,Rahul Sharma,Mumbai,2024,97800000,10.22,No,No Deal,0.0,0.0,956947162.0,1,97800000,0.0,Medium,0
+Startup 92,Education,Nidhi Singh,Pune,2025,79100000,4.82,No,No Deal,0.0,0.0,1361762269.375,1,79100000,0.0,Low,0
+Startup 93,Agriculture,"Meera Verma, Sneha Chopra",Kolkata,2025,23000000,15.0,Yes,"Vineeta Singh, Peyush Bansal",19987189.0,13.71,153333333.0,2,3012811,0.8690082173913043,Medium,1
+Startup 94,Health,Karan Mehta,Chennai,2021,79200000,10.68,Yes,"Vineeta Singh, Ashneer Grover, Namita Thapar",65046102.0,8.86,741573033.0,1,14153898,0.8212891666666666,Medium,1
+Startup 95,Entertainment,"Ravi Nair, Ravi Gupta",Chennai,2023,84500000,1.4,No,No Deal,0.0,0.0,1361762269.375,2,84500000,0.0,Low,0
+Startup 96,Tech,"Tanya Kapoor, Amit Singh",Kolkata,2024,100000000,16.73,Yes,Unknown,83340931.0,14.53,597728631.0,2,16659069,0.83340931,Medium,1
+Startup 97,Entertainment,"Rahul Patel, Amit Singh",Bangalore,2025,2900000,11.58,No,No Deal,0.0,0.0,25043177.0,2,2900000,0.0,Medium,0
+Startup 98,Finance,"Rahul Gupta, Ravi Reddy",Pune,2024,63400000,12.62,Yes,"Ashneer Grover, Namita Thapar",57596979.0,13.65,502377179.0,2,5803021,0.9084697003154574,Medium,1
+Startup 99,Finance,"Rahul Kapoor, Amit Kapoor",Bangalore,2021,95600000,11.62,No,No Deal,0.0,0.0,822719449.0,2,95600000,0.0,Medium,0
+Startup 100,Agriculture,Pooja Nair,Chennai,2024,15000000,3.62,Yes,"Vineeta Singh, Ashneer Grover, Peyush Bansal",9314946.0,3.49,414364640.0,1,5685054,0.6209964,Low,1
+Startup 101,Agriculture,Rahul Verma,Delhi,2022,67800000,23.44,No,No Deal,0.0,0.0,289249146.0,1,67800000,0.0,Medium,0
+Startup 102,Food & Beverage,Karan Gupta,Delhi,2024,90700000,1.9,No,No Deal,0.0,0.0,1361762269.375,1,90700000,0.0,Low,0
+Startup 103,Education,Nidhi Mehta,Kolkata,2024,74500000,5.47,No,No Deal,0.0,0.0,1361762269.375,1,74500000,0.0,Low,0
+Startup 104,Health,"Karan Patel, Meera Kapoor",Pune,2024,60600000,18.35,Yes,"Peyush Bansal, Ashneer Grover",37865893.0,15.55,330245231.0,2,22734107,0.6248497194719472,Medium,1
+Startup 105,Travel,"Pooja Patel, Rahul Gupta, Rahul Gupta",Pune,2022,72800000,14.18,No,No Deal,0.0,0.0,513399153.0,3,72800000,0.0,Medium,0
+Startup 106,Travel,"Meera Chopra, Karan Sharma",Delhi,2021,13100000,5.28,No,No Deal,0.0,0.0,248106060.0,2,13100000,0.0,Low,0
+Startup 107,E-Commerce,Pooja Verma,Mumbai,2024,48400000,17.16,No,No Deal,0.0,0.0,282051282.0,1,48400000,0.0,Medium,0
+Startup 108,E-Commerce,"Pooja Patel, Meera Reddy",Delhi,2024,20300000,23.5,Yes,"Anupam Mittal, Vineeta Singh, Aman Gupta",14134210.0,19.43,86382978.0,2,6165790,0.6962665024630542,Medium,1
+Startup 109,Entertainment,Meera Singh,Mumbai,2025,76800000,2.06,No,No Deal,0.0,0.0,1361762269.375,1,76800000,0.0,Low,0
+Startup 110,Education,"Pooja Verma, Rahul Nair, Arjun Patel",Pune,2021,25200000,8.24,Yes,Unknown,20374210.0,7.96,305825242.0,3,4825790,0.8085003968253969,Low,1
+Startup 111,Fashion,Ravi Singh,Delhi,2022,57900000,12.89,No,No Deal,0.0,0.0,449185415.0,1,57900000,0.0,Medium,0
+Startup 112,Finance,"Nidhi Chopra, Karan Mehta, Arjun Chopra",Delhi,2023,25600000,21.38,No,No Deal,0.0,0.0,119738072.0,3,25600000,0.0,Medium,0
+Startup 113,Food & Beverage,"Amit Nair, Karan Chopra",Delhi,2022,25800000,7.12,No,No Deal,0.0,0.0,362359550.0,2,25800000,0.0,Low,0
+Startup 114,Tech,"Nidhi Sharma, Ravi Patel",Mumbai,2024,39600000,17.17,Yes,"Vineeta Singh, Ashneer Grover, Namita Thapar",26740506.0,18.97,230634828.0,2,12859494,0.6752653030303031,Medium,1
+Startup 115,E-Commerce,Meera Patel,Pune,2024,98900000,22.82,Yes,Aman Gupta,86948503.75,19.33,433391761.0,1,1500212,0.9848310212335692,Medium,1
+Startup 116,Agriculture,Tanya Patel,Ahmedabad,2025,57500000,8.72,No,No Deal,0.0,0.0,659403669.0,1,57500000,0.0,Low,0
+Startup 117,Finance,"Ravi Reddy, Arjun Kapoor",Pune,2023,48700000,3.37,No,No Deal,0.0,0.0,1361762269.375,2,48700000,0.0,Low,0
+Startup 118,Education,"Tanya Patel, Meera Nair",Pune,2024,79100000,20.72,No,No Deal,0.0,0.0,381756756.0,2,79100000,0.0,Medium,0
+Startup 119,Agriculture,Nidhi Mehta,Delhi,2023,19800000,23.01,Yes,"Anupam Mittal, Vineeta Singh, Aman Gupta",18525422.0,19.09,86049543.0,1,1274578,0.9356273737373737,Medium,1
+Startup 120,Finance,Nidhi Chopra,Kolkata,2025,72300000,6.42,Yes,Unknown,68199698.0,7.09,1126168224.0,1,4100302,0.9432876625172891,Low,1
+Startup 121,Finance,"Nidhi Singh, Sneha Nair, Amit Patel",Hyderabad,2023,28700000,2.12,Yes,Vineeta Singh,20438682.0,2.16,1353773584.0,3,8261318,0.7121491986062718,Low,1
+Startup 122,Tech,"Rahul Singh, Pooja Singh",Ahmedabad,2021,40300000,19.13,Yes,Unknown,35291685.0,15.9,210663878.0,2,5008315,0.875724193548387,Medium,1
+Startup 123,Travel,Arjun Gupta,Kolkata,2025,37400000,14.27,No,No Deal,0.0,0.0,262088297.0,1,37400000,0.0,Medium,0
+Startup 124,Finance,Tanya Chopra,Bangalore,2024,82700000,6.91,Yes,Anupam Mittal,73162280.0,7.28,1196816208.0,1,9537720,0.8846708585247884,Low,1
+Startup 125,Finance,"Nidhi Sharma, Sneha Verma",Chennai,2023,37800000,19.27,Yes,Anupam Mittal,29466516.0,19.69,196159833.0,2,8333484,0.7795374603174603,Medium,1
+Startup 126,Agriculture,Nidhi Kapoor,Hyderabad,2023,61800000,15.8,No,No Deal,0.0,0.0,391139240.0,1,61800000,0.0,Medium,0
+Startup 127,Tech,Arjun Verma,Ahmedabad,2021,87100000,15.88,No,No Deal,0.0,0.0,548488664.0,1,87100000,0.0,Medium,0
+Startup 128,Agriculture,"Karan Singh, Rahul Kapoor",Pune,2025,50000000,8.54,No,No Deal,0.0,0.0,585480093.0,2,50000000,0.0,Low,0
+Startup 129,Travel,"Meera Singh, Pooja Reddy",Ahmedabad,2024,84600000,19.86,No,No Deal,0.0,0.0,425981873.0,2,84600000,0.0,Medium,0
+Startup 130,Tech,"Pooja Singh, Ravi Mehta, Ravi Verma",Kolkata,2025,45800000,20.14,Yes,Vineeta Singh,42056433.0,19.41,227408142.0,3,3743567,0.918262729257642,Medium,1
+Startup 131,Entertainment,Tanya Chopra,Pune,2022,11800000,1.25,No,No Deal,0.0,0.0,944000000.0,1,11800000,0.0,Low,0
+Startup 132,Education,"Ravi Nair, Tanya Singh, Pooja Gupta",Pune,2022,48400000,19.54,Yes,Anupam Mittal,31064075.0,18.88,247697031.0,3,17335925,0.6418197314049586,Medium,1
+Startup 133,Tech,Rahul Reddy,Chennai,2021,47600000,19.82,No,No Deal,0.0,0.0,240161453.0,1,47600000,0.0,Medium,0
+Startup 134,Travel,"Sneha Gupta, Meera Reddy",Bangalore,2024,5500000,20.44,Yes,"Peyush Bansal, Aman Gupta",4789706.0,17.7,26908023.0,2,710294,0.8708556363636364,Medium,1
+Startup 135,Education,"Rahul Nair, Rahul Reddy, Ravi Chopra",Kolkata,2025,82600000,10.72,Yes,"Anupam Mittal, Ghazal Alagh, Aman Gupta",73923311.0,12.36,770522388.0,3,8676689,0.8949553389830508,Medium,1
+Startup 136,Agriculture,"Nidhi Singh, Karan Singh, Karan Singh",Bangalore,2021,37000000,21.29,Yes,Unknown,32648627.0,19.57,173790511.0,3,4351373,0.8823953243243243,Medium,1
+Startup 137,Agriculture,Pooja Chopra,Kolkata,2022,71100000,12.8,No,No Deal,0.0,0.0,555468750.0,1,71100000,0.0,Medium,0
+Startup 138,Agriculture,Sneha Singh,Mumbai,2025,30900000,1.78,Yes,Unknown,20619062.0,1.75,1361762269.375,1,10280938,0.6672835598705502,Low,1
+Startup 139,Education,"Amit Gupta, Arjun Reddy",Bangalore,2023,89600000,24.85,Yes,"Vineeta Singh, Peyush Bansal, Namita Thapar",84619985.0,25.95,360563380.0,2,4980015,0.9444194754464286,Medium,1
+Startup 140,Finance,Tanya Mehta,Hyderabad,2025,83400000,2.42,No,No Deal,0.0,0.0,1361762269.375,1,83400000,0.0,Low,0
+Startup 141,E-Commerce,"Tanya Nair, Rahul Reddy",Chennai,2024,59600000,7.42,Yes,"Aman Gupta, Namita Thapar",56430414.0,6.31,803234501.0,2,3169586,0.9468190268456376,Low,1
+Startup 142,Food & Beverage,Rahul Reddy,Hyderabad,2022,51100000,4.41,No,No Deal,0.0,0.0,1158730158.0,1,51100000,0.0,Low,0
+Startup 143,Finance,"Meera Sharma, Sneha Chopra",Chennai,2021,47500000,23.81,No,No Deal,0.0,0.0,199496010.0,2,47500000,0.0,Medium,0
+Startup 144,Travel,"Nidhi Nair, Tanya Mehta",Kolkata,2021,92500000,17.38,Yes,"Ghazal Alagh, Anupam Mittal, Aman Gupta",60096775.0,19.87,532220943.0,2,32403225,0.6496948648648648,Medium,1
+Startup 145,Tech,"Nidhi Kapoor, Sneha Reddy, Rahul Verma",Ahmedabad,2024,75300000,17.79,Yes,Peyush Bansal,48046932.0,15.75,423271500.0,3,27253068,0.6380734661354581,Medium,1
+Startup 146,Finance,"Rahul Patel, Arjun Sharma",Hyderabad,2024,80700000,23.59,Yes,Unknown,69673325.0,21.72,342094107.0,2,11026675,0.8633621437422553,Medium,1
+Startup 147,E-Commerce,"Ravi Patel, Karan Kapoor, Amit Patel",Kolkata,2022,12500000,6.79,Yes,Vineeta Singh,12388484.0,8.11,184094256.0,3,111516,0.99107872,Low,1
+Startup 148,Travel,Karan Singh,Ahmedabad,2021,56900000,17.39,No,No Deal,0.0,0.0,327199539.0,1,56900000,0.0,Medium,0
+Startup 149,Tech,Tanya Sharma,Mumbai,2024,23000000,1.96,Yes,Ghazal Alagh,17461370.0,1.79,1173469387.0,1,5538630,0.75919,Low,1
+Startup 150,E-Commerce,"Karan Chopra, Sneha Nair",Delhi,2024,9500000,8.44,Yes,Unknown,6290433.0,7.86,112559241.0,2,3209567,0.6621508421052632,Low,1
+Startup 151,Entertainment,"Sneha Kapoor, Karan Patel, Amit Patel",Bangalore,2022,12800000,11.88,Yes,"Peyush Bansal, Ghazal Alagh, Ashneer Grover",8291548.0,12.87,107744107.0,3,4508452,0.6477771875,Medium,1
+Startup 152,Fashion,"Sneha Nair, Meera Verma",Pune,2025,30800000,14.53,No,No Deal,0.0,0.0,211975223.0,2,30800000,0.0,Medium,0
+Startup 153,Entertainment,Meera Reddy,Kolkata,2025,76000000,22.61,Yes,"Aman Gupta, Ashneer Grover",62062974.0,23.84,336134453.0,1,13937026,0.8166180789473684,Medium,1
+Startup 154,Health,"Amit Chopra, Arjun Sharma",Hyderabad,2025,43900000,12.81,Yes,Unknown,28840078.0,11.68,342701014.0,2,15059922,0.6569493849658314,Medium,1
+Startup 155,Health,Ravi Chopra,Pune,2023,77500000,3.04,Yes,Unknown,66253686.0,2.91,1361762269.375,1,11246314,0.854886270967742,Low,1
+Startup 156,Entertainment,"Amit Chopra, Rahul Patel, Arjun Kapoor",Pune,2022,72700000,20.97,No,No Deal,0.0,0.0,346685741.0,3,72700000,0.0,Medium,0
+Startup 157,Agriculture,"Karan Sharma, Ravi Reddy",Hyderabad,2023,32500000,12.12,Yes,"Namita Thapar, Peyush Bansal, Vineeta Singh",20024287.0,13.75,268151815.0,2,12475713,0.6161319076923077,Medium,1
+Startup 158,Travel,Sneha Patel,Pune,2022,53500000,2.17,No,No Deal,0.0,0.0,1361762269.375,1,53500000,0.0,Low,0
+Startup 159,Fashion,Amit Chopra,Kolkata,2025,10600000,12.09,Yes,Ghazal Alagh,9671270.0,10.75,87675765.0,1,928730,0.912383962264151,Medium,1
+Startup 160,Agriculture,Karan Chopra,Delhi,2021,22900000,22.8,No,No Deal,0.0,0.0,100438596.0,1,22900000,0.0,Medium,0
+Startup 161,Fashion,"Rahul Verma, Tanya Singh",Hyderabad,2024,52000000,10.89,No,No Deal,0.0,0.0,477502295.0,2,52000000,0.0,Medium,0
+Startup 162,Health,Arjun Chopra,Delhi,2022,21400000,16.42,Yes,"Anupam Mittal, Peyush Bansal, Aman Gupta",19706558.0,18.36,130328867.0,1,1693442,0.9208671962616822,Medium,1
+Startup 163,Finance,"Nidhi Gupta, Ravi Gupta, Nidhi Singh",Pune,2022,28600000,5.32,No,No Deal,0.0,0.0,537593984.0,3,28600000,0.0,Low,0
+Startup 164,Entertainment,Amit Kapoor,Mumbai,2023,55200000,9.58,Yes,Unknown,35330966.0,10.18,576200417.0,1,19869034,0.640053731884058,Low,1
+Startup 165,Fashion,"Amit Patel, Tanya Chopra, Nidhi Mehta",Delhi,2025,61600000,8.63,No,No Deal,0.0,0.0,713789107.0,3,61600000,0.0,Low,0
+Startup 166,Entertainment,Nidhi Singh,Delhi,2025,86600000,24.71,No,No Deal,0.0,0.0,350465398.0,1,86600000,0.0,Medium,0
+Startup 167,E-Commerce,"Rahul Gupta, Amit Sharma",Mumbai,2025,62600000,6.25,No,No Deal,0.0,0.0,1001600000.0,2,62600000,0.0,Low,0
+Startup 168,Health,"Tanya Patel, Rahul Reddy",Delhi,2021,7000000,1.53,Yes,Ghazal Alagh,6570146.0,1.75,457516339.0,2,429854,0.9385922857142858,Low,1
+Startup 169,Tech,"Karan Singh, Sneha Reddy",Chennai,2021,14900000,24.42,No,No Deal,0.0,0.0,61015561.0,2,14900000,0.0,Medium,0
+Startup 170,Agriculture,"Nidhi Mehta, Ravi Singh, Nidhi Patel",Delhi,2022,32400000,18.62,No,No Deal,0.0,0.0,174006444.0,3,32400000,0.0,Medium,0
+Startup 171,Travel,"Sneha Patel, Nidhi Reddy, Rahul Sharma",Pune,2023,2100000,7.37,Yes,Unknown,1554404.0,8.22,28493894.0,3,545596,0.7401923809523809,Low,1
+Startup 172,Health,"Arjun Sharma, Sneha Reddy",Delhi,2022,17400000,18.57,Yes,"Anupam Mittal, Peyush Bansal, Aman Gupta",13442010.0,19.71,93699515.0,2,3957990,0.7725293103448276,Medium,1
+Startup 173,Entertainment,"Rahul Verma, Sneha Reddy",Hyderabad,2025,42900000,17.73,No,No Deal,0.0,0.0,241962774.0,2,42900000,0.0,Medium,0
+Startup 174,Tech,"Tanya Gupta, Pooja Sharma",Mumbai,2025,18400000,16.32,Yes,Namita Thapar,16816691.0,16.13,112745098.0,2,1583309,0.913950597826087,Medium,1
+Startup 175,Fashion,Ravi Chopra,Delhi,2021,91600000,10.15,Yes,"Anupam Mittal, Ghazal Alagh",64611005.0,11.52,902463054.0,1,26988995,0.7053603165938864,Medium,1
+Startup 176,Entertainment,Rahul Sharma,Bangalore,2021,83700000,13.99,Yes,Unknown,78369889.0,15.77,598284488.0,1,5330111,0.9363188649940263,Medium,1
+Startup 177,Food & Beverage,Karan Sharma,Ahmedabad,2025,85200000,16.05,No,No Deal,0.0,0.0,530841121.0,1,85200000,0.0,Medium,0
+Startup 178,Travel,"Sneha Sharma, Karan Nair, Karan Nair",Pune,2024,54200000,12.0,Yes,Namita Thapar,46027895.0,12.11,451666666.0,3,8172105,0.8492231549815498,Medium,1
+Startup 179,Fashion,"Meera Sharma, Pooja Mehta",Chennai,2023,80200000,20.82,No,No Deal,0.0,0.0,385206532.0,2,80200000,0.0,Medium,0
+Startup 180,Education,Amit Patel,Mumbai,2023,6100000,23.03,Yes,"Vineeta Singh, Anupam Mittal",5210399.0,19.57,26487190.0,1,889601,0.8541637704918033,Medium,1
+Startup 181,Fashion,"Karan Reddy, Meera Kapoor",Hyderabad,2023,31900000,17.25,No,No Deal,0.0,0.0,184927536.0,2,31900000,0.0,Medium,0
+Startup 182,Entertainment,Amit Nair,Pune,2024,31500000,17.43,No,No Deal,0.0,0.0,180722891.0,1,31500000,0.0,Medium,0
+Startup 183,Tech,"Arjun Reddy, Arjun Kapoor",Chennai,2025,16300000,13.42,Yes,Unknown,15031402.0,15.04,121460506.0,2,1268598,0.9221719018404908,Medium,1
+Startup 184,Entertainment,"Nidhi Mehta, Amit Gupta",Chennai,2024,93800000,11.05,No,No Deal,0.0,0.0,848868778.0,2,93800000,0.0,Medium,0
+Startup 185,Health,"Tanya Patel, Nidhi Patel, Ravi Gupta",Pune,2024,87500000,5.08,Yes,"Ashneer Grover, Peyush Bansal",61552814.0,5.71,1361762269.375,3,25947186,0.7034607314285715,Low,1
+Startup 186,Food & Beverage,"Nidhi Sharma, Pooja Reddy, Pooja Kapoor",Ahmedabad,2021,39000000,7.25,No,No Deal,0.0,0.0,537931034.0,3,39000000,0.0,Low,0
+Startup 187,Agriculture,Meera Verma,Bangalore,2023,92000000,5.67,Yes,Namita Thapar,69245427.0,5.21,1361762269.375,1,22754573,0.7526676847826087,Low,1
+Startup 188,Health,Rahul Patel,Pune,2022,59300000,22.43,No,No Deal,0.0,0.0,264378065.0,1,59300000,0.0,Medium,0
+Startup 189,Food & Beverage,"Rahul Sharma, Meera Reddy",Delhi,2021,65900000,2.39,No,No Deal,0.0,0.0,1361762269.375,2,65900000,0.0,Low,0
+Startup 190,Fashion,Rahul Singh,Delhi,2023,81400000,19.33,Yes,"Peyush Bansal, Anupam Mittal",61974491.0,22.93,421107087.0,1,19425509,0.7613573832923833,Medium,1
+Startup 191,Finance,Amit Nair,Hyderabad,2021,98200000,1.34,No,No Deal,0.0,0.0,1361762269.375,1,98200000,0.0,Low,0
+Startup 192,E-Commerce,Amit Verma,Hyderabad,2025,72000000,22.05,No,No Deal,0.0,0.0,326530612.0,1,72000000,0.0,Medium,0
+Startup 193,Travel,Rahul Chopra,Mumbai,2025,23900000,18.45,Yes,Vineeta Singh,19164296.0,15.67,129539295.0,1,4735704,0.801853389121339,Medium,1
+Startup 194,E-Commerce,"Meera Mehta, Pooja Verma",Chennai,2022,68700000,3.42,No,No Deal,0.0,0.0,1361762269.375,2,68700000,0.0,Low,0
+Startup 195,Education,"Karan Kapoor, Rahul Verma",Kolkata,2025,71400000,23.39,No,No Deal,0.0,0.0,305258657.0,2,71400000,0.0,Medium,0
+Startup 196,Education,Amit Sharma,Bangalore,2023,16200000,23.79,Yes,Unknown,10376362.0,21.47,68095838.0,1,5823638,0.6405161728395061,Medium,1
+Startup 197,Entertainment,"Sneha Reddy, Nidhi Mehta",Bangalore,2022,41900000,24.1,No,No Deal,0.0,0.0,173858921.0,2,41900000,0.0,Medium,0
+Startup 198,Travel,Ravi Singh,Hyderabad,2021,54100000,13.55,Yes,"Ashneer Grover, Anupam Mittal, Namita Thapar",46822698.0,14.32,399261992.0,1,7277302,0.8654842513863217,Medium,1
+Startup 199,Education,"Arjun Verma, Ravi Patel",Ahmedabad,2022,84600000,6.64,No,No Deal,0.0,0.0,1274096385.0,2,84600000,0.0,Low,0
+Startup 200,Travel,"Tanya Singh, Meera Reddy, Meera Sharma",Bangalore,2025,1200000,9.19,No,No Deal,0.0,0.0,13057671.0,3,1200000,0.0,Low,0
+Startup 201,Travel,Karan Verma,Bangalore,2023,47800000,16.8,Yes,Unknown,28762935.0,18.39,284523809.0,1,19037065,0.6017350418410042,Medium,1
+Startup 202,E-Commerce,"Karan Singh, Pooja Kapoor",Ahmedabad,2021,31100000,11.87,Yes,"Peyush Bansal, Ghazal Alagh, Vineeta Singh",22378479.0,12.83,262005054.0,2,8721521,0.7195652411575563,Medium,1
+Startup 203,Tech,"Ravi Gupta, Tanya Singh",Ahmedabad,2024,90800000,21.34,Yes,Vineeta Singh,55397884.0,18.31,425492033.0,2,35402116,0.6101088546255506,Medium,1
+Startup 204,Health,Arjun Mehta,Chennai,2024,15900000,21.15,No,No Deal,0.0,0.0,75177304.0,1,15900000,0.0,Medium,0
+Startup 205,Education,"Amit Reddy, Meera Sharma, Tanya Nair",Hyderabad,2022,25300000,13.26,No,No Deal,0.0,0.0,190799396.0,3,25300000,0.0,Medium,0
+Startup 206,Education,"Nidhi Singh, Ravi Singh, Pooja Patel",Chennai,2023,19100000,24.6,Yes,Peyush Bansal,15385789.0,23.39,77642276.0,3,3714211,0.8055386910994764,Medium,1
+Startup 207,Fashion,"Tanya Nair, Nidhi Sharma",Pune,2025,98900000,5.41,Yes,Unknown,65644696.0,5.5,1361762269.375,2,33255304,0.6637481900910011,Low,1
+Startup 208,Finance,Nidhi Patel,Hyderabad,2021,34900000,9.66,Yes,Unknown,29571197.0,9.56,361283643.0,1,5328803,0.84731223495702,Low,1
+Startup 209,Tech,"Arjun Nair, Arjun Verma",Pune,2023,50800000,2.05,Yes,Aman Gupta,33881462.0,2.42,1361762269.375,2,16918538,0.6669579133858268,Low,1
+Startup 210,E-Commerce,"Amit Sharma, Pooja Patel, Karan Sharma",Hyderabad,2022,67200000,20.6,Yes,Unknown,44452923.0,20.26,326213592.0,3,22747077,0.6615018303571428,Medium,1
+Startup 211,Tech,"Ravi Sharma, Arjun Kapoor",Bangalore,2024,79300000,23.24,No,No Deal,0.0,0.0,341222030.0,2,79300000,0.0,Medium,0
+Startup 212,Finance,"Amit Gupta, Rahul Nair, Pooja Mehta",Ahmedabad,2024,99300000,16.22,No,No Deal,0.0,0.0,612207151.0,3,99300000,0.0,Medium,0
+Startup 213,Education,Rahul Singh,Mumbai,2023,67000000,14.19,No,No Deal,0.0,0.0,472163495.0,1,67000000,0.0,Medium,0
+Startup 214,Tech,"Sneha Patel, Tanya Gupta",Pune,2021,14100000,17.11,Yes,"Aman Gupta, Ashneer Grover, Namita Thapar",11200257.0,15.94,82407948.0,2,2899743,0.7943444680851064,Medium,1
+Startup 215,Travel,Nidhi Gupta,Kolkata,2023,37700000,19.59,No,No Deal,0.0,0.0,192445125.0,1,37700000,0.0,Medium,0
+Startup 216,E-Commerce,Rahul Singh,Bangalore,2024,88900000,20.83,Yes,"Aman Gupta, Peyush Bansal, Ghazal Alagh",85063260.0,23.74,426788286.0,1,3836740,0.9568420697412824,Medium,1
+Startup 217,Health,"Tanya Chopra, Tanya Patel, Amit Nair",Chennai,2023,67900000,19.6,No,No Deal,0.0,0.0,346428571.0,3,67900000,0.0,Medium,0
+Startup 218,Finance,Tanya Kapoor,Delhi,2023,52300000,13.25,No,No Deal,0.0,0.0,394716981.0,1,52300000,0.0,Medium,0
+Startup 219,Finance,"Meera Verma, Amit Reddy",Bangalore,2024,86400000,18.81,Yes,"Namita Thapar, Vineeta Singh",74419311.0,21.33,459330143.0,2,11980689,0.8613346180555556,Medium,1
+Startup 220,E-Commerce,"Karan Patel, Ravi Chopra",Pune,2021,50800000,20.02,Yes,Unknown,33303835.0,17.34,253746253.0,2,17496165,0.6555873031496063,Medium,1
+Startup 221,Tech,"Arjun Patel, Rahul Mehta, Rahul Reddy",Bangalore,2025,43400000,20.47,Yes,"Anupam Mittal, Ashneer Grover",36296130.0,21.68,212017586.0,3,7103870,0.8363163594470046,Medium,1
+Startup 222,Food & Beverage,"Karan Singh, Tanya Verma, Arjun Sharma",Hyderabad,2023,63100000,24.83,No,No Deal,0.0,0.0,254128070.0,3,63100000,0.0,Medium,0
+Startup 223,Food & Beverage,"Nidhi Gupta, Tanya Singh, Sneha Patel",Ahmedabad,2022,14500000,3.61,Yes,Unknown,13974167.0,3.88,401662049.0,3,525833,0.9637356551724138,Low,1
+Startup 224,E-Commerce,"Nidhi Verma, Ravi Chopra",Hyderabad,2023,81800000,19.45,No,No Deal,0.0,0.0,420565552.0,2,81800000,0.0,Medium,0
+Startup 225,Finance,"Sneha Mehta, Karan Singh",Chennai,2024,88500000,13.87,No,No Deal,0.0,0.0,638067772.0,2,88500000,0.0,Medium,0
+Startup 226,Fashion,"Tanya Reddy, Karan Mehta",Bangalore,2025,46700000,19.79,Yes,"Anupam Mittal, Namita Thapar, Vineeta Singh",39489993.0,21.25,235977766.0,2,7210007,0.8456101284796574,Medium,1
+Startup 227,Entertainment,"Nidhi Kapoor, Pooja Singh",Hyderabad,2023,96200000,10.69,Yes,"Vineeta Singh, Aman Gupta",79216109.0,10.7,899906454.0,2,16983891,0.8234522765072765,Medium,1
+Startup 228,Travel,Ravi Kapoor,Chennai,2023,99900000,10.05,No,No Deal,0.0,0.0,994029850.0,1,99900000,0.0,Medium,0
+Startup 229,Travel,"Ravi Verma, Arjun Patel, Arjun Sharma",Ahmedabad,2021,8700000,14.31,Yes,"Ashneer Grover, Vineeta Singh",6156383.0,16.87,60796645.0,3,2543617,0.7076302298850575,Medium,1
+Startup 230,Education,"Pooja Patel, Pooja Kapoor",Hyderabad,2025,21700000,21.04,No,No Deal,0.0,0.0,103136882.0,2,21700000,0.0,Medium,0
+Startup 231,Entertainment,"Meera Mehta, Ravi Kapoor",Ahmedabad,2025,77800000,14.84,Yes,Unknown,59849232.0,17.45,524258760.0,2,17950768,0.7692703341902314,Medium,1
+Startup 232,Health,"Nidhi Chopra, Rahul Gupta, Sneha Nair",Kolkata,2021,71500000,1.2,Yes,Namita Thapar,53241826.0,1.37,1361762269.375,3,18258174,0.7446409230769231,Low,1
+Startup 233,Travel,"Karan Kapoor, Meera Mehta",Delhi,2025,84300000,3.4,No,No Deal,0.0,0.0,1361762269.375,2,84300000,0.0,Low,0
+Startup 234,Agriculture,"Nidhi Kapoor, Nidhi Reddy, Ravi Nair",Chennai,2021,3000000,10.88,No,No Deal,0.0,0.0,27573529.0,3,3000000,0.0,Medium,0
+Startup 235,Entertainment,Tanya Singh,Delhi,2024,37300000,8.8,No,No Deal,0.0,0.0,423863636.0,1,37300000,0.0,Low,0
+Startup 236,Agriculture,Karan Singh,Chennai,2023,65600000,23.96,Yes,Aman Gupta,63725589.0,23.21,273789649.0,1,1874411,0.9714266615853658,Medium,1
+Startup 237,Entertainment,"Karan Sharma, Sneha Mehta, Nidhi Patel",Pune,2021,67800000,7.99,No,No Deal,0.0,0.0,848560700.0,3,67800000,0.0,Low,0
+Startup 238,Entertainment,"Karan Kapoor, Meera Reddy, Tanya Nair",Kolkata,2022,18100000,5.41,Yes,Peyush Bansal,12681924.0,5.94,334565619.0,3,5418076,0.7006587845303868,Low,1
+Startup 239,E-Commerce,"Ravi Kapoor, Nidhi Gupta, Ravi Patel",Bangalore,2023,32500000,9.78,No,No Deal,0.0,0.0,332310838.0,3,32500000,0.0,Low,0
+Startup 240,Food & Beverage,"Amit Verma, Ravi Mehta",Pune,2024,49000000,13.84,No,No Deal,0.0,0.0,354046242.0,2,49000000,0.0,Medium,0
+Startup 241,E-Commerce,"Karan Patel, Rahul Chopra",Ahmedabad,2025,27900000,2.9,Yes,Unknown,25667543.0,3.03,962068965.0,2,2232457,0.9199836200716845,Low,1
+Startup 242,Health,Sneha Mehta,Mumbai,2023,23200000,9.21,No,No Deal,0.0,0.0,251900108.0,1,23200000,0.0,Low,0
+Startup 243,Fashion,"Amit Sharma, Pooja Chopra",Kolkata,2025,76500000,24.87,Yes,Vineeta Singh,66279841.0,21.97,307599517.0,2,10220159,0.8664031503267974,Medium,1
+Startup 244,Finance,"Arjun Reddy, Rahul Verma, Ravi Nair",Bangalore,2024,50200000,16.32,Yes,Ghazal Alagh,43507231.0,19.41,307598039.0,3,6692769,0.8666779083665339,Medium,1
+Startup 245,Education,"Karan Reddy, Amit Mehta, Arjun Singh",Bangalore,2022,81800000,6.83,Yes,Unknown,71681386.0,7.34,1197657393.0,3,10118614,0.8763005623471882,Low,1
+Startup 246,Food & Beverage,"Sneha Patel, Rahul Gupta",Bangalore,2021,96300000,24.27,Yes,"Ashneer Grover, Peyush Bansal, Vineeta Singh",86948503.75,20.64,396786155.0,2,8032721,0.9165864901349948,Medium,1
+Startup 247,Education,"Ravi Reddy, Meera Patel",Mumbai,2022,37600000,18.39,No,No Deal,0.0,0.0,204458945.0,2,37600000,0.0,Medium,0
+Startup 248,Health,"Meera Nair, Arjun Nair",Kolkata,2025,59000000,5.48,No,No Deal,0.0,0.0,1076642335.0,2,59000000,0.0,Low,0
+Startup 249,Travel,"Meera Kapoor, Tanya Nair, Rahul Sharma",Delhi,2023,31200000,20.67,No,No Deal,0.0,0.0,150943396.0,3,31200000,0.0,Medium,0
+Startup 250,Education,"Meera Nair, Rahul Singh, Arjun Reddy",Ahmedabad,2021,12300000,3.31,Yes,Ashneer Grover,11677584.0,2.92,371601208.0,3,622416,0.9493970731707317,Low,1
+Startup 251,Agriculture,Sneha Verma,Ahmedabad,2023,54800000,15.98,No,No Deal,0.0,0.0,342928660.0,1,54800000,0.0,Medium,0
+Startup 252,Health,"Pooja Singh, Sneha Verma",Hyderabad,2023,96000000,22.35,Yes,"Aman Gupta, Namita Thapar, Vineeta Singh",86149533.0,25.84,429530201.0,2,9850467,0.89739096875,Medium,1
+Startup 253,Education,"Rahul Nair, Ravi Chopra, Sneha Singh",Pune,2023,72900000,16.97,Yes,Vineeta Singh,55449407.0,15.87,429581614.0,3,17450593,0.7606228669410151,Medium,1
+Startup 254,Food & Beverage,"Tanya Gupta, Nidhi Reddy, Ravi Reddy",Pune,2022,79200000,16.2,No,No Deal,0.0,0.0,488888888.0,3,79200000,0.0,Medium,0
+Startup 255,Entertainment,Tanya Nair,Hyderabad,2022,79400000,14.21,No,No Deal,0.0,0.0,558761435.0,1,79400000,0.0,Medium,0
+Startup 256,Food & Beverage,Arjun Reddy,Hyderabad,2025,27200000,20.47,Yes,Unknown,22511426.0,18.16,132877381.0,1,4688574,0.827625955882353,Medium,1
+Startup 257,Tech,Nidhi Reddy,Ahmedabad,2022,96200000,21.83,Yes,Unknown,86948503.75,25.57,440677966.0,1,5792081,0.9397912577962578,Medium,1
+Startup 258,Finance,Arjun Nair,Mumbai,2021,56200000,14.56,No,No Deal,0.0,0.0,385989010.0,1,56200000,0.0,Medium,0
+Startup 259,E-Commerce,"Pooja Mehta, Amit Chopra, Meera Singh",Bangalore,2025,45200000,7.95,No,No Deal,0.0,0.0,568553459.0,3,45200000,0.0,Low,0
+Startup 260,E-Commerce,Meera Chopra,Hyderabad,2025,25800000,2.72,No,No Deal,0.0,0.0,948529411.0,1,25800000,0.0,Low,0
+Startup 261,Travel,"Tanya Sharma, Sneha Chopra, Karan Reddy",Pune,2025,33800000,9.27,Yes,Unknown,22568331.0,8.71,364617044.0,3,11231669,0.667702100591716,Low,1
+Startup 262,Fashion,Nidhi Sharma,Chennai,2023,49200000,1.55,Yes,"Aman Gupta, Namita Thapar, Vineeta Singh",33689706.0,1.58,1361762269.375,1,15510294,0.6847501219512195,Low,1
+Startup 263,Fashion,"Meera Singh, Rahul Verma, Karan Singh",Mumbai,2024,18400000,2.44,Yes,Unknown,15588220.0,2.0,754098360.0,3,2811780,0.8471858695652174,Low,1
+Startup 264,E-Commerce,"Amit Verma, Pooja Nair, Arjun Reddy",Kolkata,2022,77200000,4.77,No,No Deal,0.0,0.0,1361762269.375,3,77200000,0.0,Low,0
+Startup 265,Travel,"Arjun Patel, Ravi Kapoor",Mumbai,2024,90900000,10.29,Yes,Ashneer Grover,86948503.75,9.16,883381924.0,2,1850128,0.9796465566556656,Medium,1
+Startup 266,Travel,"Rahul Sharma, Karan Nair",Hyderabad,2022,25600000,14.75,No,No Deal,0.0,0.0,173559322.0,2,25600000,0.0,Medium,0
+Startup 267,Education,Sneha Mehta,Kolkata,2023,71400000,8.8,No,No Deal,0.0,0.0,811363636.0,1,71400000,0.0,Low,0
+Startup 268,Education,"Karan Verma, Tanya Chopra",Pune,2022,63600000,23.54,Yes,Namita Thapar,49648948.0,26.62,270178419.0,2,13951052,0.7806438364779874,Medium,1
+Startup 269,Food & Beverage,"Arjun Singh, Amit Nair",Delhi,2023,85900000,16.51,Yes,Unknown,55428575.0,18.35,520290732.0,2,30471425,0.6452686263096624,Medium,1
+Startup 270,E-Commerce,Karan Chopra,Pune,2023,3500000,5.29,Yes,Namita Thapar,2226251.0,4.92,66162570.0,1,1273749,0.6360717142857143,Low,1
+Startup 271,Food & Beverage,Rahul Mehta,Mumbai,2022,32500000,8.43,No,No Deal,0.0,0.0,385527876.0,1,32500000,0.0,Low,0
+Startup 272,E-Commerce,Tanya Gupta,Hyderabad,2025,61200000,16.83,No,No Deal,0.0,0.0,363636363.0,1,61200000,0.0,Medium,0
+Startup 273,Finance,"Sneha Singh, Tanya Verma",Hyderabad,2024,64400000,16.09,Yes,Aman Gupta,55468412.0,13.11,400248601.0,2,8931588,0.8613107453416149,Medium,1
+Startup 274,Health,"Tanya Singh, Arjun Reddy, Sneha Verma",Bangalore,2022,19200000,4.87,No,No Deal,0.0,0.0,394250513.0,3,19200000,0.0,Low,0
+Startup 275,Travel,"Sneha Chopra, Ravi Sharma",Chennai,2023,14700000,3.93,No,No Deal,0.0,0.0,374045801.0,2,14700000,0.0,Low,0
+Startup 276,Finance,"Nidhi Kapoor, Ravi Singh, Tanya Reddy",Delhi,2023,54200000,18.5,No,No Deal,0.0,0.0,292972972.0,3,54200000,0.0,Medium,0
+Startup 277,Agriculture,Tanya Patel,Chennai,2025,1100000,3.84,No,No Deal,0.0,0.0,28645833.0,1,1100000,0.0,Low,0
+Startup 278,Tech,"Pooja Singh, Karan Chopra, Amit Reddy",Pune,2025,2100000,16.37,No,No Deal,0.0,0.0,12828344.0,3,2100000,0.0,Medium,0
+Startup 279,Finance,"Tanya Singh, Amit Mehta, Pooja Reddy",Pune,2023,94800000,12.39,Yes,Aman Gupta,75138310.0,13.02,765133171.0,3,19661690,0.7925982067510549,Medium,1
+Startup 280,E-Commerce,"Meera Chopra, Amit Nair",Chennai,2021,57800000,13.86,Yes,Unknown,42349350.0,16.17,417027417.0,2,15450650,0.7326877162629758,Medium,1
+Startup 281,Travel,Rahul Kapoor,Mumbai,2021,39400000,16.04,Yes,Aman Gupta,29779564.0,16.65,245635910.0,1,9620436,0.755826497461929,Medium,1
+Startup 282,Fashion,"Nidhi Verma, Arjun Chopra, Sneha Gupta",Hyderabad,2021,47200000,20.91,No,No Deal,0.0,0.0,225729316.0,3,47200000,0.0,Medium,0
+Startup 283,Education,"Arjun Mehta, Sneha Reddy, Amit Patel",Bangalore,2023,52800000,1.6,No,No Deal,0.0,0.0,1361762269.375,3,52800000,0.0,Low,0
+Startup 284,E-Commerce,Pooja Reddy,Kolkata,2024,80400000,8.86,Yes,Unknown,78406846.0,9.49,907449209.0,1,1993154,0.9752095273631841,Low,1
+Startup 285,Finance,Tanya Singh,Kolkata,2021,32900000,8.98,Yes,Unknown,28568652.0,9.1,366369710.0,1,4331348,0.868348085106383,Low,1
+Startup 286,Agriculture,"Rahul Sharma, Meera Sharma, Meera Kapoor",Kolkata,2023,24700000,23.74,Yes,Unknown,20915387.0,27.66,104043807.0,3,3784613,0.8467768016194333,Medium,1
+Startup 287,Finance,Nidhi Reddy,Kolkata,2023,4000000,2.57,Yes,"Ghazal Alagh, Ashneer Grover",2851611.0,2.41,155642023.0,1,1148389,0.71290275,Low,1
+Startup 288,Finance,Tanya Patel,Delhi,2023,40300000,2.59,Yes,Unknown,33706439.0,2.88,1361762269.375,1,6593561,0.836388064516129,Low,1
+Startup 289,E-Commerce,Meera Mehta,Chennai,2022,8100000,15.36,No,No Deal,0.0,0.0,52734375.0,1,8100000,0.0,Medium,0
+Startup 290,Finance,"Tanya Gupta, Pooja Patel, Nidhi Kapoor",Chennai,2022,74500000,24.58,No,No Deal,0.0,0.0,303091944.0,3,74500000,0.0,Medium,0
+Startup 291,Tech,"Amit Singh, Ravi Chopra, Rahul Kapoor",Mumbai,2021,93200000,14.17,Yes,"Ghazal Alagh, Namita Thapar, Aman Gupta",86948503.75,16.24,657727593.0,3,5172681,0.9444991309012876,Medium,1
+Startup 292,Education,"Tanya Chopra, Nidhi Chopra",Ahmedabad,2022,45500000,14.08,Yes,Vineeta Singh,34299630.0,16.47,323153409.0,2,11200370,0.753838021978022,Medium,1
+Startup 293,Food & Beverage,Rahul Chopra,Kolkata,2022,64800000,5.32,No,No Deal,0.0,0.0,1218045112.0,1,64800000,0.0,Low,0
+Startup 294,Entertainment,Pooja Gupta,Bangalore,2024,63700000,2.27,No,No Deal,0.0,0.0,1361762269.375,1,63700000,0.0,Low,0
+Startup 295,E-Commerce,Meera Gupta,Kolkata,2021,44100000,9.47,No,No Deal,0.0,0.0,465681098.0,1,44100000,0.0,Low,0
+Startup 296,Fashion,Amit Singh,Chennai,2024,7200000,16.1,Yes,Unknown,6210201.0,14.76,44720496.0,1,989799,0.8625279166666666,Medium,1
+Startup 297,Fashion,Tanya Kapoor,Chennai,2024,2400000,18.79,Yes,Unknown,2149408.0,19.99,12772751.0,1,250592,0.8955866666666666,Medium,1
+Startup 298,Agriculture,"Karan Patel, Meera Mehta",Hyderabad,2021,6500000,16.41,Yes,"Anupam Mittal, Ghazal Alagh",4683554.0,18.03,39609993.0,2,1816446,0.7205467692307692,Medium,1
+Startup 299,E-Commerce,Karan Chopra,Kolkata,2024,15800000,13.73,No,No Deal,0.0,0.0,115076474.0,1,15800000,0.0,Medium,0
+Startup 300,Finance,"Arjun Reddy, Arjun Kapoor, Sneha Kapoor",Ahmedabad,2023,80100000,17.21,Yes,"Ghazal Alagh, Ashneer Grover",66922726.0,15.11,465427077.0,3,13177274,0.8354897128589264,Medium,1
+Startup 301,Travel,"Rahul Reddy, Ravi Verma, Amit Sharma",Mumbai,2022,11000000,13.61,No,No Deal,0.0,0.0,80822924.0,3,11000000,0.0,Medium,0
+Startup 302,Tech,"Ravi Reddy, Nidhi Kapoor, Karan Verma",Bangalore,2021,55700000,21.48,No,No Deal,0.0,0.0,259310986.0,3,55700000,0.0,Medium,0
+Startup 303,Tech,"Arjun Patel, Rahul Nair",Mumbai,2022,68600000,5.58,No,No Deal,0.0,0.0,1229390681.0,2,68600000,0.0,Low,0
+Startup 304,Tech,"Nidhi Gupta, Sneha Gupta, Pooja Mehta",Mumbai,2025,3500000,18.27,Yes,Ghazal Alagh,2856772.0,16.86,19157088.0,3,643228,0.8162205714285714,Medium,1
+Startup 305,Finance,"Sneha Singh, Ravi Mehta",Pune,2025,79200000,2.09,Yes,Namita Thapar,51994381.0,2.02,1361762269.375,2,27205619,0.6564947095959596,Low,1
+Startup 306,Travel,"Rahul Gupta, Pooja Singh, Amit Mehta",Bangalore,2022,80600000,4.79,No,No Deal,0.0,0.0,1361762269.375,3,80600000,0.0,Low,0
+Startup 307,Tech,Amit Mehta,Bangalore,2024,43600000,17.64,No,No Deal,0.0,0.0,247165532.0,1,43600000,0.0,Medium,0
+Startup 308,Food & Beverage,Rahul Kapoor,Kolkata,2022,25400000,23.51,Yes,Namita Thapar,22526739.0,24.56,108039132.0,1,2873261,0.8868794881889763,Medium,1
+Startup 309,Agriculture,Rahul Verma,Mumbai,2021,30100000,6.03,No,No Deal,0.0,0.0,499170812.0,1,30100000,0.0,Low,0
+Startup 310,Travel,"Pooja Reddy, Pooja Sharma",Pune,2025,11000000,6.69,No,No Deal,0.0,0.0,164424514.0,2,11000000,0.0,Low,0
+Startup 311,E-Commerce,Karan Nair,Ahmedabad,2023,83900000,20.15,Yes,Aman Gupta,69082822.0,16.22,416377171.0,1,14817178,0.8233947794994041,Medium,1
+Startup 312,Finance,Rahul Reddy,Chennai,2025,67300000,24.97,Yes,"Ashneer Grover, Peyush Bansal",52743893.0,25.67,269523428.0,1,14556107,0.7837131203566122,Medium,1
+Startup 313,Entertainment,Meera Gupta,Delhi,2022,19900000,19.96,No,No Deal,0.0,0.0,99699398.0,1,19900000,0.0,Medium,0
+Startup 314,Agriculture,"Amit Sharma, Karan Reddy, Ravi Verma",Chennai,2022,78000000,7.47,Yes,Unknown,49325922.0,8.61,1044176706.0,3,28674078,0.6323836153846154,Low,1
+Startup 315,Health,"Nidhi Verma, Sneha Chopra, Nidhi Gupta",Mumbai,2021,38500000,5.21,Yes,Unknown,35013062.0,4.46,738963531.0,3,3486938,0.9094301818181818,Low,1
+Startup 316,Travel,Ravi Sharma,Kolkata,2025,78100000,18.88,Yes,"Vineeta Singh, Peyush Bansal",60072305.0,15.52,413665254.0,1,18027695,0.7691716389244558,Medium,1
+Startup 317,Travel,"Meera Gupta, Ravi Nair",Bangalore,2023,73600000,13.77,No,No Deal,0.0,0.0,534495279.0,2,73600000,0.0,Medium,0
+Startup 318,Education,"Amit Kapoor, Karan Nair, Rahul Gupta",Pune,2022,46400000,18.71,Yes,Aman Gupta,44020491.0,16.71,247995724.0,3,2379509,0.9487174784482758,Medium,1
+Startup 319,E-Commerce,"Nidhi Chopra, Tanya Reddy, Nidhi Gupta",Kolkata,2023,32100000,14.61,No,No Deal,0.0,0.0,219712525.0,3,32100000,0.0,Medium,0
+Startup 320,Travel,"Rahul Reddy, Meera Nair",Delhi,2024,13400000,23.09,No,No Deal,0.0,0.0,58033780.0,2,13400000,0.0,Medium,0
+Startup 321,Fashion,"Arjun Singh, Rahul Singh",Kolkata,2021,71500000,3.7,No,No Deal,0.0,0.0,1361762269.375,2,71500000,0.0,Low,0
+Startup 322,Travel,"Tanya Nair, Amit Reddy, Karan Mehta",Ahmedabad,2021,40500000,9.95,No,No Deal,0.0,0.0,407035175.0,3,40500000,0.0,Low,0
+Startup 323,Travel,"Arjun Gupta, Ravi Sharma",Hyderabad,2023,76900000,24.82,No,No Deal,0.0,0.0,309830781.0,2,76900000,0.0,Medium,0
+Startup 324,E-Commerce,"Sneha Singh, Karan Sharma",Mumbai,2022,66400000,22.95,No,No Deal,0.0,0.0,289324618.0,2,66400000,0.0,Medium,0
+Startup 325,Food & Beverage,"Meera Singh, Rahul Patel, Rahul Chopra",Chennai,2023,5300000,20.75,No,No Deal,0.0,0.0,25542168.0,3,5300000,0.0,Medium,0
+Startup 326,Tech,"Arjun Chopra, Rahul Gupta, Pooja Verma",Bangalore,2024,51400000,24.86,Yes,Unknown,38277775.0,24.67,206757843.0,3,13122225,0.7447037937743191,Medium,1
+Startup 327,Finance,"Meera Sharma, Nidhi Nair",Mumbai,2024,17600000,14.96,Yes,"Ashneer Grover, Namita Thapar, Ghazal Alagh",10932333.0,14.13,117647058.0,2,6667667,0.6211552840909091,Medium,1
+Startup 328,Travel,Arjun Kapoor,Bangalore,2025,79400000,16.07,Yes,Unknown,52948236.0,14.93,494088363.0,1,26451764,0.6668543576826197,Medium,1
+Startup 329,Food & Beverage,"Amit Sharma, Pooja Nair, Meera Reddy",Delhi,2023,69900000,23.99,Yes,"Ghazal Alagh, Ashneer Grover",69377179.0,23.26,291371404.0,3,522821,0.992520443490701,Medium,1
+Startup 330,Travel,"Sneha Chopra, Arjun Gupta",Chennai,2023,24100000,14.29,No,No Deal,0.0,0.0,168649405.0,2,24100000,0.0,Medium,0
+Startup 331,Tech,"Meera Nair, Sneha Sharma",Delhi,2022,42000000,17.68,Yes,Unknown,40192784.0,15.34,237556561.0,2,1807216,0.9569710476190476,Medium,1
+Startup 332,Fashion,"Tanya Singh, Arjun Chopra, Nidhi Gupta",Ahmedabad,2023,53300000,7.69,No,No Deal,0.0,0.0,693107932.0,3,53300000,0.0,Low,0
+Startup 333,Tech,Arjun Gupta,Kolkata,2025,65300000,23.62,Yes,Ghazal Alagh,40962132.0,25.3,276460626.0,1,24337868,0.6272914548238897,Medium,1
+Startup 334,Agriculture,Arjun Gupta,Kolkata,2024,56500000,9.25,Yes,Unknown,34614126.0,8.99,610810810.0,1,21885874,0.6126393982300885,Low,1
+Startup 335,Agriculture,"Rahul Nair, Amit Chopra, Arjun Gupta",Ahmedabad,2021,79400000,24.47,No,No Deal,0.0,0.0,324478953.0,3,79400000,0.0,Medium,0
+Startup 336,Health,Tanya Verma,Delhi,2021,36700000,20.43,Yes,Aman Gupta,31197246.0,19.45,179637787.0,1,5502754,0.8500611989100817,Medium,1
+Startup 337,Finance,"Nidhi Chopra, Nidhi Verma",Hyderabad,2025,25000000,16.55,Yes, Namita Thapar,15655002.0,15.26,151057401.0,2,9344998,0.62620008,Medium,1
+Startup 338,Entertainment,"Karan Kapoor, Amit Gupta, Tanya Verma",Pune,2022,59400000,10.37,Yes,"Ashneer Grover, Namita Thapar, Ghazal Alagh",38017346.0,11.1,572806171.0,3,21382654,0.6400226599326599,Medium,1
+Startup 339,Travel,"Ravi Reddy, Rahul Singh",Chennai,2021,45600000,5.84,Yes,Unknown,37133612.0,5.34,780821917.0,2,8466388,0.814333596491228,Low,1
+Startup 340,Travel,Arjun Nair,Chennai,2022,68900000,13.96,Yes,"Vineeta Singh, Ghazal Alagh",53830980.0,15.43,493553008.0,1,15069020,0.7812914368650218,Medium,1
+Startup 341,Food & Beverage,Ravi Mehta,Kolkata,2025,68600000,24.09,No,No Deal,0.0,0.0,284765462.0,1,68600000,0.0,Medium,0
+Startup 342,Fashion,"Ravi Singh, Karan Singh, Amit Nair",Hyderabad,2021,48300000,4.55,Yes,Unknown,43770041.0,5.18,1061538461.0,3,4529959,0.9062120289855072,Low,1
+Startup 343,Fashion,"Meera Nair, Karan Chopra",Mumbai,2025,17300000,7.55,Yes,"Peyush Bansal, Vineeta Singh",11597817.0,8.61,229139072.0,2,5702183,0.6703940462427745,Low,1
+Startup 344,Agriculture,Amit Sharma,Pune,2024,89700000,2.53,No,No Deal,0.0,0.0,1361762269.375,1,89700000,0.0,Low,0
+Startup 345,Travel,"Sneha Chopra, Rahul Patel, Sneha Singh",Bangalore,2024,51800000,22.23,Yes,"Peyush Bansal, Vineeta Singh",47100515.0,20.57,233018443.0,3,4699485,0.9092763513513513,Medium,1
+Startup 346,Entertainment,"Karan Patel, Karan Patel, Rahul Sharma",Delhi,2025,29100000,11.55,No,No Deal,0.0,0.0,251948051.0,3,29100000,0.0,Medium,0
+Startup 347,Education,"Ravi Chopra, Arjun Reddy",Bangalore,2025,88800000,11.62,Yes,Unknown,67238492.0,13.84,764199655.0,2,21561508,0.7571902252252253,Medium,1
+Startup 348,Fashion,"Sneha Patel, Arjun Patel",Delhi,2023,65600000,8.61,No,No Deal,0.0,0.0,761904761.0,2,65600000,0.0,Low,0
+Startup 349,Health,"Sneha Gupta, Meera Chopra",Pune,2022,90700000,23.05,Yes,Unknown,79760933.0,23.11,393492407.0,2,10939067,0.8793928665931643,Medium,1
+Startup 350,Food & Beverage,Karan Patel,Chennai,2021,59900000,2.97,Yes,"Ghazal Alagh, Peyush Bansal, Ashneer Grover",56233171.0,3.19,1361762269.375,1,3666829,0.9387841569282137,Low,1
+Startup 351,Travel,"Meera Mehta, Arjun Mehta",Pune,2024,21300000,3.03,No,No Deal,0.0,0.0,702970297.0,2,21300000,0.0,Low,0
+Startup 352,Food & Beverage,"Karan Singh, Pooja Verma",Mumbai,2025,93800000,3.14,No,No Deal,0.0,0.0,1361762269.375,2,93800000,0.0,Low,0
+Startup 353,Education,"Rahul Verma, Karan Singh",Ahmedabad,2024,16200000,3.14,No,No Deal,0.0,0.0,515923566.0,2,16200000,0.0,Low,0
+Startup 354,Food & Beverage,"Sneha Verma, Ravi Chopra, Meera Gupta",Bangalore,2025,74000000,5.88,No,No Deal,0.0,0.0,1258503401.0,3,74000000,0.0,Low,0
+Startup 355,Fashion,"Meera Chopra, Rahul Chopra, Pooja Singh",Hyderabad,2024,75400000,17.25,No,No Deal,0.0,0.0,437101449.0,3,75400000,0.0,Medium,0
+Startup 356,Food & Beverage,"Rahul Verma, Arjun Kapoor",Hyderabad,2023,93900000,6.96,No,No Deal,0.0,0.0,1349137931.0,2,93900000,0.0,Low,0
+Startup 357,Tech,Meera Mehta,Pune,2022,71300000,6.09,No,No Deal,0.0,0.0,1170771756.0,1,71300000,0.0,Low,0
+Startup 358,Finance,"Tanya Kapoor, Sneha Sharma, Ravi Verma",Mumbai,2021,96300000,6.64,No,No Deal,0.0,0.0,1361762269.375,3,96300000,0.0,Low,0
+Startup 359,Entertainment,"Tanya Verma, Amit Kapoor, Ravi Singh",Ahmedabad,2024,41400000,17.11,Yes,"Peyush Bansal, Vineeta Singh",34106320.0,17.66,241963763.0,3,7293680,0.823824154589372,Medium,1
+Startup 360,Fashion,Ravi Gupta,Pune,2023,14500000,3.15,No,No Deal,0.0,0.0,460317460.0,1,14500000,0.0,Low,0
+Startup 361,Food & Beverage,"Sneha Reddy, Amit Mehta",Kolkata,2024,77500000,9.65,No,No Deal,0.0,0.0,803108808.0,2,77500000,0.0,Low,0
+Startup 362,Finance,Meera Verma,Kolkata,2021,73600000,14.46,No,No Deal,0.0,0.0,508990318.0,1,73600000,0.0,Medium,0
+Startup 363,Entertainment,"Tanya Patel, Tanya Verma, Ravi Singh",Delhi,2022,95200000,2.84,No,No Deal,0.0,0.0,1361762269.375,3,95200000,0.0,Low,0
+Startup 364,Health,"Amit Singh, Meera Reddy",Delhi,2025,89300000,2.17,No,No Deal,0.0,0.0,1361762269.375,2,89300000,0.0,Low,0
+Startup 365,Fashion,"Tanya Mehta, Nidhi Sharma, Nidhi Nair",Hyderabad,2023,46600000,22.25,No,No Deal,0.0,0.0,209438202.0,3,46600000,0.0,Medium,0
+Startup 366,Fashion,"Tanya Chopra, Sneha Chopra, Nidhi Singh",Delhi,2022,65500000,11.22,Yes,"Ashneer Grover, Namita Thapar, Ghazal Alagh",64799720.0,12.01,583778966.0,3,700280,0.9893087022900763,Medium,1
+Startup 367,Food & Beverage,"Ravi Nair, Sneha Kapoor",Kolkata,2022,9100000,22.77,No,No Deal,0.0,0.0,39964866.0,2,9100000,0.0,Medium,0
+Startup 368,Fashion,Rahul Kapoor,Hyderabad,2022,31200000,14.64,Yes,Unknown,25127413.0,14.7,213114754.0,1,6072587,0.8053658012820513,Medium,1
+Startup 369,Finance,Meera Singh,Chennai,2021,27000000,15.05,Yes,"Anupam Mittal, Ashneer Grover, Peyush Bansal",25303426.0,12.31,179401993.0,1,1696574,0.9371639259259259,Medium,1
+Startup 370,Finance,"Arjun Reddy, Tanya Gupta, Meera Singh",Chennai,2021,99900000,23.03,Yes,Peyush Bansal,86948503.75,20.81,433782023.0,3,711840,0.9928744744744745,Medium,1
+Startup 371,Finance,"Tanya Gupta, Arjun Singh, Tanya Reddy",Ahmedabad,2024,9900000,4.0,Yes,Peyush Bansal,9783260.0,4.57,247500000.0,3,116740,0.9882080808080808,Low,1
+Startup 372,Agriculture,"Meera Verma, Meera Singh",Hyderabad,2025,31100000,14.67,No,No Deal,0.0,0.0,211997273.0,2,31100000,0.0,Medium,0
+Startup 373,Health,"Amit Sharma, Karan Chopra",Kolkata,2024,4700000,12.7,No,No Deal,0.0,0.0,37007874.0,2,4700000,0.0,Medium,0
+Startup 374,E-Commerce,"Tanya Gupta, Pooja Verma, Ravi Verma",Ahmedabad,2021,57600000,2.52,No,No Deal,0.0,0.0,1361762269.375,3,57600000,0.0,Low,0
+Startup 375,Agriculture,Meera Singh,Pune,2023,72400000,11.47,Yes,Anupam Mittal,53397820.0,10.24,631211857.0,1,19002180,0.737538950276243,Medium,1
+Startup 376,Education,"Nidhi Singh, Meera Mehta, Arjun Chopra",Ahmedabad,2021,82500000,12.34,Yes,Unknown,58821088.0,13.57,668557536.0,3,23678912,0.7129828848484848,Medium,1
+Startup 377,Agriculture,Rahul Patel,Delhi,2023,11300000,20.04,No,No Deal,0.0,0.0,56387225.0,1,11300000,0.0,Medium,0
+Startup 378,Food & Beverage,Ravi Verma,Bangalore,2021,45000000,3.74,Yes,Anupam Mittal,31640798.0,3.5,1203208556.0,1,13359202,0.7031288444444445,Low,1
+Startup 379,Finance,Pooja Gupta,Pune,2024,52700000,5.11,No,No Deal,0.0,0.0,1031311154.0,1,52700000,0.0,Low,0
+Startup 380,Entertainment,Ravi Kapoor,Ahmedabad,2022,91700000,17.34,No,No Deal,0.0,0.0,528835063.0,1,91700000,0.0,Medium,0
+Startup 381,Travel,"Amit Kapoor, Ravi Singh",Delhi,2022,46600000,16.45,No,No Deal,0.0,0.0,283282674.0,2,46600000,0.0,Medium,0
+Startup 382,Travel,"Karan Patel, Arjun Sharma, Amit Nair",Pune,2022,75200000,18.25,Yes,Unknown,61386969.0,16.16,412054794.0,3,13813031,0.8163160771276595,Medium,1
+Startup 383,E-Commerce,"Arjun Nair, Nidhi Mehta, Amit Verma",Chennai,2025,86200000,19.58,No,No Deal,0.0,0.0,440245148.0,3,86200000,0.0,Medium,0
+Startup 384,E-Commerce,Amit Reddy,Chennai,2021,13600000,2.15,Yes,"Peyush Bansal, Aman Gupta, Anupam Mittal",10004052.0,1.92,632558139.0,1,3595948,0.7355920588235294,Low,1
+Startup 385,Entertainment,"Ravi Singh, Pooja Reddy, Arjun Kapoor",Delhi,2022,54200000,18.7,Yes,"Ashneer Grover, Namita Thapar, Anupam Mittal",34644376.0,20.28,289839572.0,3,19555624,0.6391951291512915,Medium,1
+Startup 386,Travel,"Arjun Gupta, Amit Mehta",Delhi,2022,5900000,23.48,No,No Deal,0.0,0.0,25127768.0,2,5900000,0.0,Medium,0
+Startup 387,E-Commerce,"Sneha Nair, Sneha Patel, Tanya Nair",Mumbai,2025,77800000,12.42,Yes,"Ashneer Grover, Aman Gupta, Namita Thapar",71163879.0,11.15,626409017.0,3,6636121,0.9147028149100257,Medium,1
+Startup 388,Finance,"Sneha Sharma, Sneha Nair",Delhi,2024,15700000,5.38,Yes,"Peyush Bansal, Ashneer Grover",9789978.0,6.37,291821561.0,2,5910022,0.6235654777070063,Low,1
+Startup 389,Fashion,"Sneha Verma, Pooja Patel",Hyderabad,2023,53000000,19.06,No,No Deal,0.0,0.0,278069254.0,2,53000000,0.0,Medium,0
+Startup 390,Entertainment,"Sneha Patel, Ravi Mehta, Arjun Singh",Ahmedabad,2023,9500000,21.31,Yes,Namita Thapar,6240994.0,21.65,44580009.0,3,3259006,0.6569467368421052,Medium,1
+Startup 391,Food & Beverage,Amit Gupta,Chennai,2024,86900000,17.32,No,No Deal,0.0,0.0,501732101.0,1,86900000,0.0,Medium,0
+Startup 392,Education,"Ravi Kapoor, Amit Mehta, Ravi Singh",Bangalore,2024,10100000,10.49,Yes,Aman Gupta,8989298.0,12.58,96282173.0,3,1110702,0.890029504950495,Medium,1
+Startup 393,Finance,Tanya Nair,Pune,2021,66000000,7.27,No,No Deal,0.0,0.0,907840440.0,1,66000000,0.0,Low,0
+Startup 394,Fashion,Nidhi Reddy,Hyderabad,2023,99200000,15.39,Yes,Unknown,64826237.0,17.99,644574398.0,1,34373763,0.6534902923387097,Medium,1
+Startup 395,Entertainment,"Amit Verma, Rahul Chopra",Kolkata,2022,56100000,2.95,Yes,Unknown,53689320.0,3.32,1361762269.375,2,2410680,0.9570288770053476,Low,1
+Startup 396,Travel,Sneha Singh,Chennai,2025,24900000,24.52,No,No Deal,0.0,0.0,101549755.0,1,24900000,0.0,Medium,0
+Startup 397,Health,"Meera Singh, Pooja Verma",Hyderabad,2022,12300000,21.88,No,No Deal,0.0,0.0,56215722.0,2,12300000,0.0,Medium,0
+Startup 398,Travel,Tanya Verma,Hyderabad,2022,99000000,2.79,Yes,"Namita Thapar, Aman Gupta",84189389.0,2.34,1361762269.375,1,14810611,0.8503978686868687,Low,1
+Startup 399,Tech,Amit Gupta,Mumbai,2024,63500000,16.03,Yes,Vineeta Singh,39425959.0,18.27,396132252.0,1,24074041,0.6208812440944882,Medium,1
+Startup 400,Travel,"Tanya Nair, Rahul Mehta",Kolkata,2024,62700000,9.23,No,No Deal,0.0,0.0,679306608.0,2,62700000,0.0,Low,0
+Startup 401,Health,"Tanya Mehta, Amit Patel, Ravi Nair",Mumbai,2022,36200000,5.69,Yes,Unknown,24634262.0,4.71,636203866.0,3,11565738,0.6805044751381215,Low,1
+Startup 402,Education,"Meera Gupta, Tanya Reddy, Tanya Singh",Pune,2024,43800000,8.89,Yes,Anupam Mittal,30123991.0,7.13,492688413.0,3,13676009,0.6877623515981736,Low,1
+Startup 403,Education,"Pooja Gupta, Tanya Patel, Pooja Gupta",Pune,2022,22000000,10.61,Yes,Namita Thapar,13464154.0,8.98,207351555.0,3,8535846,0.612007,Medium,1
+Startup 404,Fashion,"Pooja Singh, Nidhi Verma",Mumbai,2025,21200000,7.82,Yes,Unknown,18815734.0,7.32,271099744.0,2,2384266,0.8875346226415094,Low,1
+Startup 405,Agriculture,Nidhi Reddy,Delhi,2022,90900000,18.06,Yes,Ghazal Alagh,61435351.0,18.3,503322259.0,1,29464649,0.6758564466446645,Medium,1
+Startup 406,Travel,"Tanya Chopra, Pooja Verma",Hyderabad,2024,81800000,4.57,Yes,"Ghazal Alagh, Ashneer Grover",76941166.0,5.43,1361762269.375,2,4858834,0.9406010513447433,Low,1
+Startup 407,Agriculture,"Meera Mehta, Nidhi Reddy, Ravi Gupta",Kolkata,2023,28400000,14.95,Yes,Anupam Mittal,26845591.0,14.33,189966555.0,3,1554409,0.9452672887323944,Medium,1
+Startup 408,Agriculture,"Nidhi Patel, Tanya Verma, Meera Nair",Pune,2022,47100000,12.22,No,No Deal,0.0,0.0,385433715.0,3,47100000,0.0,Medium,0
+Startup 409,Travel,"Nidhi Kapoor, Karan Verma",Delhi,2023,24900000,7.37,Yes,Namita Thapar,23332329.0,7.41,337856173.0,2,1567671,0.9370413253012048,Low,1
+Startup 410,Finance,"Tanya Verma, Meera Nair",Delhi,2022,24300000,6.45,Yes,"Vineeta Singh, Ghazal Alagh, Anupam Mittal",21602800.0,6.35,376744186.0,2,2697200,0.8890041152263375,Low,1
+Startup 411,Tech,"Pooja Chopra, Karan Patel",Kolkata,2023,88300000,14.4,No,No Deal,0.0,0.0,613194444.0,2,88300000,0.0,Medium,0
+Startup 412,Food & Beverage,"Rahul Kapoor, Amit Gupta, Nidhi Reddy",Hyderabad,2022,44500000,17.46,No,No Deal,0.0,0.0,254868270.0,3,44500000,0.0,Medium,0
+Startup 413,Education,Karan Kapoor,Hyderabad,2025,30800000,16.83,Yes,"Vineeta Singh, Aman Gupta",20596892.0,19.25,183006535.0,1,10203108,0.6687302597402598,Medium,1
+Startup 414,Finance,"Rahul Sharma, Rahul Nair",Ahmedabad,2023,77000000,2.65,Yes,Namita Thapar,59511780.0,2.87,1361762269.375,2,17488220,0.7728802597402598,Low,1
+Startup 415,Agriculture,Tanya Singh,Chennai,2025,52400000,18.2,No,No Deal,0.0,0.0,287912087.0,1,52400000,0.0,Medium,0
+Startup 416,Agriculture,"Tanya Verma, Sneha Kapoor",Kolkata,2021,72700000,21.22,No,No Deal,0.0,0.0,342601319.0,2,72700000,0.0,Medium,0
+Startup 417,Finance,"Rahul Chopra, Pooja Mehta, Tanya Chopra",Kolkata,2022,94200000,16.82,Yes,Ashneer Grover,86948503.75,14.52,560047562.0,3,4312785,0.9542167197452229,Medium,1
+Startup 418,E-Commerce,"Sneha Patel, Meera Chopra",Bangalore,2021,8800000,19.13,No,No Deal,0.0,0.0,46001045.0,2,8800000,0.0,Medium,0
+Startup 419,Finance,"Rahul Kapoor, Pooja Nair",Mumbai,2023,3700000,2.76,No,No Deal,0.0,0.0,134057971.0,2,3700000,0.0,Low,0
+Startup 420,Finance,"Karan Patel, Karan Verma",Mumbai,2024,12700000,18.02,Yes,"Anupam Mittal, Ghazal Alagh, Peyush Bansal",7966644.0,18.37,70477247.0,2,4733356,0.6272948031496063,Medium,1
+Startup 421,Food & Beverage,Amit Kapoor,Delhi,2023,37600000,5.27,Yes,Unknown,30565774.0,5.15,713472485.0,1,7034226,0.8129195212765957,Low,1
+Startup 422,Tech,Karan Verma,Mumbai,2021,85000000,5.61,Yes,Ghazal Alagh,79403092.0,5.98,1361762269.375,1,5596908,0.9341540235294118,Low,1
+Startup 423,Food & Beverage,Karan Nair,Bangalore,2021,34000000,14.49,Yes,"Anupam Mittal, Ghazal Alagh, Peyush Bansal",33106852.0,13.88,234644582.0,1,893148,0.9737309411764706,Medium,1
+Startup 424,Finance,Pooja Patel,Bangalore,2021,34100000,5.17,No,No Deal,0.0,0.0,659574468.0,1,34100000,0.0,Low,0
+Startup 425,Travel,Karan Patel,Kolkata,2025,7700000,16.79,No,No Deal,0.0,0.0,45860631.0,1,7700000,0.0,Medium,0
+Startup 426,Entertainment,"Amit Sharma, Pooja Chopra",Chennai,2023,11400000,18.1,Yes,Vineeta Singh,8319055.0,19.05,62983425.0,2,3080945,0.7297416666666666,Medium,1
+Startup 427,Finance,"Pooja Nair, Tanya Verma, Pooja Verma",Bangalore,2024,25200000,18.71,Yes,Unknown,15724024.0,17.77,134687332.0,3,9475976,0.6239692063492064,Medium,1
+Startup 428,Travel,Arjun Reddy,Mumbai,2022,67300000,20.51,Yes,"Namita Thapar, Ghazal Alagh, Ashneer Grover",45920605.0,16.85,328132618.0,1,21379395,0.6823269687964338,Medium,1
+Startup 429,Education,Sneha Mehta,Hyderabad,2025,52900000,2.88,No,No Deal,0.0,0.0,1361762269.375,1,52900000,0.0,Low,0
+Startup 430,Entertainment,"Pooja Kapoor, Meera Sharma",Pune,2022,39600000,5.03,No,No Deal,0.0,0.0,787276341.0,2,39600000,0.0,Low,0
+Startup 431,Entertainment,"Rahul Nair, Rahul Kapoor, Karan Gupta",Chennai,2023,30000000,10.0,No,No Deal,0.0,0.0,300000000.0,3,30000000,0.0,Medium,0
+Startup 432,Agriculture,"Karan Chopra, Nidhi Chopra",Kolkata,2024,66600000,24.7,Yes,Aman Gupta,50211764.0,25.35,269635627.0,2,16388236,0.7539303903903903,Medium,1
+Startup 433,Food & Beverage,Sneha Sharma,Ahmedabad,2022,73300000,15.07,Yes,Unknown,49516297.0,14.61,486396814.0,1,23783703,0.6755292905866302,Medium,1
+Startup 434,Finance,"Arjun Nair, Ravi Chopra",Chennai,2022,78000000,22.03,Yes,"Ghazal Alagh, Namita Thapar, Ashneer Grover",55193465.0,19.47,354062641.0,2,22806535,0.7076085256410256,Medium,1
+Startup 435,Finance,"Arjun Verma, Rahul Gupta, Amit Sharma",Bangalore,2022,54700000,11.0,No,No Deal,0.0,0.0,497272727.0,3,54700000,0.0,Medium,0
+Startup 436,Finance,"Nidhi Reddy, Nidhi Patel",Pune,2022,39700000,15.66,No,No Deal,0.0,0.0,253512132.0,2,39700000,0.0,Medium,0
+Startup 437,Education,"Meera Singh, Meera Nair",Ahmedabad,2025,1300000,24.67,No,No Deal,0.0,0.0,5269558.0,2,1300000,0.0,Medium,0
+Startup 438,Health,"Nidhi Verma, Nidhi Gupta, Pooja Singh",Kolkata,2022,76600000,15.7,Yes,"Peyush Bansal, Ghazal Alagh",73695412.0,17.17,487898089.0,3,2904588,0.9620810966057441,Medium,1
+Startup 439,Fashion,"Pooja Mehta, Ravi Singh, Ravi Verma",Delhi,2023,82500000,3.09,No,No Deal,0.0,0.0,1361762269.375,3,82500000,0.0,Low,0
+Startup 440,Food & Beverage,"Sneha Gupta, Ravi Patel",Hyderabad,2025,18400000,19.08,Yes,"Aman Gupta, Ashneer Grover, Namita Thapar",17683493.0,21.11,96436058.0,2,716507,0.9610594021739131,Medium,1
+Startup 441,Education,"Arjun Gupta, Sneha Mehta, Ravi Gupta",Bangalore,2021,90200000,6.37,Yes,"Peyush Bansal, Anupam Mittal, Namita Thapar",67722532.0,6.92,1361762269.375,3,22477468,0.7508041241685144,Low,1
+Startup 442,Travel,"Tanya Verma, Arjun Verma",Hyderabad,2022,44300000,8.67,No,No Deal,0.0,0.0,510957324.0,2,44300000,0.0,Low,0
+Startup 443,Food & Beverage,"Tanya Singh, Pooja Sharma, Karan Verma",Kolkata,2021,15800000,20.59,No,No Deal,0.0,0.0,76736279.0,3,15800000,0.0,Medium,0
+Startup 444,Finance,Nidhi Mehta,Hyderabad,2025,72700000,18.66,Yes,Unknown,64772660.0,17.16,389603429.0,1,7927340,0.8909581843191197,Medium,1
+Startup 445,Food & Beverage,Ravi Chopra,Pune,2022,70400000,12.36,No,No Deal,0.0,0.0,569579288.0,1,70400000,0.0,Medium,0
+Startup 446,Finance,"Sneha Nair, Arjun Kapoor",Hyderabad,2022,10900000,4.14,Yes,Unknown,9633801.0,4.07,263285024.0,2,1266199,0.8838349541284404,Low,1
+Startup 447,Food & Beverage,"Rahul Gupta, Meera Kapoor, Rahul Patel",Hyderabad,2025,76200000,16.63,No,No Deal,0.0,0.0,458208057.0,3,76200000,0.0,Medium,0
+Startup 448,Agriculture,Amit Sharma,Pune,2022,16200000,16.05,No,No Deal,0.0,0.0,100934579.0,1,16200000,0.0,Medium,0
+Startup 449,Education,Sneha Patel,Ahmedabad,2023,31900000,17.51,Yes,Unknown,23929742.0,18.85,182181610.0,1,7970258,0.7501486520376176,Medium,1
+Startup 450,E-Commerce,Amit Singh,Kolkata,2024,72000000,18.89,Yes,"Peyush Bansal, Anupam Mittal, Namita Thapar",59656985.0,15.86,381154049.0,1,12343015,0.8285692361111111,Medium,1
+Startup 451,Tech,Tanya Mehta,Mumbai,2023,82900000,8.54,Yes,Peyush Bansal,55085732.0,8.75,970725995.0,1,27814268,0.6644841013268998,Low,1
+Startup 452,Health,Sneha Nair,Chennai,2021,99900000,14.07,No,No Deal,0.0,0.0,710021321.0,1,99900000,0.0,Medium,0
+Startup 453,Health,Arjun Verma,Chennai,2023,15300000,14.85,No,No Deal,0.0,0.0,103030303.0,1,15300000,0.0,Medium,0
+Startup 454,Travel,"Rahul Singh, Karan Sharma",Chennai,2024,40000000,16.59,Yes,Namita Thapar,34824410.0,19.51,241109101.0,2,5175590,0.87061025,Medium,1
+Startup 455,Food & Beverage,"Pooja Sharma, Arjun Patel, Nidhi Singh",Delhi,2022,85100000,4.68,No,No Deal,0.0,0.0,1361762269.375,3,85100000,0.0,Low,0
+Startup 456,Finance,Tanya Patel,Bangalore,2024,13700000,13.76,No,No Deal,0.0,0.0,99563953.0,1,13700000,0.0,Medium,0
+Startup 457,Tech,"Sneha Reddy, Nidhi Kapoor",Delhi,2025,29000000,1.24,No,No Deal,0.0,0.0,1361762269.375,2,29000000,0.0,Low,0
+Startup 458,Education,"Sneha Sharma, Rahul Nair",Chennai,2023,10700000,13.7,No,No Deal,0.0,0.0,78102189.0,2,10700000,0.0,Medium,0
+Startup 459,E-Commerce,"Tanya Sharma, Amit Mehta",Pune,2022,19500000,9.28,No,No Deal,0.0,0.0,210129310.0,2,19500000,0.0,Low,0
+Startup 460,Agriculture,"Rahul Kapoor, Amit Nair, Rahul Mehta",Delhi,2022,59100000,18.65,Yes,Unknown,50570534.0,17.68,316890080.0,3,8529466,0.8556773942470389,Medium,1
+Startup 461,Education,"Tanya Chopra, Meera Mehta, Meera Reddy",Kolkata,2024,29200000,23.86,Yes,Namita Thapar,22268092.0,22.07,122380553.0,3,6931908,0.7626058904109589,Medium,1
+Startup 462,Health,"Ravi Mehta, Meera Gupta",Bangalore,2022,2400000,15.79,Yes,Anupam Mittal,2114488.0,17.37,15199493.0,2,285512,0.8810366666666667,Medium,1
+Startup 463,Finance,Nidhi Sharma,Pune,2025,86100000,13.94,Yes,"Namita Thapar, Ghazal Alagh",58997991.0,15.27,617647058.0,1,27102009,0.6852263763066202,Medium,1
+Startup 464,Entertainment,"Pooja Kapoor, Ravi Verma",Kolkata,2023,6800000,9.54,No,No Deal,0.0,0.0,71278825.0,2,6800000,0.0,Low,0
+Startup 465,Travel,"Nidhi Sharma, Amit Reddy",Delhi,2022,37300000,1.21,No,No Deal,0.0,0.0,1361762269.375,2,37300000,0.0,Low,0
+Startup 466,Agriculture,Sneha Nair,Delhi,2022,13600000,22.91,Yes,"Namita Thapar, Ashneer Grover, Anupam Mittal",10310752.0,21.07,59362723.0,1,3289248,0.7581435294117647,Medium,1
+Startup 467,Finance,Ravi Kapoor,Bangalore,2023,68200000,21.14,Yes,"Anupam Mittal, Aman Gupta, Namita Thapar",65023960.0,22.91,322611163.0,1,3176040,0.9534304985337243,Medium,1
+Startup 468,Tech,Arjun Verma,Delhi,2022,44100000,18.85,Yes,Anupam Mittal,43389087.0,22.49,233952254.0,1,710913,0.9838795238095238,Medium,1
+Startup 469,Tech,"Meera Nair, Meera Mehta",Pune,2022,52300000,18.42,No,No Deal,0.0,0.0,283930510.0,2,52300000,0.0,Medium,0
+Startup 470,Finance,Meera Sharma,Delhi,2025,88500000,15.19,Yes,Anupam Mittal,54458171.0,18.17,582620144.0,1,34041829,0.6153465649717514,Medium,1
+Startup 471,Food & Beverage,"Amit Singh, Pooja Sharma",Mumbai,2022,42700000,13.6,Yes,"Anupam Mittal, Aman Gupta",34328471.0,14.38,313970588.0,2,8371529,0.803945456674473,Medium,1
+Startup 472,Fashion,Arjun Reddy,Chennai,2021,73800000,11.03,No,No Deal,0.0,0.0,669084315.0,1,73800000,0.0,Medium,0
+Startup 473,Health,Amit Verma,Mumbai,2021,22700000,7.85,No,No Deal,0.0,0.0,289171974.0,1,22700000,0.0,Low,0
+Startup 474,Entertainment,Karan Mehta,Chennai,2023,38200000,9.02,Yes,Peyush Bansal,31351018.0,10.33,423503325.0,1,6848982,0.820707277486911,Low,1
+Startup 475,Travel,"Nidhi Singh, Ravi Singh",Pune,2025,67500000,7.62,No,No Deal,0.0,0.0,885826771.0,2,67500000,0.0,Low,0
+Startup 476,Fashion,"Meera Patel, Ravi Mehta, Amit Mehta",Hyderabad,2022,57300000,18.08,No,No Deal,0.0,0.0,316924778.0,3,57300000,0.0,Medium,0
+Startup 477,E-Commerce,"Sneha Mehta, Meera Nair, Karan Nair",Ahmedabad,2022,63100000,7.52,Yes,"Ashneer Grover, Vineeta Singh, Aman Gupta",60049872.0,8.39,839095744.0,3,3050128,0.9516619968304278,Low,1
+Startup 478,Education,Ravi Sharma,Mumbai,2021,65700000,15.52,No,No Deal,0.0,0.0,423324742.0,1,65700000,0.0,Medium,0
+Startup 479,Travel,Ravi Kapoor,Delhi,2022,92900000,15.68,No,No Deal,0.0,0.0,592474489.0,1,92900000,0.0,Medium,0
+Startup 480,Fashion,"Tanya Nair, Pooja Gupta, Pooja Reddy",Chennai,2025,60500000,16.12,No,No Deal,0.0,0.0,375310173.0,3,60500000,0.0,Medium,0
+Startup 481,Food & Beverage,"Tanya Verma, Amit Sharma, Ravi Reddy",Bangalore,2025,15200000,12.53,No,No Deal,0.0,0.0,121308858.0,3,15200000,0.0,Medium,0
+Startup 482,Food & Beverage,"Nidhi Gupta, Rahul Patel",Mumbai,2024,65200000,14.05,Yes,Aman Gupta,41801423.0,12.91,464056939.0,2,23398577,0.6411261196319018,Medium,1
+Startup 483,E-Commerce,"Rahul Verma, Pooja Verma",Hyderabad,2022,40400000,4.54,No,No Deal,0.0,0.0,889867841.0,2,40400000,0.0,Low,0
+Startup 484,Education,"Karan Sharma, Meera Mehta, Sneha Patel",Bangalore,2024,37500000,2.83,No,No Deal,0.0,0.0,1325088339.0,3,37500000,0.0,Low,0
+Startup 485,Tech,"Sneha Verma, Tanya Mehta",Delhi,2022,55300000,9.04,Yes,Unknown,36502867.0,9.64,611725663.0,2,18797133,0.6600880108499095,Low,1
+Startup 486,Agriculture,"Karan Singh, Nidhi Mehta, Pooja Chopra",Ahmedabad,2023,56100000,13.81,Yes,"Peyush Bansal, Anupam Mittal, Vineeta Singh",46627547.0,14.88,406227371.0,3,9472453,0.8311505704099822,Medium,1
+Startup 487,Education,"Sneha Patel, Nidhi Verma, Pooja Verma",Pune,2023,99000000,4.21,Yes,"Namita Thapar, Ashneer Grover",71070012.0,3.61,1361762269.375,3,27929988,0.7178789090909091,Low,1
+Startup 488,Tech,"Tanya Sharma, Meera Singh, Rahul Verma",Delhi,2021,15400000,2.9,Yes,"Ashneer Grover, Ghazal Alagh",12133750.0,2.48,531034482.0,3,3266250,0.7879058441558442,Low,1
+Startup 489,Finance,"Meera Nair, Arjun Singh",Chennai,2025,44300000,23.35,No,No Deal,0.0,0.0,189721627.0,2,44300000,0.0,Medium,0
+Startup 490,Tech,"Karan Mehta, Pooja Chopra, Tanya Verma",Hyderabad,2022,19800000,20.74,Yes,Anupam Mittal,15590013.0,19.19,95467695.0,3,4209987,0.7873743939393939,Medium,1
+Startup 491,Finance,"Rahul Verma, Nidhi Chopra",Hyderabad,2024,12100000,3.51,No,No Deal,0.0,0.0,344729344.0,2,12100000,0.0,Low,0
+Startup 492,Education,"Pooja Verma, Pooja Kapoor, Sneha Singh",Mumbai,2023,5600000,2.15,Yes,Unknown,3378992.0,2.03,260465116.0,3,2221008,0.6033914285714286,Low,1
+Startup 493,Finance,"Ravi Sharma, Ravi Mehta, Amit Singh",Ahmedabad,2023,61000000,21.85,Yes,Peyush Bansal,47899791.0,25.22,279176201.0,3,13100209,0.785242475409836,Medium,1
+Startup 494,Tech,"Pooja Patel, Rahul Mehta, Ravi Nair",Pune,2023,81400000,4.15,No,No Deal,0.0,0.0,1361762269.375,3,81400000,0.0,Low,0
+Startup 495,Tech,Rahul Kapoor,Bangalore,2023,10600000,11.92,Yes,Aman Gupta,7044643.0,10.87,88926174.0,1,3555357,0.664588962264151,Medium,1
+Startup 496,Travel,"Sneha Sharma, Rahul Gupta",Chennai,2023,27200000,19.32,No,No Deal,0.0,0.0,140786749.0,2,27200000,0.0,Medium,0
+Startup 497,Food & Beverage,Tanya Gupta,Mumbai,2021,88900000,7.88,No,No Deal,0.0,0.0,1128172588.0,1,88900000,0.0,Low,0
+Startup 498,Tech,Karan Gupta,Bangalore,2021,48700000,12.24,No,No Deal,0.0,0.0,397875816.0,1,48700000,0.0,Medium,0
+Startup 499,Tech,Rahul Sharma,Ahmedabad,2022,21400000,10.64,Yes,"Anupam Mittal, Ashneer Grover, Ghazal Alagh",13818634.0,10.45,201127819.0,1,7581366,0.6457305607476636,Medium,1
+Startup 500,E-Commerce,Meera Mehta,Hyderabad,2021,59100000,1.75,No,No Deal,0.0,0.0,1361762269.375,1,59100000,0.0,Low,0
+Startup 501,Fashion,"Rahul Sharma, Rahul Sharma",Chennai,2022,9300000,8.16,No,No Deal,0.0,0.0,113970588.0,2,9300000,0.0,Low,0
+Startup 502,Finance,"Pooja Kapoor, Rahul Verma, Sneha Chopra",Pune,2024,17800000,5.77,No,No Deal,0.0,0.0,308492201.0,3,17800000,0.0,Low,0
+Startup 503,Travel,Rahul Gupta,Delhi,2023,89500000,8.59,No,No Deal,0.0,0.0,1041909196.0,1,89500000,0.0,Low,0
+Startup 504,Fashion,"Amit Gupta, Rahul Gupta, Tanya Sharma",Mumbai,2025,77300000,24.5,No,No Deal,0.0,0.0,315510204.0,3,77300000,0.0,Medium,0
+Startup 505,E-Commerce,Tanya Chopra,Hyderabad,2021,22400000,23.86,Yes,"Aman Gupta, Namita Thapar",21474028.0,23.88,93880972.0,1,925972,0.9586619642857143,Medium,1
+Startup 506,Tech,"Meera Gupta, Karan Chopra, Nidhi Reddy",Ahmedabad,2021,12600000,23.23,No,No Deal,0.0,0.0,54240206.0,3,12600000,0.0,Medium,0
+Startup 507,Finance,"Rahul Nair, Tanya Mehta",Ahmedabad,2022,30100000,21.28,No,No Deal,0.0,0.0,141447368.0,2,30100000,0.0,Medium,0
+Startup 508,Health,"Pooja Nair, Arjun Kapoor",Chennai,2024,86800000,22.66,No,No Deal,0.0,0.0,383053839.0,2,86800000,0.0,Medium,0
+Startup 509,Travel,Tanya Chopra,Hyderabad,2022,20700000,15.79,No,No Deal,0.0,0.0,131095630.0,1,20700000,0.0,Medium,0
+Startup 510,Health,"Karan Mehta, Karan Mehta, Karan Reddy",Delhi,2022,24600000,3.39,Yes,"Anupam Mittal, Ashneer Grover, Ghazal Alagh",20973380.0,3.78,725663716.0,3,3626620,0.8525764227642276,Low,1
+Startup 511,Food & Beverage,"Nidhi Mehta, Pooja Patel",Chennai,2025,55800000,21.17,No,No Deal,0.0,0.0,263580538.0,2,55800000,0.0,Medium,0
+Startup 512,Agriculture,"Tanya Nair, Amit Mehta, Ravi Kapoor",Bangalore,2025,63000000,1.71,Yes,"Aman Gupta, Namita Thapar",56976216.0,1.52,1361762269.375,3,6023784,0.9043843809523809,Low,1
+Startup 513,Fashion,"Meera Chopra, Ravi Chopra",Hyderabad,2024,18700000,5.75,No,No Deal,0.0,0.0,325217391.0,2,18700000,0.0,Low,0
+Startup 514,Finance,"Karan Singh, Arjun Reddy",Bangalore,2022,44900000,5.79,No,No Deal,0.0,0.0,775474956.0,2,44900000,0.0,Low,0
+Startup 515,Travel,"Sneha Gupta, Rahul Verma, Ravi Kapoor",Ahmedabad,2024,62800000,20.84,No,No Deal,0.0,0.0,301343570.0,3,62800000,0.0,Medium,0
+Startup 516,Finance,Sneha Mehta,Pune,2022,81900000,5.46,Yes,"Namita Thapar, Ghazal Alagh, Ashneer Grover",74676896.0,4.64,1361762269.375,1,7223104,0.911805811965812,Low,1
+Startup 517,Entertainment,"Sneha Singh, Karan Chopra, Nidhi Reddy",Hyderabad,2025,6000000,20.27,No,No Deal,0.0,0.0,29600394.0,3,6000000,0.0,Medium,0
+Startup 518,Health,"Karan Sharma, Sneha Gupta",Delhi,2021,61500000,10.19,Yes,"Ghazal Alagh, Vineeta Singh, Aman Gupta",59326421.0,9.31,603532875.0,2,2173579,0.9646572520325203,Medium,1
+Startup 519,Finance,Ravi Nair,Mumbai,2021,67000000,1.39,No,No Deal,0.0,0.0,1361762269.375,1,67000000,0.0,Low,0
+Startup 520,Entertainment,Karan Kapoor,Kolkata,2023,87900000,16.39,Yes,Unknown,85709664.0,13.79,536302623.0,1,2190336,0.9750815017064847,Medium,1
+Startup 521,Education,Amit Mehta,Bangalore,2021,89200000,17.5,No,No Deal,0.0,0.0,509714285.0,1,89200000,0.0,Medium,0
+Startup 522,Fashion,"Tanya Chopra, Arjun Mehta",Delhi,2023,13200000,4.03,Yes,"Peyush Bansal, Vineeta Singh, Anupam Mittal",12607575.0,4.78,327543424.0,2,592425,0.9551193181818182,Low,1
+Startup 523,Finance,"Meera Sharma, Ravi Nair, Pooja Singh",Kolkata,2023,29700000,8.73,No,No Deal,0.0,0.0,340206185.0,3,29700000,0.0,Low,0
+Startup 524,Education,Arjun Kapoor,Bangalore,2021,58100000,21.05,Yes,Unknown,51947634.0,18.57,276009501.0,1,6152366,0.8941072977624784,Medium,1
+Startup 525,Education,"Sneha Reddy, Pooja Singh",Pune,2024,73500000,11.9,Yes,Unknown,47206417.0,10.14,617647058.0,2,26293583,0.6422641768707483,Medium,1
+Startup 526,Travel,"Meera Singh, Ravi Patel",Ahmedabad,2025,8000000,7.67,Yes,Unknown,7844782.0,7.91,104302477.0,2,155218,0.98059775,Low,1
+Startup 527,Tech,Meera Sharma,Bangalore,2025,2600000,22.46,Yes,"Peyush Bansal, Vineeta Singh",2030746.0,20.35,11576135.0,1,569254,0.7810561538461539,Medium,1
+Startup 528,Health,"Arjun Reddy, Sneha Verma",Ahmedabad,2022,20800000,8.06,No,No Deal,0.0,0.0,258064516.0,2,20800000,0.0,Low,0
+Startup 529,E-Commerce,Arjun Patel,Ahmedabad,2022,41200000,3.43,No,No Deal,0.0,0.0,1201166180.0,1,41200000,0.0,Low,0
+Startup 530,Agriculture,Rahul Patel,Pune,2024,73200000,15.31,Yes,"Peyush Bansal, Vineeta Singh, Anupam Mittal",65560577.0,17.47,478118876.0,1,7639423,0.8956362978142076,Medium,1
+Startup 531,Education,"Ravi Mehta, Rahul Sharma, Sneha Kapoor",Pune,2023,51200000,18.64,No,No Deal,0.0,0.0,274678111.0,3,51200000,0.0,Medium,0
+Startup 532,Agriculture,"Nidhi Gupta, Amit Reddy",Chennai,2021,92200000,13.43,No,No Deal,0.0,0.0,686522710.0,2,92200000,0.0,Medium,0
+Startup 533,Entertainment,Karan Gupta,Pune,2024,12200000,24.27,No,No Deal,0.0,0.0,50267820.0,1,12200000,0.0,Medium,0
+Startup 534,Food & Beverage,"Rahul Nair, Arjun Singh",Delhi,2024,50800000,7.92,No,No Deal,0.0,0.0,641414141.0,2,50800000,0.0,Low,0
+Startup 535,Entertainment,"Rahul Singh, Karan Reddy",Delhi,2025,26600000,4.26,Yes,Namita Thapar,21989316.0,4.48,624413145.0,2,4610684,0.826666015037594,Low,1
+Startup 536,E-Commerce,"Nidhi Gupta, Nidhi Chopra, Meera Chopra",Ahmedabad,2023,3800000,22.9,Yes,Unknown,2919796.0,25.24,16593886.0,3,880204,0.7683673684210526,Medium,1
+Startup 537,Entertainment,"Pooja Singh, Ravi Reddy",Delhi,2024,6400000,19.13,No,No Deal,0.0,0.0,33455305.0,2,6400000,0.0,Medium,0
+Startup 538,Travel,Sneha Singh,Mumbai,2025,53800000,4.46,No,No Deal,0.0,0.0,1206278026.0,1,53800000,0.0,Low,0
+Startup 539,Tech,"Meera Reddy, Arjun Chopra, Karan Sharma",Kolkata,2022,84300000,11.2,Yes,Vineeta Singh,63711559.0,11.56,752678571.0,3,20588441,0.7557717556346382,Medium,1
+Startup 540,Health,"Tanya Gupta, Amit Reddy, Rahul Gupta",Kolkata,2024,1900000,24.56,No,No Deal,0.0,0.0,7736156.0,3,1900000,0.0,Medium,0
+Startup 541,Agriculture,"Rahul Kapoor, Arjun Chopra, Sneha Gupta",Ahmedabad,2023,63000000,16.82,No,No Deal,0.0,0.0,374554102.0,3,63000000,0.0,Medium,0
+Startup 542,Food & Beverage,"Sneha Gupta, Karan Mehta",Hyderabad,2025,26800000,12.79,No,No Deal,0.0,0.0,209538702.0,2,26800000,0.0,Medium,0
+Startup 543,E-Commerce,Nidhi Mehta,Kolkata,2025,86200000,5.98,No,No Deal,0.0,0.0,1361762269.375,1,86200000,0.0,Low,0
+Startup 544,E-Commerce,"Nidhi Singh, Ravi Mehta",Bangalore,2023,44700000,16.01,Yes,Namita Thapar,29094199.0,16.12,279200499.0,2,15605801,0.6508769351230425,Medium,1
+Startup 545,Tech,Meera Patel,Mumbai,2021,3300000,6.38,No,No Deal,0.0,0.0,51724137.0,1,3300000,0.0,Low,0
+Startup 546,Fashion,"Nidhi Sharma, Rahul Kapoor",Bangalore,2025,88300000,13.43,No,No Deal,0.0,0.0,657483246.0,2,88300000,0.0,Medium,0
+Startup 547,Travel,"Amit Patel, Meera Sharma, Tanya Singh",Mumbai,2021,8200000,23.8,Yes,Unknown,6490370.0,20.27,34453781.0,3,1709630,0.7915085365853659,Medium,1
+Startup 548,Health,Amit Gupta,Hyderabad,2021,45100000,12.46,Yes,Aman Gupta,41015982.0,14.01,361958266.0,1,4084018,0.9094452771618625,Medium,1
+Startup 549,Fashion,Pooja Mehta,Hyderabad,2024,76900000,14.27,Yes,Aman Gupta,76220502.0,15.4,538892782.0,1,679498,0.9911638751625488,Medium,1
+Startup 550,Agriculture,Amit Gupta,Mumbai,2024,29400000,15.12,No,No Deal,0.0,0.0,194444444.0,1,29400000,0.0,Medium,0
+Startup 551,Tech,Arjun Singh,Ahmedabad,2023,2900000,21.71,No,No Deal,0.0,0.0,13357899.0,1,2900000,0.0,Medium,0
+Startup 552,Health,"Nidhi Kapoor, Tanya Patel, Amit Reddy",Ahmedabad,2022,81100000,18.5,Yes,Unknown,66608862.0,21.85,438378378.0,3,14491138,0.8213176572133168,Medium,1
+Startup 553,Fashion,"Meera Chopra, Tanya Singh, Ravi Kapoor",Delhi,2022,48800000,18.9,Yes,Namita Thapar,44887975.0,22.31,258201058.0,3,3912025,0.9198355532786885,Medium,1
+Startup 554,Tech,Ravi Kapoor,Pune,2022,4900000,15.77,No,No Deal,0.0,0.0,31071655.0,1,4900000,0.0,Medium,0
+Startup 555,Fashion,"Arjun Singh, Amit Sharma, Arjun Singh",Pune,2024,87700000,5.29,No,No Deal,0.0,0.0,1361762269.375,3,87700000,0.0,Low,0
+Startup 556,Health,"Amit Gupta, Amit Reddy",Kolkata,2025,42800000,2.41,Yes,"Vineeta Singh, Namita Thapar, Aman Gupta",33220324.0,2.18,1361762269.375,2,9579676,0.7761757943925234,Low,1
+Startup 557,Education,Arjun Kapoor,Mumbai,2021,56300000,18.24,Yes,Vineeta Singh,43774661.0,18.32,308662280.0,1,12525339,0.7775250621669627,Medium,1
+Startup 558,Education,Nidhi Singh,Pune,2022,8300000,16.41,No,No Deal,0.0,0.0,50578915.0,1,8300000,0.0,Medium,0
+Startup 559,Food & Beverage,Nidhi Singh,Pune,2021,42700000,22.54,No,No Deal,0.0,0.0,189440993.0,1,42700000,0.0,Medium,0
+Startup 560,Agriculture,"Tanya Verma, Rahul Reddy",Mumbai,2024,96200000,4.6,Yes,Ghazal Alagh,69768309.0,5.0,1361762269.375,2,26431691,0.7252422972972973,Low,1
+Startup 561,Finance,"Sneha Nair, Amit Singh, Meera Nair",Kolkata,2021,28500000,5.68,No,No Deal,0.0,0.0,501760563.0,3,28500000,0.0,Low,0
+Startup 562,Travel,Nidhi Nair,Bangalore,2021,67900000,12.62,Yes,"Ashneer Grover, Vineeta Singh",63223621.0,15.08,538034865.0,1,4676379,0.931128438880707,Medium,1
+Startup 563,E-Commerce,Karan Singh,Delhi,2024,82400000,7.89,No,No Deal,0.0,0.0,1044359949.0,1,82400000,0.0,Low,0
+Startup 564,Tech,Karan Chopra,Delhi,2023,65700000,22.15,Yes,Unknown,62451941.0,17.86,296613995.0,1,3248059,0.9505622678843226,Medium,1
+Startup 565,Finance,"Nidhi Mehta, Karan Nair",Hyderabad,2024,13100000,9.08,No,No Deal,0.0,0.0,144273127.0,2,13100000,0.0,Low,0
+Startup 566,Entertainment,"Tanya Sharma, Amit Sharma, Nidhi Gupta",Ahmedabad,2023,76800000,21.04,No,No Deal,0.0,0.0,365019011.0,3,76800000,0.0,Medium,0
+Startup 567,Agriculture,"Rahul Mehta, Tanya Nair, Sneha Mehta",Mumbai,2021,70000000,16.59,No,No Deal,0.0,0.0,421940928.0,3,70000000,0.0,Medium,0
+Startup 568,Travel,"Rahul Nair, Tanya Kapoor",Bangalore,2025,31400000,12.84,Yes,Namita Thapar,30110108.0,13.25,244548286.0,2,1289892,0.9589206369426752,Medium,1
+Startup 569,Food & Beverage,Arjun Kapoor,Kolkata,2023,23900000,22.25,No,No Deal,0.0,0.0,107415730.0,1,23900000,0.0,Medium,0
+Startup 570,Fashion,"Sneha Reddy, Sneha Patel, Sneha Reddy",Delhi,2021,29200000,11.88,Yes,Unknown,21196979.0,13.9,245791245.0,3,8003021,0.7259239383561644,Medium,1
+Startup 571,Entertainment,"Tanya Patel, Nidhi Gupta",Delhi,2024,87000000,6.57,No,No Deal,0.0,0.0,1324200913.0,2,87000000,0.0,Low,0
+Startup 572,Agriculture,"Karan Singh, Nidhi Nair",Kolkata,2024,10800000,6.25,No,No Deal,0.0,0.0,172800000.0,2,10800000,0.0,Low,0
+Startup 573,Finance,"Nidhi Patel, Karan Sharma",Delhi,2023,98900000,8.65,Yes,"Peyush Bansal, Ashneer Grover",86948503.75,8.59,1143352601.0,2,8953149,0.9094727098078867,Low,1
+Startup 574,Agriculture,"Karan Patel, Amit Kapoor, Arjun Nair",Hyderabad,2022,7200000,14.49,No,No Deal,0.0,0.0,49689440.0,3,7200000,0.0,Medium,0
+Startup 575,Education,Amit Verma,Bangalore,2022,82000000,12.64,Yes,Ashneer Grover,69915020.0,13.59,648734177.0,1,12084980,0.8526221951219513,Medium,1
+Startup 576,Education,"Arjun Reddy, Karan Nair, Amit Kapoor",Chennai,2023,21700000,3.39,No,No Deal,0.0,0.0,640117994.0,3,21700000,0.0,Low,0
+Startup 577,Finance,"Karan Sharma, Pooja Chopra",Chennai,2023,30100000,22.78,Yes,"Peyush Bansal, Anupam Mittal",29515546.0,25.17,132133450.0,2,584454,0.9805829235880399,Medium,1
+Startup 578,Tech,"Pooja Singh, Amit Chopra",Hyderabad,2023,38800000,12.44,Yes,Unknown,28439398.0,13.98,311897106.0,2,10360602,0.732974175257732,Medium,1
+Startup 579,Tech,Ravi Mehta,Hyderabad,2023,61700000,7.0,Yes,"Vineeta Singh, Peyush Bansal",57742562.0,7.73,881428571.0,1,3957438,0.93586,Low,1
+Startup 580,Health,"Pooja Nair, Meera Nair",Kolkata,2021,99200000,16.65,No,No Deal,0.0,0.0,595795795.0,2,99200000,0.0,Medium,0
+Startup 581,Agriculture,"Meera Nair, Ravi Sharma, Sneha Chopra",Bangalore,2022,14000000,19.17,Yes,Unknown,9080275.0,16.85,73030777.0,3,4919725,0.6485910714285714,Medium,1
+Startup 582,Tech,Karan Gupta,Delhi,2023,15300000,18.98,No,No Deal,0.0,0.0,80611169.0,1,15300000,0.0,Medium,0
+Startup 583,Finance,Arjun Sharma,Ahmedabad,2024,74700000,23.13,No,No Deal,0.0,0.0,322957198.0,1,74700000,0.0,Medium,0
+Startup 584,E-Commerce,"Tanya Reddy, Tanya Mehta",Delhi,2024,54500000,17.44,No,No Deal,0.0,0.0,312500000.0,2,54500000,0.0,Medium,0
+Startup 585,E-Commerce,"Arjun Gupta, Meera Patel, Nidhi Mehta",Delhi,2023,2000000,8.62,Yes,Aman Gupta,1449472.0,7.54,23201856.0,3,550528,0.724736,Low,1
+Startup 586,Finance,"Tanya Singh, Tanya Kapoor",Kolkata,2025,18200000,1.06,Yes,Unknown,11584942.0,1.19,1361762269.375,2,6615058,0.6365352747252747,Low,1
+Startup 587,Food & Beverage,Rahul Gupta,Mumbai,2021,8900000,22.5,Yes,"Anupam Mittal, Peyush Bansal",7019213.0,20.72,39555555.0,1,1880787,0.788675617977528,Medium,1
+Startup 588,Tech,Ravi Chopra,Ahmedabad,2022,73300000,12.39,No,No Deal,0.0,0.0,591606133.0,1,73300000,0.0,Medium,0
+Startup 589,E-Commerce,"Ravi Sharma, Tanya Patel",Delhi,2024,73800000,4.43,No,No Deal,0.0,0.0,1361762269.375,2,73800000,0.0,Low,0
+Startup 590,E-Commerce,"Meera Kapoor, Sneha Nair",Ahmedabad,2021,19200000,1.61,No,No Deal,0.0,0.0,1192546583.0,2,19200000,0.0,Low,0
+Startup 591,Agriculture,"Nidhi Chopra, Pooja Singh, Ravi Patel",Ahmedabad,2021,19300000,23.4,Yes,"Vineeta Singh, Ashneer Grover",11623344.0,21.63,82478632.0,3,7676656,0.6022458031088083,Medium,1
+Startup 592,Entertainment,"Meera Gupta, Rahul Gupta, Ravi Sharma",Mumbai,2021,3900000,15.71,Yes,Aman Gupta,2615975.0,17.92,24824952.0,3,1284025,0.6707628205128205,Medium,1
+Startup 593,Fashion,"Pooja Nair, Karan Mehta, Amit Kapoor",Chennai,2021,13000000,9.19,Yes,Aman Gupta,10207627.0,7.78,141458106.0,3,2792373,0.785202076923077,Low,1
+Startup 594,Fashion,"Pooja Mehta, Arjun Verma, Karan Kapoor",Delhi,2024,15300000,14.56,No,No Deal,0.0,0.0,105082417.0,3,15300000,0.0,Medium,0
+Startup 595,Education,Arjun Patel,Delhi,2024,27500000,17.74,No,No Deal,0.0,0.0,155016910.0,1,27500000,0.0,Medium,0
+Startup 596,Food & Beverage,"Tanya Patel, Karan Reddy, Arjun Patel",Pune,2024,10200000,13.32,Yes,"Namita Thapar, Aman Gupta",9881431.0,13.41,76576576.0,3,318569,0.9687677450980392,Medium,1
+Startup 597,Food & Beverage,"Rahul Gupta, Tanya Reddy",Pune,2022,68400000,15.12,Yes,Peyush Bansal,50859070.0,17.55,452380952.0,2,17540930,0.7435536549707602,Medium,1
+Startup 598,Food & Beverage,"Meera Reddy, Nidhi Sharma",Delhi,2021,32300000,4.91,Yes,Unknown,25051992.0,5.14,657841140.0,2,7248008,0.7756034674922601,Low,1
+Startup 599,Entertainment,"Karan Chopra, Meera Patel, Arjun Reddy",Pune,2023,70400000,10.63,Yes,Unknown,66948505.0,11.75,662276575.0,3,3451495,0.9509730823863637,Medium,1
+Startup 600,E-Commerce,Karan Chopra,Chennai,2022,61700000,1.69,Yes,Unknown,58901170.0,2.0,1361762269.375,1,2798830,0.9546380875202594,Low,1
+Startup 601,E-Commerce,Tanya Mehta,Delhi,2021,81700000,24.04,Yes,Ghazal Alagh,60330628.0,23.04,339850249.0,1,21369372,0.7384409791921664,Medium,1
+Startup 602,Agriculture,Rahul Patel,Delhi,2024,32400000,2.93,Yes,Unknown,25097673.0,3.19,1105802047.0,1,7302327,0.774619537037037,Low,1
+Startup 603,Food & Beverage,"Ravi Reddy, Amit Gupta, Rahul Reddy",Bangalore,2023,57300000,17.48,Yes,Unknown,49700572.0,19.8,327803203.0,3,7599428,0.8673747294938918,Medium,1
+Startup 604,Finance,"Karan Nair, Sneha Reddy, Meera Singh",Mumbai,2025,91600000,15.6,Yes,"Vineeta Singh, Aman Gupta",77331157.0,17.17,587179487.0,3,14268843,0.8442266048034934,Medium,1
+Startup 605,Tech,"Pooja Mehta, Meera Patel, Amit Patel",Chennai,2022,10500000,9.15,Yes,"Namita Thapar, Anupam Mittal",9136146.0,9.08,114754098.0,3,1363854,0.8701091428571428,Low,1
+Startup 606,Fashion,"Rahul Mehta, Karan Nair",Bangalore,2023,83500000,2.98,Yes,Unknown,63609416.0,3.35,1361762269.375,2,19890584,0.7617894131736527,Low,1
